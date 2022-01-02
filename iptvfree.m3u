@@ -39,17 +39,51 @@ https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UC
 https://60ed5b6d0df78.streamlock.net:1936/tv1/tv1/playlist.m3u8
 #EXTINF:-1 tvg-id="TELESISTEMACANAL9.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="http://mastelevisioncr.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-02-at-12.42.47-300x300.jpeg" group-title="Local MX",Canal 9.1 TeleSistema HDTV
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cortv.com.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Cortv_Logook.png/200px-Cortv_Logook.png" group-title="Local MX",Canal 9.1 OAXACA HDTV
+#EXTVLCOPT:network-caching=1000
+https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rtq.mx/wp-content/uploads/2020/07/rtq-trans.png" group-title="Local MX",Canal 10 RTQ Queretaro Mexico XHSECE HDTV
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1 tvg-id="Noticias.Canal10.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/y4akKrD.png" group-title="Local MX",Canal 10.1 Noticias HDTV
+#EXTVLCOPT:network-caching=1000
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://openapis.col.gob.mx/API_PU/img/logomin.jpg" group-title="Local MX",Canal 12.1 Colima HDTV
+#EXTVLCOPT:network-caching=1000 
 http://190.122.96.187:8888/http/002
+#EXTINF:31 tvg-id="" tvg-name="tvg-logo="https://secureservercdn.net/45.40.147.116/d9c.894.myftpupload.com/wp-content/uploads/2020/06/WEB-MAIN-LOGOS-2020.png" group-title="Local MX",Canal 12 Televis Californias (XETW-TDT)
+#EXTVLCOPT:network-caching=1000
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://openapis.col.gob.mx/API_PU/img/logomin.jpg" group-title="Local MX",Canal 12.1 Colima TV 
+#EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-id="CanalCatorce.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="http://www.canalcatorce.tv/img/template/logo_main_nav_c14.svg" group-title="Local MX",Canal 14.1 Ciudad de Mexico HDTV
+#EXTVLCOPT:network-caching=1000
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Capital21.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/P1pHy3j.jpg" group-title="Local MX",Canal 21.1 Capital21 Mexico HDTV
+#EXTVLCOPT:network-caching=1000
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sizart.org.mx/images/demo/bottom-logo.png" group-title="Local MX",Canal 24 Sizart Zacatecas HDTV
+#EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="Local MX",Canal 26.1 TVMAS Veracruz,Mexico HDTV https://5ca9af4645e15.streamlock.net:443/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="Local MX",Canal 26.1 TVMAS Veracruz Mexico HDTV 
+#EXTVLCOPT:network-caching=1000
+https://5ca9af4645e15.streamlock.net:443/rtv/videortv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Canal28.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lr4MZFg.png" group-title="Local MX",Canal 28.1 Chihuahua HDTV
+#EXTVLCOPT:network-caching=1000 
+https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8
+
+
 #EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" group-title="Local MX",Canal 33.1 TvEducativa(XEWH-TDT) HDTV
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://noticiasnrt.com/wp-content/themes/nrt_theme-main/img/logo.png" group-title="Local MX",Canal 34 NRT Mexico HDTV
@@ -58,6 +92,24 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Local MX",Canal 34.2 AMX Noticias HDTV 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="Local MX",Canal 40.1 ADN40 HDTV
+#EXTVLCOPT:network-caching=1000 
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="Canal44.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Local MX",Canal 44.1 Chihuahua HDTV
+#EXTVLCOPT:network-caching=1000
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="Music",ConectaTV Chihuahua HDTV
+#EXTVLCOPT:network-caching=1000
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="MVMNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rieBDBi.png" group-title="Local MX",MVMN Noticias Oaxaca HDTV
 https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
@@ -192,38 +244,32 @@ http://45.179.140.242:8000/play/a0ht
 
 #EXTINF:-1 tvg-id="TV.Unam.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OxxROZI.png" group-title="",TV Unam MEXICO HDTV
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="Noticias.Canal10.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/y4akKrD.png" group-title="NEWS",Canal 10.1 Noticias HDTV
-https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CanalMundoPlus.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9BtSyV2.png" group-title="Local",Canal Mundo+ HD TV
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="",Hipódromo de las Américas HD Tv
 http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalCatorce.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="http://www.canalcatorce.tv/img/template/logo_main_nav_c14.svg" group-title="Local",Canal 14.1 Ciudad de Mexico HDTV
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal44.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Local",Canal 44.1 Ciudad Juárez HDTV 
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg" group-title="Local",Canal 10 Cancún HDTV
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="Music",Conecta TV HD Tv
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal28.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lr4MZFg.png" group-title="Local",Canal 28.1 Chihuahua HDTV
-https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8
+
+
 #EXTINF:-1 tvg-id="TVLobo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XZ8GmZW.png" group-title="",TV Lobo DURANGO HDTV
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPObregon.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="",TVP Obregón HDTV
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Local",Azteca Uno Honduras(XHJK-TDT)
 http://190.122.96.187:8888/http/002
-#EXTINF:-1 tvg-id="Canal44.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Local",Canal 44.1 Chihuahua HDTV
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal8CostaRica.mx" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://www.telediario.cr/bundles/appcamusassets/images/logo-canal8.svg" group-title="",Canal 8 Costa Rica HDTV 
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="Local",ADN 40.1 HDTV
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IjE1ORI.png" group-title="Local",Mexiquense 34.1 TV HDTV
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-
 
 #EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://i.imgur.com/brlepuX.png" group-title="Paraguay",Unicanal HDTV
 http://45.55.127.106/live/unicanal.m3u8
