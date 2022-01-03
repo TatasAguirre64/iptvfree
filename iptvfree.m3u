@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://si.cultura.cr/sites/default/files/styles/thumbnail_fichas_eventos_gallery_105x70/public/hbtv_ticavision.jpg?itok=5c8sWiUG" group-title="Local",54 TicaVisión HDTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://si.cultura.cr/sites/default/files/styles/thumbnail_fichas_eventos_gallery_105x70/public/hbtv_ticavision.jpg?itok=5c8sWiUG" group-title="Local" audio-track="spa",Canal 54.1 TicaVisión HDTV
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-name="wowtv.com" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="spanish",100 Channel WowTV HDTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
@@ -26,6 +26,8 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-name="RCG 3 Saltillo" tvg-logo="https://i.imgur.com/NefH5qZ.png" group-title="Local MX",Canal 3.1 RCG Saltillo HDTV
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",115 Canal 4 TeleDiario Television HDTV
@@ -37,10 +39,15 @@ https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bing.com/th?id=AMMS_76d226f2612cd071c95b648e247d37eb&w=110&h=110&c=7&rs=1&qlt=95&pcl=f9f9f9&o=6&cdv=1&pid=16.1" group-title="Local MX",Canal 8 Baja California Sur XHBZC-TDT HDTV
 https://60ed5b6d0df78.streamlock.net:1936/tv1/tv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 4 Saltillo HDTV
+#EXTVLCOPT:network-caching=1000
+https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8"
+
 #EXTINF:-1 tvg-id="TELESISTEMACANAL9.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="http://mastelevisioncr.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-02-at-12.42.47-300x300.jpeg" group-title="Local MX",Canal 9.1 TeleSistema HDTV
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cortv.com.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Cortv_Logook.png/200px-Cortv_Logook.png" group-title="Local MX",Canal 9.1 OAXACA HDTV
+#EXTINF:-1 tvg-id="Cortv.com.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvguanajuato.com/envivo/images/LOGO-300x120.png" group-title="Local MX",Canal 8.1 Guanajuato HDTV
 #EXTVLCOPT:network-caching=1000
 https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 
@@ -50,6 +57,23 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 tvg-id="Noticias.Canal10.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/y4akKrD.png" group-title="Local MX",Canal 10.1 Noticias HDTV
 #EXTVLCOPT:network-caching=1000
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvmar.tv" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="Local MX",Canal 10.1 TVMar Jalisco HDTV
+#EXTVLCOPT:network-caching=1000
+https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/smil:tvmarvallarta.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvmar.tv" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="Local MX",Canal 10.1 TVMar Los Cabos HDTV
+#EXTVLCOPT:network-caching=1000
+https://5ca3e84a76d30.streamlock.net:443/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="tvmar.tv" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="Local MX",Canal 10.1 TVMar La Paz HDTV
+#EXTVLCOPT:network-caching=1000
+https://5ca3e84a76d30.streamlock.net:443/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://openapis.col.gob.mx/API_PU/img/logomin.jpg" group-title="Local MX",Canal 12.1 Colima HDTV
 #EXTVLCOPT:network-caching=1000 
@@ -71,27 +95,50 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 #EXTINF:-1 tvg-id="Capital21.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/P1pHy3j.jpg" group-title="Local MX",Canal 21.1 Capital21 Mexico HDTV
 #EXTVLCOPT:network-caching=1000
 https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sizart.org.mx/images/demo/bottom-logo.png" group-title="Local MX",Canal 24 Sizart Zacatecas HDTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sizart.org.mx/images/demo/bottom-logo.png" group-title="Local MX",Canal 24 Zacatecas HDTV
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sizart.org.mx/images/demo/bottom-logo.png" group-title="Local MX",Canal 24 Sizart Zacatecas HDTV
+#EXTVLCOPT:network-caching=1000
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/chunklist_w1464674732.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="Local MX",Canal 26.1 TVMAS Veracruz Mexico HDTV 
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net:443/rtv/videortv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SetPuebla.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/osgOMAu.png" group-title="Local MX",Canal 26.1 SET Televisión HDTV
+#EXTVLCOPT:network-caching=1000 
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal28.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lr4MZFg.png" group-title="Local MX",Canal 28.1 Chihuahua HDTV
 #EXTVLCOPT:network-caching=1000 
 https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8
 
+#EXTINF:-1 tvg-id="644" tvg-name="" tvg-logo="https://www.m3u.cl/logo/644_Canal_28_Nuevo_Leon.png",Canal 28 Nuevo Leon HDTV
+#EXTVLCOPT:network-caching=1000 
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="644" tvg-name="" tvg-logo="https://srtvnl.com/wp-content/uploads/2020/03/Logo_Canal28_2020_png.png",Canal 28 Nuevo Leon HDTV
+#EXTVLCOPT:network-caching=1000 
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" group-title="Local MX",Canal 33.1 TvEducativa(XEWH-TDT) HDTV
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://noticiasnrt.com/wp-content/themes/nrt_theme-main/img/logo.png" group-title="Local MX",Canal 34 NRT Mexico HDTV
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/zh05BZ3.jpeg" group-title="Local MX",Canal 34.1 Mexiquense HDTV
+#EXTINF:-1 tvg-country="MX" tvg-logo="https://i.imgur.com/zh05BZ3.jpeg" group-title="Local MX",Canal 34.1 Mexiquense HDTV
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Local MX",Canal 34.2 AMX Noticias HDTV 
+
+
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Local MX",Canal 34.2 AMX Noticias East HDTV 
+#EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://www.m3u.cl/logo/1042_AMX_Noticias.png",Canal 34.2 AMX Noticias Est HDTV
+#EXTVLCOPT:network-caching=1000
+https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="Local MX",Canal 40.1 ADN40 HDTV
 #EXTVLCOPT:network-caching=1000 
@@ -101,9 +148,15 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="Music",ConectaTV Chihuahua HDTV
+#EXTINF:-1 tvg-id="806" tvg-name="HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png" group-title="Local MX",Canal 45.1 HispanTV 
 #EXTVLCOPT:network-caching=1000
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-id="Canal66.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.canal66.tv/wp-content/uploads/2021/09/TOP-66LOGO.png" group-title="Local MX",Canal 66.1 Mexicali HDTV
+#EXTVLCOPT:network-caching=1000
+https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjIgMTA6MjA6MzEgUE0maGFzaF92YWx1ZT1xK3BrYVVKVUVKRE5qcEkyT01JVCtnPT0mdmFsaWRtaW51dGVzPTUmaWQ9"
 
 
 
@@ -125,18 +178,46 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="Music",ConectaTV Chihuahua HDTV
+#EXTVLCOPT:network-caching=1000
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Music TV",Channel 1Mus HDTV
+#EXTVLCOPT:network-caching=1000
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-name="Retro Music Television ?" tvg-logo="https://i.imgur.com/a6S2Yo4.png" group-title="Muisc TV",Retro Music Television HDTV
+
+#EXTINF:-1 tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png" group-title="Music TV",Zapping Music | Chille HDTV
+#EXTVLCOPT:network-caching=1000
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png", Euro Indie Music | GreatBritish
+#EXTVLCOPT:network-caching=1000
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Retro Music Television ?" tvg-logo="https://i.imgur.com/a6S2Yo4.png" group-title="Muisc TV",Retro Music Television | HDTV
+#EXTVLCOPT:network-caching=1000
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music TV",CarolinaTV HDTV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music TV",CarolinaTV | HDTV
+#EXTVLCOPT:network-caching=1000
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music TV", RadioM20TV HDTV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music TV", RadioM20TV | HDTV
+#EXTVLCOPT:network-caching=1000
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music TV",MusicTOP HDTV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music TV",MusicTOP | HDTV
+#EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
 
+#EXTINF:-1 tvg-id="GenesisTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hMtKE60.png" group-title="CHURCH",Genesis TV HDTV
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MariaVisionMexico.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bLSCeSB.png" group-title="CHURCH",María Visión Mexico HDTV
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
+#EXTINF:-1 tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://www.m3u.cl/logo/865_Alcance_TV.png",Alcance TV HDTV
+#EXTVLCOPT:network-caching=1000 
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elgarage.com/" group-title="Local",Canal 110 Garage TV HDTV
@@ -217,8 +298,7 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TlaxcalaTelevisión.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6YKFW2G.png" group-title="Local",Tlaxcala Televisión HDTV
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
 
-#EXTINF:-1 tvg-id="SetPuebla.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/osgOMAu.png" group-title="Local",SET Televisión Canal 26.1 HDTV
-http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTQQueretaro.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H1AFRJh.png" group-title="Local",RTQ Queretaro HDTV
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 tvg-id="TransmediaTelevisionMorelia.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kpffqTI.png" group-title="",TMTV MORELIA HDTV
@@ -271,6 +351,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IjE1ORI.png" group-title="Local",Mexiquense 34.1 TV HDTV
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
+
 #EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://i.imgur.com/brlepuX.png" group-title="Paraguay",Unicanal HDTV
 http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-name="Trece" tvg-logo="https://i.imgur.com/9kcYqk2.png" group-title="Paraguay",Trece40 HDTV
@@ -279,10 +360,6 @@ https://stream.rpc.com.py/live/trece_src.m3u8
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
 
-#EXTINF:-1 tvg-id="GenesisTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hMtKE60.png" group-title="CHURCH",Genesis TV HDTV
-http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MariaVisionMexico.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bLSCeSB.png" group-title="CHURCH",María Visión Mexico HDTV
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
 
