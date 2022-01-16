@@ -169,6 +169,10 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 #EXTVLCOPT:network-caching=1000
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal A MAS+ MX | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:9001/televall2021/2_.m3u8?token=nkGb8FUfbSr5XM2shoy4oQ&expires=1642321761
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal AZTECA UNO MX | HD 
 #EXTVLCOPT:network-caching=1000
 http://iptvhd.club:8081/televall2021/493_.m3u8?token=nqCYD7bKYyIMx5ssv92RXg&expires=1642318126
@@ -189,13 +193,39 @@ http://iptvhd.club:8081/televall2021/495_.m3u8?token=bTzJu1jQWtMuJzvK0A9AgQ&expi
 #EXTVLCOPT:network-caching=1000
 https://regioplay.xyz/php/SR_REGIO_511022_/regio22dd.php?c=elnueve&k=SrRegio&f=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal Galavision TV MX | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:8081/televall2021/544_.m3u8?token=c5ISiOC9xTnoOhwQKcC8DQ&expires=1642321006
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal ImagenTV MX | HD 
 #EXTVLCOPT:network-caching=1000
 http://iptvhd.club:8081/televall2021/7_.m3u8?token=PWDXj7R4jnTWQSs38Ku0Ow&expires=1642320078
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal Telemundo MX | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:8081/televall2021/363_.m3u8?token=u96IkX8VoSeU9iNA2hlWfA&expires=1642321625
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 11 ONCE MX | HD 
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_511022_/regio22d.php?c=oncetvhd&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal STAR Action MX | HD 
 #EXTVLCOPT:network-caching=1000
 http://iptvhd.club:8081/televall2021/99_.m3u8?token=9de8SZ4WtwEF3DiNorgdAw&expires=1642320452
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal SPACE MX | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:8081/televall2021/544_.m3u8?token=c5ISiOC9xTnoOhwQKcC8DQ&expires=1642321006
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal Basket Americas TV MX | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:8081/televall2021/153_.m3u8?token=09Rokuv-wXWMedARbU23Ag&expires=1642321379
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal AyM Sports MX | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:8081/televall2021/711_.m3u8?token=3KAWICcuwORU1yYEQUmLTg&expires=1642321233
+
+
 
 
 
