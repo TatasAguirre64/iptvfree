@@ -169,6 +169,36 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 #EXTVLCOPT:network-caching=1000
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal TVE | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:9001/televall2021/40_.m3u8?token=OzwN1naePLF77877L1ovoQ&expires=1642324661
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal Star Tve | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:9001/televall2021/39_.m3u8?token=IH857nlrVI2o6p9GRk9vGA&expires=1642324562
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal A3 Series | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:9001/televall2021/343_.m3u8?token=SnwrF-EjPaFfIz8evd8FcQ&expires=1642324428
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal Antena 3 Internacional | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:9001/televall2021/583_.m3u8?token=PLAoWrUU3898rFoLZU2MRQ&expires=1642324259
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal Caracol | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:9001/televall2021/505_.m3u8?token=iugwAKnDXXMXgxLl5LgW2g&expires=1642324754
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal RCN TV | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:9001/televall2021/658_.m3u8?token=uqJF7E1UoyBVs9NEPNTDjQ&expires=1642324877
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal GLITZ TV | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:9001/televall2021/41_.m3u8?token=8-jajWwD89JH8M9uopQtZw&expires=1642325049
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal A MAS+ MX | HD 
 #EXTVLCOPT:network-caching=1000
 http://iptvhd.club:9001/televall2021/2_.m3u8?token=nkGb8FUfbSr5XM2shoy4oQ&expires=1642321761
@@ -201,13 +231,34 @@ http://iptvhd.club:8081/televall2021/544_.m3u8?token=c5ISiOC9xTnoOhwQKcC8DQ&expi
 #EXTVLCOPT:network-caching=1000
 http://iptvhd.club:8081/televall2021/7_.m3u8?token=PWDXj7R4jnTWQSs38Ku0Ow&expires=1642320078
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal MVS TV MX | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:9001/televall2021/19_.m3u8?token=qs9wEbCZ92nWhzFfhtItMQ&expires=1642324136
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal Telemundo MX | HD 
 #EXTVLCOPT:network-caching=1000
 http://iptvhd.club:8081/televall2021/363_.m3u8?token=u96IkX8VoSeU9iNA2hlWfA&expires=1642321625
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal Telemundo Internacional MX | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:9001/televall2021/42_.m3u8?token=c5-hKvqRu8Fha-4U-F5R-g&expires=1642325212
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal UNIMAS+ MX | HD 
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_511022_/regio22d.php?c=unimas&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 11 ONCE MX | HD 
 #EXTVLCOPT:network-caching=1000
 https://regioplay.xyz/php/SR_REGIO_511022_/regio22d.php?c=oncetvhd&k=SrRegio&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal UNICABLE MX | HD 
+#EXTVLCOPT:network-caching=1000
+http://iptvhd.club:9001/televall2021/753_.m3u8?token=V-OZHNgVNrGDDr6uymZHmw&expires=1642323970
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal Distrito Comedia MX | HD 
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_511022_/regio22d.php?c=distrito&k=SrRegio&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal STAR Action MX | HD 
 #EXTVLCOPT:network-caching=1000
@@ -224,12 +275,6 @@ http://iptvhd.club:8081/televall2021/153_.m3u8?token=09Rokuv-wXWMedARbU23Ag&expi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal AyM Sports MX | HD 
 #EXTVLCOPT:network-caching=1000
 http://iptvhd.club:8081/televall2021/711_.m3u8?token=3KAWICcuwORU1yYEQUmLTg&expires=1642321233
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="net.com" tvg-name="" tvg-logo="" group-title="Local MX",Canal NetTV PARAGUAY | HD
 #EXTVLCOPT:network-caching=1000
