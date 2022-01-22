@@ -1,103 +1,485 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/650_TVP_Obregon.png" group-title="Local MX",Canal 2 TVPacifico | HDTV
+#EXTINF:0,2 ABC Atlanta GA (WSB-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
+#EXTINF:0,2 ABC  Baton Rouge LA (WBRZ) (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:0,3 ABC Corpus Christi TX (KIII) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
+#EXTINF:60,4 ABC Pittsburg PA (WTAE) (720p)
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+#EXTINF:0,4 ABC Seattle WA (KOMO-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/KMGH-TV_Logo.png" group-title="NEWS USA",5 ABC Denver CO (KMGH)| HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1316390955189235714/WmOmZ_Ta_400x400.png" group-title="ABC USA",5 ABC Des Moines IA (WOI) | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WEWS-TV_-_News_Net_5_logo.png/800px-WEWS-TV_-_News_Net_5_logo.png" group-title="ABC USA",5 ABC Cleveland OH (WEWS-TV) | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.poncapost.com/wp-content/uploads/2018/07/koco-5-logo.jpg" group-title="ABC USA",5 ABC Oklahoma City OK (KOCO)| HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/WXYZ-TV_logo.svg/1200px-WXYZ-TV_logo.svg.png" group-title="NEWS USA",7 ABC Detroit MI (WXYZ-TV)| HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
+#EXTINF:0,7 ABC Washington DC (WJLA) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/KETV_Logo.png" group-title="NEWS USA",7 ABC Omaha NE (KETV) | HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/KABC-TV_logo.svg/1200px-KABC-TV_logo.svg.png" group-title="NEWS USA",7 ABC Los Angeles CA (KABC-TV)| HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCwatch.m3u8
+#EXTINF:0,8 ABC Dallas TX (WFAA) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
+#EXTINF:0,8 ABC Davenport IA (WQAD) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
+#EXTINF:60,9 ABC Kansas City MO (KMBC-TV) (576p)
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:0,9 ABC Manchester NH (WMUR-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:0,9 ABC Orlando FL (WFTV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
+#EXTINF:0,10 ABC Sacramento CA (KXTV) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
+#EXTINF:0,11 ABC Louisville KY (WHAS) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.whas11.com/hls/live/2016284/newscasts/live.m3u8
+#EXTINF:0,13 ABC Grand Rapids MI (WZZM) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
+#EXTINF:0,13 ABC Las Vegas NV (KTNV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:0,13 ABC Norfolk VA (WVEC) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
+#EXTINF:0,15 ABC Phoenix AZ (KNXV-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:0,16 ABC Wilkes Barre PA (WNEP) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
+#EXTINF:0,18 ABC Buffalo NY (WKBW-TV1) (720p)
+#EXTVLCOPT:network-caching=1000
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_ABCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://community.solutions/wp-content/uploads/2021/01/Cu-KMaL--200x200.jpg" group-title="ABC",23 ABC Bakersfield CA (KERO) | HD (720p)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:0,ABC 24 Austin TX (KVUE) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
+#EXTINF:0,ABC 24 Memphis TN (WATN-TV) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
+
+// ************************************************************************************* //
+
+#EXTINF:7195,2 CBS Greensboro NC (WFMY) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
+#EXTINF:0,2 CBS Spokane WA (KREM) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.krem.com/hls/live/2017156/newscasts/live.m3u8
+#EXTINF:0,3 CBS Omaha NE (KMTV-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+#EXTINF:0,4 CBS New Orleans LA (WWL-TV) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/WIVB_Logo.png/150px-WIVB_Logo.png" group-title="CBS USA",4 CBS Buffalo NY (WIVB-TV1) (720p)
+#EXTVLCOPT:network-caching=1000
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
+#EXTINF:0,5 CBS Ft Smith AR (KFSM-TV) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8
+#EXTINF:0,5 CBS San Antonio TX (KENS) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8
+#EXTINF:0,6 CBS Albany NY (WRGB) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1354110583495385089/ztrUC7MY_400x400.jpg" group-title="CBS USA",6 CBS Tallahassee FL (WCTV1) (720p)
+#EXTVLCOPT:network-caching=1000
+https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KIRO_7_2015.svg/200px-KIRO_7_2015.svg.png",7 CBS Seattle WA (KIRO-TV1) (720p)
+#EXTVLCOPT:network-caching=1000
+http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
+#EXTINF:0,8 CBS San Diego CA (KFMB-TV) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
+#EXTINF:0,9 CBS Washington DC (WUSA) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
+#EXTINF:0,10 CBS Columbus OH (WBNS-TV) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.10tv.com/hls/live/2013836/newscasts/live.m3u8
+#EXTINF:0,10 CBS Tampa FL (WTSP) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8
+#EXTINF:0,11 CBS Houston TX (KHOU) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8
+#EXTINF:0,11 CBS Toledo OH (WTOL) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.wtol.com/hls/live/2017153/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/assets.inarkansas.com/127749/thv_300.png" group-title="CBS USA",11 CBS THV11 Little Rock AR (KTHV) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8
+#EXTINF:0,12 CBS West Palm Beach FL (WPEC) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
+#EXTINF:0,13 CBS Macon GA (WMAZ-TV) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.13wmaz.com/hls/live/2017376/newscasts/live.m3u8
+#EXTINF:0,19 CBS Columbia SC (WLTX) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.wltx.com/hls/live/2017152/newscasts/live.m3u8
+#EXTINF:0,19 CBS Tyler TX (KYTX) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8
+#EXTINF:0,46 CBS Atlanta GA (WGCL-TV) (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8
+#EXTINF:0,47 CBS Action News Jacksonville FL (WJAX-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/WWJ_CBS_62_2016.svg/225px-WWJ_CBS_62_2016.svg.png" group-title="CBS USA",62 CBS Buffalo NY (WIVB-TV1) (720p)
+#EXTVLCOPT:network-caching=1000
+http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit_720p/playlist.m3u8
+
+
+
+// ********************************************************************************************************** //
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN | HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Dare to Dream | HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Français | HD (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN International | HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Kids | HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Latino | HD (480p)
+#EXTVLCOPT:network-caching=1000
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Latino | HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Praise Him Music Channel | HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Proclaim! | HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Russia | HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/master.m3u8
+
+// ********************************************************************************************************** //
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg" group-title="Spain TV",7 HD Canal de Regional de Murcia | HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://aprensamalaga.com/prensa/wp-content/uploads/2018/03/imagenes_101tv-en-directo-online.png" group-title="Spain TV",101 Tele Antequera| HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain TV",A Punt Barcelona| HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://aprensamalaga.com/prensa/wp-content/uploads/2018/03/imagenes_101tv-en-directo-online.png" group-title="Spain TV",101 Tele Malaga| HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain TV",A1 HD | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain TV",A2 HD | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+
+
+// ********************************************************************************************************** //
+#EXTINF:-1 tvg-id="goldenlatam.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="Cable MX",Canal Golden LatinoAmerica | HD
+#EXTVLCOPT:network-caching=1000
+https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CanalMundoPlus.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9BtSyV2.png" group-title="Cable MX",Canal Mundo+ | HD
+#EXTVLCOPT:network-caching=1000
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 6 ReadyHD | HD 
+#EXTVLCOPT:network-caching=1000
+http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rt.com" tvg-name="" tvg-logo="" group-title="Local MX",Canal RT Espanol | HD
+#EXTVLCOPT:network-caching=1000
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kodi.tv/images/addons/leia/plugin.video.jpcandioti.5rtv/icon.png" group-title="Argentina TV",5RTv SantaFe Canal | HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+#EXTINF:-1 tvg-id="net.com" tvg-name="" tvg-logo="" group-title="Local MX",Canal NetTV PARAGUAY | HD
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jio-tv.live/uploads/tv_image/5tv-corrientes.png" group-title="Argentina TV", 5Tv Correintes | HD (720p) 
+#EXTVLCOPT:network-caching=1000
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA.png?20220118" group-title="Argentina TV",7 La Roja | HD 
+#EXTVLCOPT:network-caching=1000
+https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CLAROSPORT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="Local MX",Canal Claro Sport MVS | HD
+#EXTVLCOPT:network-caching=1000
+http://45.179.140.242:8000/play/a0ht
+
+
+// ********************************************************************************************************//
+
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="PBS USA",PBS World Channel | HD (480p)
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1 tvg-id="KLCSDT3.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jmaNzgg.jpg" group-title="Entertainment",4 PBS Create Los Angeles CA (KLCS-DT3) (720p) [Geo-blocked]
+https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="WLVTTV" tvg-country="US" tvg-language="English" tvg-logo="https://www.publicmedia.co/wp-content/uploads/2019/10/wlvt39_FI.jpg" group-title="PBS USA",39 PBS Allentown PA (WLVT) | HD (720p)
+https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WPPT.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS USA",39 PBS Extra Philadelphia PA (WPPT) | HD (480p)
+https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KERATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjYxNjkxMTBf/PBS.png" group-title="PBS USA",PBS Dallas TX (KERA) (1080p) [Geo-blocked]
+https://kera-flash.streamguys1.com/live/eventStream/playlist.m3u8
+#EXTINF:-1 tvg-id="WKMJTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://image.pbs.org/stations/wkle-color-single-brand-logo-yJUbW1W.png" group-title="PBS USA",68.1 PBS KET Louisville KY (WKMJ-TV) (720p)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsAKST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="PBS USA",PBS Kids Alaska (1080p)
+https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="PBS USA",PBS Kids Eastern/Central (1080p)
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="PBS USA",PBS Kids Eastern/Central (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsHAST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="PBS USA",PBS Kids Hawaii (1080p)
+https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
+#EXTINF:-1 tvg-id="PBSKidsMST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Mountain (1080p)
+https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsPST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="PBS USA",PBS Kids Pacific (1080p)
+https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
+
+
+// *************************************************************************************************** //
+
+#EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Local",Azteca Uno Honduras(XHJK-TDT)| HD
+#EXTVLCOPT:network-caching=1000 
+http://190.122.96.187:8888/http/002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal ConectaTV Chihuahua | HD
+#EXTVLCOPT:network-caching=1000
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/650_TVP_Obregon.png" group-title="Local MX",Canal 2 TVPacifico | HD
 #EXTVLCOPT:network-caching=1000
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1415696310_b978000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="650" tvg-name="TVP Obregon" tvg-logo="https://www.m3u.cl/logo/650_TVP_Obregon.png",Canal 2 TVP Obregon | HDTV
+#EXTINF:-1 tvg-id="650" tvg-name="TVP Obregon" tvg-logo="https://www.m3u.cl/logo/650_TVP_Obregon.png",Canal 2 TVP Obregon | HD
 #EXTVLCOPT:network-caching=1000
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RCG 3 Saltillo" tvg-logo="https://i.imgur.com/NefH5qZ.png" group-title="Local MX",Canal 3.1 RCG Saltillo HDTV
+#EXTINF:-1 tvg-name="RCG 3 Saltillo" tvg-logo="https://i.imgur.com/NefH5qZ.png" group-title="Local MX",Canal 3.1 RCG Saltillo | HD
+#EXTVLCOPT:network-caching=1000
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",115 Canal 4 TeleDiario Television HDTV
+
+#EXTINF:-1 tvg-name="imagentv.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Local MX",Canal 3.1 Imagen TV | HD
+#EXTVLCOPT:network-caching=1000
+https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png
+
+#EXTINF:-1 tvg-name="RCG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Local MX",Canal 3.4 Imagen Multicast | HD
+#EXTVLCOPT:network-caching=1000
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RCG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU979fGwFDcFqSQ_tcHp7MtePJ_IdoqX7lp8tQX8mfpn_X-pqQP-aKkCKrSsmvPFBUoCE&usqp=CAU" group-title="Local MX",Canal 3.4 Imagen Radio | HD
+#EXTVLCOPT:network-caching=1000
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB0BUmdBOrH9mYU2ebs1eWA/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 4 TeleDiario | HD
+#EXTVLCOPT:network-caching=1000
 http://streaming.arcast.com.ar:1935/canal4esquel/canal4esquel/chunklist_w283167105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",4 Canal 4.1 Monclova HDTV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/nrt-mexico-live-vipotv.png" group-title="Local MX",4 Canal 4.1 Monclova | HD
+#EXTVLCOPT:network-caching=1000
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 4 Saltillo HDTV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/nrt-mexico-live-vipotv.png" group-title="Local MX",Canal 4 Saltillo | HD
+#EXTVLCOPT:network-caching=1000
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 4 Guanajuato | HD
+#EXTVLCOPT:network-caching=1000
+https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Canal52016.png" group-title="Local MX",Canal 5 XHGC Mexico | HD
 #EXTVLCOPT:network-caching=1000
 http://45.174.77.243:8000/play/a0fl/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bing.com/th?id=AMMS_76d226f2612cd071c95b648e247d37eb&w=110&h=110&c=7&rs=1&qlt=95&pcl=f9f9f9&o=6&cdv=1&pid=16.1" group-title="Local MX",Canal 8 Baja California Sur XHBZC-TDT HDTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/XHBZC_Logo_2015.png/200px-XHBZC_Logo_2015.png" group-title="Local MX",Canal 8 Baja California Sur XHBZC-TDT | HD
 #EXTVLCOPT:network-caching=1000
 https://60ed5b6d0df78.streamlock.net:1936/tv1/tv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 4 Saltillo HDTV
-#EXTVLCOPT:network-caching=1000
-https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8"
-
-#EXTINF:-1 tvg-id="TELESISTEMACANAL9.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="http://mastelevisioncr.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-02-at-12.42.47-300x300.jpeg" group-title="Local MX",Canal 9.1 TeleSistema HDTV
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cortv.com.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvguanajuato.com/envivo/images/LOGO-300x120.png" group-title="Local MX",Canal 8.1 Guanajuato HDTV
+#EXTINF:-1 tvg-id="Cortv.com.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Cortv_Logook.png/200px-Cortv_Logook.png" group-title="Local MX",Canal 8.1 Guanajuato | HD
 #EXTVLCOPT:network-caching=1000
 https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rtq.mx/wp-content/uploads/2020/07/rtq-trans.png" group-title="Local MX",Canal 10 RTQ Queretaro Mexico XHSECE HDTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 8 Costa Rica | HD
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/XHFAMX_LaOctava.png" group-title="Local MX",Canal 8 La Octava XHFAMX-TDT | HD
+#EXTVLCOPT:network-caching=1000
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x80mow9
+
+#EXTINF:-1 tvg-id="TELESISTEMACANAL9.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="http://mastelevisioncr.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-02-at-12.42.47-300x300.jpeg" group-title="Local MX",Canal 9.1 TeleSistema | HD
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 9 Costa Rica Saltillo | HD
+#EXTVLCOPT:network-caching=1000
+http://201.201.149.86:8080/livestream/stream.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Televisa-Chihuahua-en-vivo-Online-218x150.png" group-title="Local MX",Canal 9 Televisa Chihuahua | HD
+#EXTVLCOPT:network-caching=1000
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/live
+
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/11/Televisa-Juarez-en-vivo-Online.png" group-title="Local MX",Canal 9 Televisa Juarez Chihuahua | HD
+#EXTVLCOPT:network-caching=1000
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rtq.mx/wp-content/uploads/2020/07/rtq-trans.png" group-title="Local MX",Canal 10 RTQ Queretaro Mexico XHSECE | HD
+#EXTVLCOPT:network-caching=1000
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
-#EXTINF:-1 tvg-id="Noticias.Canal10.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/y4akKrD.png" group-title="Local MX",Canal 10.1 Noticias HDTV
+
+#EXTINF:-1 tvg-id="Noticias.Canal10.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/y4akKrD.png" group-title="Local MX",Canal 10.1 Chiapas | HD
 #EXTVLCOPT:network-caching=1000
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvmar.tv" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="Local MX",Canal 10.1 TVMar Jalisco HDTV
+#EXTINF:-1 tvg-id="tvmar.tv" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvmar.s3.us-west-2.amazonaws.com/2021/12/tvmar_banner.png" group-title="Local MX",Canal 10.1 TVMar Jalisco | HD
 #EXTVLCOPT:network-caching=1000
 https://5ca3e84a76d30.streamlock.net:443/tvmarvallarta/smil:tvmarvallarta.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvmar.tv" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="Local MX",Canal 10.1 TVMar Los Cabos HDTV
+#EXTINF:-1 tvg-id="tvmar.tv" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvmar.s3.us-west-2.amazonaws.com/2021/12/tvmar_banner.png" group-title="Local MX",Canal 10.1 TVMar Los Cabos | HD
 #EXTVLCOPT:network-caching=1000
 https://5ca3e84a76d30.streamlock.net:443/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvmar.tv" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvmar.tv/tvmar-logo.png" group-title="Local MX",Canal 10.1 TVMar La Paz HDTV
+#EXTINF:-1 tvg-id="tvmar.tv" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvmar.s3.us-west-2.amazonaws.com/2021/12/tvmar_banner.png" group-title="Local MX",Canal 10.1 TVMar La Paz | HD
 #EXTVLCOPT:network-caching=1000
 https://5ca3e84a76d30.streamlock.net:443/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvmar.tv" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Local MX",Canal 10.1 RNN HDTV
+#EXTINF:-1 tvg-id="tvmar.tv" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Local MX",Canal 10.1 RNN | HD
 #EXTVLCOPT:network-caching=1000
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/650_TVP_Obregon.png" group-title="Local MX",Canal 10.1 TVP Obregon | HD
+#EXTVLCOPT:network-caching=1000
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv10.tv" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Local MX",Canal 10.1 Durango | HD
 #EXTVLCOPT:network-caching=1000
 https://live-ak.vimeocdn.com/exp=1642732423~acl=%2Fe276c940-23ca-4efa-a9da-289b1fa93be8%2F%2A~hmac=af5adf6cc34fcab1832451e75e5f49cb20669585f2d0155d9744d27a52641e67/e276c940-23ca-4efa-a9da-289b1fa93be8/chunklist_b2056000.m3u8?max_segments=10
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://openapis.col.gob.mx/API_PU/img/logomin.jpg" group-title="Local MX",Canal 12.1 Colima HDTV
+#EXTINF:-1 tvg-id="Canal10.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/y4akKrD.png" group-title="Local MX",Canal 10.1 Chiapas | HD
+#EXTVLCOPT:network-caching=1000
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal10.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://openapis.col.gob.mx/API_PU/img/logomin.jpg" group-title="Local MX",Canal 11 Colima | HD
+#EXTVLCOPT:network-caching=1000
+https://5ca9af4645e15.streamlock.net/canal11/videocanal11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal1.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://openapis.col.gob.mx/API_PU/img/logomin.jpg" group-title="Local MX",Canal 11 Once Mexico | HD
+#EXTVLCOPT:network-caching=1000
+https://live2.canaloncelive.tv/livepkgr3/cepro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://openapis.col.gob.mx/API_PU/img/logomin.jpg" group-title="Local MX",Canal 12.1 Colima | HD
 #EXTVLCOPT:network-caching=1000 
 http://190.122.96.187:8888/http/002
-#EXTINF:31 tvg-id="" tvg-name="tvg-logo="https://secureservercdn.net/45.40.147.116/d9c.894.myftpupload.com/wp-content/uploads/2020/06/WEB-MAIN-LOGOS-2020.png" group-title="Local MX",Canal 12 Televis Californias (XETW-TDT)
+#EXTINF:-1 tvg-id="" tvg-name="tvg-logo="https://cvharborfest.com/wp-content/uploads/2019/07/TELEVISA-CALIFORNIAS-300x270.png" group-title="Local MX",Canal 12 Televis Californias (XETW-TDT)| HD
 #EXTVLCOPT:network-caching=1000
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://openapis.col.gob.mx/API_PU/img/logomin.jpg" group-title="Local MX",Canal 12.1 Colima TV 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://openapis.col.gob.mx/API_PU/img/logomin.jpg" group-title="Local MX",Canal 12.1 Colima TV | HD
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://openapis.col.gob.mx/API_PU/img/logomin.jpg" group-title="Local MX",Canal 12.1 Televisa Sonora XHAK HDTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wwitv.com/tvlogos/b7091.jpg" group-title="Local MX",Canal 12.1 Televisa Sonora XHAK | HD
 #EXTVLCOPT:network-caching=1000 
-https://www.youtube.com/embed/vRH65BnsKCU
+https://www.youtube.com/watch?v=MmUtSRAiUOU
 
-#EXTINF:0 tvg-id="CanalCatorce.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="http://www.canalcatorce.tv/img/template/logo_main_nav_c14.svg" group-title="Local MX",Canal 14.1 Ciudad de Mexico HDTV
+
+#EXTINF:0 tvg-id="CanalCatorce.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.canalcatorce.tv/descargas/logo_descargas.jpg" group-title="Local MX",Canal 14.1 Ciudad de Mexico | HD
 #EXTVLCOPT:network-caching=1000
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
-#EXTINF:-1 tvg-id="Capital21.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/P1pHy3j.jpg" group-title="Local MX",Canal 21.1 Capital21 Mexico HDTV
+#EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Jalisco-TV-en-vivo-Online.png" group-title="",Canal 17 Jalisco TV | HD
+#EXTVLCOPT:network-caching=1000
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Capital21.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/P1pHy3j.jpg" group-title="Local MX",Canal 21.1 Capital21 Mexico | HD
 #EXTVLCOPT:network-caching=1000
 https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sizart.org.mx/images/demo/bottom-logo.png" group-title="Local MX",Canal 24 Zacatecas HDTV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sizart.org.mx/images/demo/bottom-logo.png" group-title="Local MX",Canal 24 Zacatecas | HD
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sizart.org.mx/images/demo/bottom-logo.png" group-title="Local MX",Canal 24 Sizart Zacatecas HDTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sizart.org.mx/images/demo/bottom-logo.png" group-title="Local MX",Canal 24 Sizart Zacatecas | HD
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/chunklist_w1464674732.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="Local MX",Canal 26.1 TVMAS Veracruz Mexico HDTV 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="Local MX",Canal 26.1 TVMAS Veracruz Mexico | HD 
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net:443/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SetPuebla.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/osgOMAu.png" group-title="Local MX",Canal 26.1 SET Televisión HDTV
+#EXTINF:-1 tvg-id="SetPuebla.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/osgOMAu.png" group-title="Local MX",Canal 26.1 SET Televisión | HD
 #EXTVLCOPT:network-caching=1000 
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 
@@ -105,74 +487,163 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
-#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Local",TVMÁS 26.1(XHGV-TDT)
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Local",TVMÁS 26.1(XHGV-TDT)| HD
+#EXTVLCOPT:network-caching=1000 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SetPuebla.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/osgOMAu.png" group-title="Local",SET Televisión Canal 26.2 HDTV
+#EXTINF:-1 tvg-id="SetPuebla.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/osgOMAu.png" group-title="Local",SET Televisión Canal 26.2 | HD
+#EXTVLCOPT:network-caching=1000 
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal28.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lr4MZFg.png" group-title="Local MX",Canal 28.1 Chihuahua HDTV
+#EXTINF:-1 tvg-id="Canal28.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lr4MZFg.png" group-title="Local MX",Canal 28.1 Chihuahua | HD
 #EXTVLCOPT:network-caching=1000 
 https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8
 
-#EXTINF:-1 tvg-id="644" tvg-name="" tvg-logo="https://www.m3u.cl/logo/644_Canal_28_Nuevo_Leon.png",Canal 28 Nuevo Leon HDTV
+#EXTINF:-1 tvg-id="644" tvg-name="" tvg-logo="https://www.m3u.cl/logo/644_Canal_28_Nuevo_Leon.png",Canal 28 Nuevo Leon | HD
 #EXTVLCOPT:network-caching=1000 
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="644" tvg-name="" tvg-logo="https://srtvnl.com/wp-content/uploads/2020/03/Logo_Canal28_2020_png.png",Canal 28 Nuevo Leon HDTV
+#EXTINF:-1 tvg-id="644" tvg-name="" tvg-logo="https://srtvnl.com/wp-content/uploads/2020/03/Logo_Canal28_2020_png.png",Canal 28 Nuevo Leon | HD
 #EXTVLCOPT:network-caching=1000 
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" group-title="Local MX",Canal 33.1 TvEducativa(XEWH-TDT) HDTV
+#EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" group-title="Local MX",Canal 33.1 TvEducativa(XEWH-TDT) | HD
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://noticiasnrt.com/wp-content/themes/nrt_theme-main/img/logo.png" group-title="Local MX",Canal 34 NRT Mexico HDTV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://noticiasnrt.com/wp-content/themes/nrt_theme-main/img/logo.png" group-title="Local MX",Canal 34 NRT Mexico | HD
+#EXTVLCOPT:network-caching=1000 
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-logo="https://i.imgur.com/zh05BZ3.jpeg" group-title="Local MX",Canal 34.1 Mexiquense HDTV
+
+#EXTINF:-1 tvg-country="MX" tvg-logo="https://i.imgur.com/zh05BZ3.jpeg" group-title="Local MX",Canal 34.1 Mexiquense | HD
+#EXTVLCOPT:network-caching=1000 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IjE1ORI.png" group-title="Local",Mexiquense 34.1 TV HDTV
+#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IjE1ORI.png" group-title="Local",Mexiquense 34.1 | HD
+#EXTVLCOPT:network-caching=1000 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Local MX",Canal 34.2 AMX Noticias East HDTV 
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Local MX",Canal 34.2 AMX Noticias East | HD 
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://www.m3u.cl/logo/1042_AMX_Noticias.png",Canal 34.2 AMX Noticias Est HDTV
+#EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://www.m3u.cl/logo/1042_AMX_Noticias.png",Canal 34.2 AMX Noticias | HD
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="Local MX",Canal 40.1 ADN40 HDTV
+#EXTINF:-1 tvg-id="mariavision.mx" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Maria-vision.jpg",Canal 34.5 Maria Visison | HD
+#EXTVLCOPT:network-caching=1000
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="Local MX",Canal 40.1 ADN40 | HD
 #EXTVLCOPT:network-caching=1000 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="",Canal 40.1 ADN40 | HD
+#EXTVLCOPT:network-caching=1000 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/live
 
 #EXTINF:-1 tvg-id="TVLobo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XZ8GmZW.png" group-title="Local MX",Canal 46 TV Lobo DURANGO HD
 #EXTVLCOPT:network-caching=1000 
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="",Canal 40.1 ADN40 HDTV
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/live
-
-#EXTINF:-1 tvg-id="Canal44.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Local MX",Canal 44.1 Chihuahua HDTV
+#EXTINF:-1 tvg-id="Canal44.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Local MX",Canal 44.1 Chihuahua | HD
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal44.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Local",Canal 44.1 Ciudad Juárez HDTV 
+#EXTINF:-1 tvg-id="Canal44.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Local",Canal 44.1 Ciudad Juárez | HD 
+#EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 
-#EXTINF:-1 tvg-id="806" tvg-name="HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png" group-title="Local MX",Canal 45.1 HispanTV 
+#EXTINF:-1 tvg-id="806" tvg-name="HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png" group-title="Local MX",Canal 45.1 HispanTV | HD  
 #EXTVLCOPT:network-caching=1000
 https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Canal66.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.canal66.tv/wp-content/uploads/2021/09/TOP-66LOGO.png" group-title="Local MX",Canal 66.1 Mexicali HDTV
+#EXTINF:-1 tvg-id="Canal66.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.canal66.tv/wp-content/uploads/2021/09/TOP-66LOGO.png" group-title="Local MX",Canal 66.1 Mexicali | HD 
 #EXTVLCOPT:network-caching=1000
 https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjIgMTA6MjA6MzEgUE0maGFzaF92YWx1ZT1xK3BrYVVKVUVKRE5qcEkyT01JVCtnPT0mdmFsaWRtaW51dGVzPTUmaWQ9"
 
-#EXTINF:-1 tvg-id="MVMNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rieBDBi.png" group-title="Local MX",MVMN Noticias Oaxaca HDTV
+
+
+#EXTINF:-1 tvg-id="MVMNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rieBDBi.png" group-title="Local MX", Canal MVMN Noticias Oaxaca | HD 
+#EXTVLCOPT:network-caching=1000
 https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
-#EXTINF:-1 tvg-name="TeleFormula" tvg-logo="https://i.imgur.com/jR6taXt.png" group-title="Local MX",TeleFormula Mexico HDTV
+
+
+
+#EXTINF:-1 tvg-name="TeleFormula" tvg-logo="https://i.imgur.com/jR6taXt.png" group-title="Local MX",Canal TeleFormula Mexico | HD 
+#EXTVLCOPT:network-caching=1000
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TeleFormula" tvg-logo="https://i.imgur.com/jR6taXt.png" group-title="Local MX",Canal TeleFormulaTV  | HD 
+#EXTVLCOPT:network-caching=1000
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7u0spq
+
+#EXTINF:-1 tvg-name="MexicoTravelChannel.mx" tvg-logo="http://channels.roku.com/images/37f13443d27d489ebec25dc390d82193-hd.jpg" group-title="Local MX",Canal Mexico Travel Channel Mexico | HD 
+#EXTVLCOPT:network-caching=1000
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v76vf
+
+
+#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="",Hipódromo de las Américas | HD
+http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ANIME TV",Canal ENERGeek TV | HD
+#EXTVLCOPT:network-caching=1000
+https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/250px-El_Chavo_%28simple_logo%29.svg.png" group-title="Local MX",Canal EL Chavo Tv | HD
+#EXTVLCOPT:network-caching=1000
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+
+#EXTINF:-1 tvg-id="Estrella.com" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="Local MX",Canal ESTRELLATV | HD
+#EXTVLCOPT:network-caching=1000
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal ForoTV Televisa | HD
+#EXTVLCOPT:network-caching=1000
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal Televisa San Luis Potosi | HD
+#EXTVLCOPT:network-caching=1000
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaRuyaHshLdq462E9_pLzdA/live
+
+#EXTINF:-1 tvg-id="CanalMundoPlus.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9BtSyV2.png" group-title="",Canal Mundo+ | HD
+#EXTVLCOPT:network-caching=1000
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="VIDEOROLA.COM.MX" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lg_videorola-300x199.png/200px-Lg_videorola-300x199.png" group-title="Local MX",Canal VIDEOROLA | HD
+#EXTVLCOPT:network-caching=1000
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Tv",Channel REWIND TV | HD
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ellobo196.com" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Local MX",Canal EL lOBO 106.1 TV | HD 
+#EXTVLCOPT:network-caching=1000
+https://60417ddeaf0d9.streamlock.net/ellobo/videoellobo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ellobo196.com" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Local MX",EL lOBO 106.1 TV | HD 
+#EXTVLCOPT:network-caching=1000
+https://60417ddeaf0d9.streamlock.net/ellobo/videoellobo/chunklist_w1893668763.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="TVPCuliacán.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iuaYGK2.png" group-title="Local",TVP Culiacán HDTV
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 
@@ -203,19 +674,15 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IcrtvColima.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Dru29kQ.png" group-title="Local",Icrtv Colima HD TV
 https://5ca9af4645e15.streamlock.net/canal11/videocanal11/playlist.m3u8
-#EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Local",JaliscoTV HDTV 
-https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MVMNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rieBDBi.png" group-title="News",MVM Noticias Oaxaca HD TV
 https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="" group-title="Sports",CLARO SPORTS TV HD
-http://45.179.140.242:8000/play/a0ht
 
 #EXTINF:-1 tvg-id="TV.Unam.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OxxROZI.png" group-title="",TV Unam MEXICO HDTV
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR=
 
 
-#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="",Hipódromo de las Américas HD Tv
-http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
+
 
 
 
@@ -232,34 +699,19 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Local",Azteca Uno Honduras(XHJK-TDT)
 http://190.122.96.187:8888/http/002
-#EXTINF:-1 tvg-id="CanalMundoPlus.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9BtSyV2.png" group-title="Local",Canal Mundo+ HD TV
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal8CostaRica.mx" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://www.telediario.cr/bundles/appcamusassets/images/logo-canal8.svg" group-title="",Canal 8 Costa Rica HDTV 
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 
-#EXTINF:-1 tvg-id="VIDEOROLA.COM.MX" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lg_videorola-300x199.png/200px-Lg_videorola-300x199.png" group-title="Local MX",Canal VIDEOROLA | HD
-#EXTVLCOPT:network-caching=1000
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 
-#EXTINF:-1 tvg-id="rt.com" tvg-name="" tvg-logo="" group-title="Local MX",Canal RT Espanol | HD
-#EXTVLCOPT:network-caching=1000
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/250px-El_Chavo_%28simple_logo%29.svg.png" group-title="Local MX",Canal EL Chavo Tv | HD
-#EXTVLCOPT:network-caching=1000
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
-#EXTINF:-1 tvg-id="Estrella.com" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="Local MX",Canal ESTRELLATV | HD
-#EXTVLCOPT:network-caching=1000
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Local",Azteca Uno Honduras(XHJK-TDT)| HD
-#EXTVLCOPT:network-caching=1000 
-http://190.122.96.187:8888/http/002
-#EXTINF:-1 tvg-id="CanalMundoPlus.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9BtSyV2.png" group-title="",Canal Mundo+ | HD
-#EXTVLCOPT:network-caching=1000
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+
+
+
 
 
 
@@ -283,18 +735,89 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtu
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB0BUmdBOrH9mYU2ebs1eWA/live
 #EXTINF:-1 tvg-id="Imagentv.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mRGetOJ.png" group-title="",Imagen TV (720p) [Geo-blocked]
 https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkVhTJz_zPGOO7WKknz-Hj0)/dm/3/x82z4if/s/live-2.m3u8
-#EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="",Jalisco TV (1080p)
-https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LaOctava.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qQjenrC.png" group-title="",La Octava TV (720p) [Geo-blocked]
 https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2hpb0C-zKG3oSJZVmOwxO24)/dm/3/x80mow9/d/live-2.m3u8
 
-#EXTINF:-1 tvg-id="net.com" tvg-name="" tvg-logo="" group-title="Local MX",Canal NetTV PARAGUAY | HD
-#EXTVLCOPT:network-caching=1000
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ANIME TV",Canal ENERGeek TV | HD
+
+
+
+
+
+
+// ---------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="Chile TV",24 Horas | HD (720p) 
 #EXTVLCOPT:network-caching=1000
-https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/24HORAS/live
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News USA",3 Studios Cleveland OH (WKYC) | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News USA",7 News Boston MA (WHDH) | HD (540p)
+#EXTVLCOPT:network-caching=1000
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS USA",12 News (KBMT) Beaumont TX | HD (1080p)
+https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 34 PH TV HDTV
+#EXTVLCOPT:network-caching=1000
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 34 PH TV eng HDTV
+#EXTVLCOPT:network-caching=1000
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://si.cultura.cr/sites/default/files/styles/thumbnail_fichas_eventos_gallery_105x70/public/hbtv_ticavision.jpg" group-title="Local MX" audio-track="spa",Canal 54.1 TicaVisión HDTV
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-name="wowtv.com" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Local MxX",100 Channel WowTV HDTV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",Microvision HDTV
+http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",TeleJunin HDTV
+http://videostream.shockmedia.com.ar:1935/telejunin/telejunin/chunklist_w239103836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",132 Multivision HDTV
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",133 ChacoTV HDTV
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1623593551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",134 VIET MTV HDTV
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",135 TV EXTREMA HDTV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",134 TeleMAX HDTV
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",42 RomanaTV HDTV
+http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",111 BHTV HDTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 
 
@@ -403,251 +926,7 @@ http://iptvhd.club:8081/televall2021/153_.m3u8?token=09Rokuv-wXWMedARbU23Ag&expi
 #EXTVLCOPT:network-caching=1000
 http://iptvhd.club:8081/televall2021/711_.m3u8?token=3KAWICcuwORU1yYEQUmLTg&expires=1642321233
 
-// *****************************************************************************************************************
 
-
-#EXTINF:0,2 ABC Atlanta GA (WSB-TV) (720p)
-#EXTVLCOPT:network-caching=1000
-https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
-#EXTINF:0,2 ABC  Baton Rouge LA (WBRZ) (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
-#EXTINF:0,3 ABC Corpus Christi TX (KIII) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
-#EXTINF:60,4 ABC Pittsburg PA (WTAE) (720p)
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
-#EXTINF:0,4 ABC Seattle WA (KOMO-TV) (720p)
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/KMGH-TV_Logo.png" group-title="NEWS USA",5 ABC Denver CO (KMGH)| HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1316390955189235714/WmOmZ_Ta_400x400.png" group-title="ABC USA",5 ABC Des Moines IA (WOI) | HD (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WEWS-TV_-_News_Net_5_logo.png/800px-WEWS-TV_-_News_Net_5_logo.png" group-title="ABC USA",5 ABC Cleveland OH (WEWS-TV) | HD (1080p)
-#EXTVLCOPT:network-caching=1000
-https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.poncapost.com/wp-content/uploads/2018/07/koco-5-logo.jpg" group-title="ABC USA",5 ABC Oklahoma City OK (KOCO)| HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/WXYZ-TV_logo.svg/1200px-WXYZ-TV_logo.svg.png" group-title="NEWS USA",7 ABC Detroit MI (WXYZ-TV)| HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
-#EXTINF:0,7 ABC Washington DC (WJLA) (720p)
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/KETV_Logo.png" group-title="NEWS USA",7 ABC Omaha NE (KETV) | HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/KABC-TV_logo.svg/1200px-KABC-TV_logo.svg.png" group-title="NEWS USA",7 ABC Los Angeles CA (KABC-TV)| HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCwatch.m3u8
-#EXTINF:0,8 ABC Dallas TX (WFAA) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
-#EXTINF:0,8 ABC Davenport IA (WQAD) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
-#EXTINF:60,9 ABC Kansas City MO (KMBC-TV) (576p)
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
-#EXTINF:0,9 ABC Manchester NH (WMUR-TV) (720p)
-#EXTVLCOPT:network-caching=1000
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
-#EXTINF:0,9 ABC Orlando FL (WFTV) (720p)
-#EXTVLCOPT:network-caching=1000
-https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
-#EXTINF:0,10 ABC Sacramento CA (KXTV) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
-#EXTINF:0,11 ABC Louisville KY (WHAS) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.whas11.com/hls/live/2016284/newscasts/live.m3u8
-#EXTINF:0,13 ABC Grand Rapids MI (WZZM) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
-#EXTINF:0,13 ABC Las Vegas NV (KTNV) (720p)
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:0,13 ABC Norfolk VA (WVEC) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
-#EXTINF:0,15 ABC Phoenix AZ (KNXV-TV) (720p)
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:0,16 ABC Wilkes Barre PA (WNEP) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
-#EXTINF:0,18 ABC Buffalo NY (WKBW-TV1) (720p)
-#EXTVLCOPT:network-caching=1000
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_ABCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://community.solutions/wp-content/uploads/2021/01/Cu-KMaL--200x200.jpg" group-title="ABC",23 ABC Bakersfield CA (KERO) | HD (720p)
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:0,ABC 24 Austin TX (KVUE) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
-#EXTINF:0,ABC 24 Memphis TN (WATN-TV) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN | HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Dare to Dream | HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Français | HD (720p)
-https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN International | HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Kids | HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Latino | HD (480p)
-#EXTVLCOPT:network-caching=1000
-http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Latino | HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Praise Him Music Channel | HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Proclaim! | HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Russia | HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/master.m3u8
-// ---------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg" group-title="Spain TV",7 HD Canal de Regional de Murcia | HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://aprensamalaga.com/prensa/wp-content/uploads/2018/03/imagenes_101tv-en-directo-online.png" group-title="Spain TV",101 Tele Antequera| HD (1080p)
-#EXTVLCOPT:network-caching=1000
-https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain TV",A Punt Barcelona| HD (1080p)
-#EXTVLCOPT:network-caching=1000
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://aprensamalaga.com/prensa/wp-content/uploads/2018/03/imagenes_101tv-en-directo-online.png" group-title="Spain TV",101 Tele Malaga| HD (1080p)
-#EXTVLCOPT:network-caching=1000
-https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain TV",A1 HD | HD (1080p)
-#EXTVLCOPT:network-caching=1000
-https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain TV",A2 HD | HD (1080p)
-#EXTVLCOPT:network-caching=1000
-https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
-
-
-#EXTINF:-1 tvg-id="WorldChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="PBS USA",PBS World Channel | HD (480p)
-https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
-#EXTINF:-1 tvg-id="KLCSDT3.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jmaNzgg.jpg" group-title="Entertainment",4 PBS Create Los Angeles CA (KLCS-DT3) (720p) [Geo-blocked]
-https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="WLVTTV" tvg-country="US" tvg-language="English" tvg-logo="https://www.publicmedia.co/wp-content/uploads/2019/10/wlvt39_FI.jpg" group-title="PBS USA",39 PBS Allentown PA (WLVT) | HD (720p)
-https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WPPT.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="PBS USA",39 PBS Extra Philadelphia PA (WPPT) | HD (480p)
-https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KERATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjYxNjkxMTBf/PBS.png" group-title="PBS USA",PBS Dallas TX (KERA) (1080p) [Geo-blocked]
-https://kera-flash.streamguys1.com/live/eventStream/playlist.m3u8
-#EXTINF:-1 tvg-id="WKMJTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://image.pbs.org/stations/wkle-color-single-brand-logo-yJUbW1W.png" group-title="PBS USA",68.1 PBS KET Louisville KY (WKMJ-TV) (720p)
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSKidsAKST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="PBS USA",PBS Kids Alaska (1080p)
-https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
-#EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="PBS USA",PBS Kids Eastern/Central (1080p)
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
-#EXTINF:-1 tvg-id="PBSKidsEST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="PBS USA",PBS Kids Eastern/Central (720p)
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSKidsHAST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="PBS USA",PBS Kids Hawaii (1080p)
-https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
-#EXTINF:-1 tvg-id="PBSKidsMST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Mountain (1080p)
-https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
-#EXTINF:-1 tvg-id="PBSKidsPST.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="PBS USA",PBS Kids Pacific (1080p)
-https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kodi.tv/images/addons/leia/plugin.video.jpcandioti.5rtv/icon.png" group-title="Argentina TV",5RTv SantaFe Canal | HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jio-tv.live/uploads/tv_image/5tv-corrientes.png" group-title="Argentina TV", 5Tv Correintes | HD (720p) 
-#EXTVLCOPT:network-caching=1000
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-
-
-
-
-
-
-
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="Chile TV",24 Horas | HD (720p) 
-#EXTVLCOPT:network-caching=1000
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/24HORAS/live
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News USA",3 Studios Cleveland OH (WKYC) | HD (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News USA",7 News Boston MA (WHDH) | HD (540p)
-#EXTVLCOPT:network-caching=1000
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS USA",12 News (KBMT) Beaumont TX | HD (1080p)
-https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal ReadyHD HDTV
-#EXTVLCOPT:network-caching=1000
-http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 34 PH TV HDTV
-#EXTVLCOPT:network-caching=1000
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 34 PH TV eng HDTV
-#EXTVLCOPT:network-caching=1000
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://si.cultura.cr/sites/default/files/styles/thumbnail_fichas_eventos_gallery_105x70/public/hbtv_ticavision.jpg" group-title="Local MX" audio-track="spa",Canal 54.1 TicaVisión HDTV
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 tvg-name="wowtv.com" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Local MxX",100 Channel WowTV HDTV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",Microvision HDTV
-http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",TeleJunin HDTV
-http://videostream.shockmedia.com.ar:1935/telejunin/telejunin/chunklist_w239103836.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",132 Multivision HDTV
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",133 ChacoTV HDTV
-http://coninfo.net:1935/chacodxdtv/live/chunklist_w1623593551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",134 VIET MTV HDTV
-http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",135 TV EXTREMA HDTV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",134 TeleMAX HDTV
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",42 RomanaTV HDTV
-http://tv.romanatv42.com/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",111 BHTV HDTV
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music TV",Canal 1HD Music | HD 
@@ -658,78 +937,6 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music TV",Canal Zerouno
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 
 
-#EXTINF:7195,2 CBS Greensboro NC (WFMY) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
-#EXTINF:0,2 CBS Spokane WA (KREM) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.krem.com/hls/live/2017156/newscasts/live.m3u8
-#EXTINF:0,3 CBS Omaha NE (KMTV-TV) (720p)
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
-#EXTINF:0,4 CBS New Orleans LA (WWL-TV) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/WIVB_Logo.png/150px-WIVB_Logo.png" group-title="CBS USA",4 CBS Buffalo NY (WIVB-TV1) (720p)
-#EXTVLCOPT:network-caching=1000
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-#EXTINF:0,5 CBS Ft Smith AR (KFSM-TV) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8
-#EXTINF:0,5 CBS San Antonio TX (KENS) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8
-#EXTINF:0,6 CBS Albany NY (WRGB) (720p)
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1354110583495385089/ztrUC7MY_400x400.jpg" group-title="CBS USA",6 CBS Tallahassee FL (WCTV1) (720p)
-#EXTVLCOPT:network-caching=1000
-https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/KIRO_7_2015.svg/200px-KIRO_7_2015.svg.png",7 CBS Seattle WA (KIRO-TV1) (720p)
-#EXTVLCOPT:network-caching=1000
-http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
-#EXTINF:0,8 CBS San Diego CA (KFMB-TV) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
-#EXTINF:0,9 CBS Washington DC (WUSA) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
-#EXTINF:0,10 CBS Columbus OH (WBNS-TV) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.10tv.com/hls/live/2013836/newscasts/live.m3u8
-#EXTINF:0,10 CBS Tampa FL (WTSP) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8
-#EXTINF:0,11 CBS Houston TX (KHOU) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8
-#EXTINF:0,11 CBS Toledo OH (WTOL) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.wtol.com/hls/live/2017153/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.amazonaws.com/assets.inarkansas.com/127749/thv_300.png" group-title="CBS USA",11 CBS THV11 Little Rock AR (KTHV) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.thv11.com/hls/live/2017154/newscasts/live.m3u8
-#EXTINF:0,12 CBS West Palm Beach FL (WPEC) (720p)
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
-#EXTINF:0,13 CBS Macon GA (WMAZ-TV) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.13wmaz.com/hls/live/2017376/newscasts/live.m3u8
-#EXTINF:0,19 CBS Columbia SC (WLTX) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.wltx.com/hls/live/2017152/newscasts/live.m3u8
-#EXTINF:0,19 CBS Tyler TX (KYTX) (1080p)
-#EXTVLCOPT:network-caching=1000
-https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8
-#EXTINF:0,46 CBS Atlanta GA (WGCL-TV) (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8
-#EXTINF:0,47 CBS Action News Jacksonville FL (WJAX-TV) (720p)
-#EXTVLCOPT:network-caching=1000
-https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/WWJ_CBS_62_2016.svg/225px-WWJ_CBS_62_2016.svg.png" group-title="CBS USA",62 CBS Buffalo NY (WIVB-TV1) (720p)
-#EXTVLCOPT:network-caching=1000
-http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit_720p/playlist.m3u8
 
 
 
@@ -4815,4 +5022,5 @@ http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_q
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws
 #EXTINF:-1 tvg-id="215" tvg-name="Radio National (Australia)" tvg-logo="https://cdn-radiotime-logos.tunein.com/s20269q.png" group-title="AU Radio",ABC Radio National
 http://live-radio02.mediahubaustralia.com/2RNW/mp3/
+
 
