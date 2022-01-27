@@ -27,8 +27,18 @@ http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-id="Charge.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fuw0hHE.png" group-title="USA Cable",Charge! | HD
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
+
+http://solutionplay.xyz:8080/techruthes/10987658/33156
+
+
 #EXTINF:-1 tvg-id="115" tvg-name="" tvg-logo="https://staticcdn.metv.com/images/metv_logo.png" group-title="Cable USA",44.3 MeTV (KBCW) | HD
 https://api.locastnet.org/api/watch/stream/1435/37.81/-122.24/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbmRyZXdxbGVAZ21haWwuY29tIiwicm9sZSI6MSwiZXhwIjoxNjAwNDUzMzgzfQ.J5ozsTgSPk5uAjjJk7vdKaPy4PDprVdtmWw9RMNSC_I
+
+#EXTINF:-1 tvg-id="tnt.com tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" tvg-name="TNT Series" group-title="Cable TV",TNT Series | HD
+http://solutionplay.xyz:8080/techruthes/10987658/27180
+
+#EXTINF:-1 tvg-id="ion.com" tvg-name="ION USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWJ7nxwrXq_j5DCdteciGEY2ZksVisjxSCj5lrN9iD3OE_FyLoS3Gi-F3iRpRaSqmnFQ&usqp=CAU" group-title="Cable USA",ION | HD
+http://solutionplay.xyz:8080/techruthes/10987658/31209
 
 
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="USA Cable",TBS East HDTV [Geo-blocked]
@@ -51,6 +61,27 @@ https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
 
+// *** Italy Channels **** 
+#EXTINF:-1 tvg-id="" tvg-country="IT" tvg-language="ITALIAN" tvg-logo="" group-title="Italy TV", Motor Trend Discovery | HD
+#EXTVLCOPT:network-caching=1000
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+
+// *** Koreea Channels **** 
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-country="KO" tvg-language="KOREAN" group-title="Italy TV", KBS World | Korean HD
+#EXTVLCOPT:network-caching=1000
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/81
+
+
+// *** Brazil Channels **** 
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-country="BR" tvg-language="Brazilian" group-title=" Brazil TV",GLOBO Bahia | Brasil HD
+#EXTVLCOPT:network-caching=1000
+http://solutionplay.xyz:8080/techruthes/10987658/27227
+
+
+// *** TRT Channels **** 
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-country="English" tvg-language="Engish" group-title="TRT TV",TRT World | Eng HD
+#EXTVLCOPT:network-caching=1000
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/84
 
 // ***** CNN Channels ****
 #EXTINF:-1 tvg-id="Cnn.com" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="CNN TV",CNN Internacional Europe | HD
@@ -81,9 +112,17 @@ https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source
 
 
 // **** FRANCE Channels ****
-#EXTINF:-1 tvg-id="france.com" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="" group-title="France TV",France 24 Español | HD
+#EXTINF:-1 tvg-id="france.com" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" tvg-country="LATAM" tvg-language="Spanish"  group-title="France TV",France 24 | Esp HD
 #EXTVLCOPT:network-caching=1000
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="france.com" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" tvg-country="LATAM" tvg-language="Spanish" group-title="France TV",France 24 | Eng HD
+#EXTVLCOPT:network-caching=1000
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/47
+
+#EXTINF:-1 tvg-id="france.com" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" tvg-country="FR" tvg-language="Spanish" group-title="France TV",France 24 | Fra HD
+#EXTVLCOPT:network-caching=1000
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/48
 
 
 // **** RT Noticias Channles ****
@@ -168,6 +207,11 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/TVE_Internacional_old.png/revision/latest/scale-to-width-down/250?cb=20100228175250" tvg-country="SP" tvg-language="Español" group-title="España TV",Canal TVE Internacional | HD
+#EXTVLCOPT:network-caching=1000
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/44
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-name="La 2" tvg-language="Español" tvg-country="SP" group-title="España TV",Canal La 2 | HD
 #EXTVLCOPT:network-caching=1000
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
@@ -209,9 +253,15 @@ https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
 
 
 // **** JAPAN Channels *****
+
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkRjJZ06s9CUc8QNWieD9WM0o9U2Mcx6BeDcFQOe1wFSQ_jrPUAN8-OsH3VVGiHzDb9Pw&usqp=CAU" tvg-country="JP" tvg-language="English" group-title="Japan TV",NHK World | Eng HD
+#EXTVLCOPT:network-caching=1000
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
 #EXTINF:-1 tvg-name="NHK World" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-country="SP" tvg-language="Español" group-title="Japan TV",NHK World | HD
 #EXTVLCOPT:network-caching=1000
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
 
 // **** Telemundo Channels *****
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/WSNS44.png" tvg-country="SP" tvg-language="Español" group-title="Telemundo TV",Telemundo Chicago IL WSNS | HD
