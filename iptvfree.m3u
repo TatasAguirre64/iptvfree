@@ -1,5 +1,72 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="WHDH.us" tvg-name="7 News Boston MA (WHDH)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="Local",7 News (WHDH) Boston MA | HD 
+#EXTVLCOPT:network-caching=1000
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+
+#EXTINF:-1 tvg-id="WKYC.us" tvg-name="3 Studios Cleveland OH (WKYC)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tjlSkyp.jpg" group-title="Local",3 Studios WKYC Cleveland OH | HD (1080p)
+https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
+
+::::: Argentina Channels :::::
+#EXTINF:-1 tvg-id="telemax.tv" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Argentina TV",Telemax Argentina | HD
+#EXTVLCOPT:network-caching=1000
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="5TV.ar" tvg-logo="https://i.imgur.com/kujnLsO.png" tvg-name="5TV HD" tvg-country="AR" tvg-language="Spanish"  group-title="",5TV Corrientes | HD (480p)
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+// **** España Channels *****
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3cffvogsu5dhv.cloudfront.net/wp-content/uploads-new/2017/10/09084207/Logotipo_TM-640x360.png" tvg-country="SP" tvg-language="Español" group-title="España TV",Canal TeleMadrid | HD
+#EXTVLCOPT:network-caching=1000
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+
+#EXTINF:-1 tvg-id="7LaRioja.es" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-7-de-la-rioja-tv-2029.png" tvg-name="7 La Rioja" tvg-country="ES" tvg-language="Spanish" group-title="Spain TV",7 La Rioja | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/TVE_Internacional_old.png/revision/latest/scale-to-width-down/250?cb=20100228175250" tvg-country="SP" tvg-language="Español" group-title="España TV",Canal TVE Internacional | HD
+#EXTVLCOPT:network-caching=1000
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/44
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-name="La 2" tvg-language="Español" tvg-country="SP" group-title="España TV",Canal La 2 | HD
+#EXTVLCOPT:network-caching=1000
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-name="La 2" tvg-language="Español" tvg-country="SP" group-title="España TV",Canal La 2 mpd | HD 
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-name="La 2" tvg-language="Español" tvg-country="SP" group-title="España TV",Canal La 2 | HD
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/VSDsSTZ.png" tvg-country="SP" tvg-language="Español" group-title="España TV",Canal TeleMadrid | HD
+#EXTVLCOPT:network-caching=1000
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zROxNap.png" tvg-name="Cuatro" tvg-language="Español" tvg-country="SP" group-title="España TV",Canal La 4 Cuatro | HD
+#EXTVLCOPT:network-caching=1000
+https://limited09.todostreaming.es/live/tarson-livestream.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-name="La 7 CYLTV" tvg-logo="https://i.imgur.com/o2FlMXP.png" tvg-language="Español" tvg-country="SP" group-title="Spain",La 7 CYLTV | HD
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/chunklist_b2200000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="La 8 León" tvg-logo="https://imgur.com/mhK7EWO.png" tvg-language="Español" tvg-country="SP" group-title="Spain",La 8 León | HD
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="24 Horas Rtvees TV " tvg-language="Español" tvg-country="SP" group-title="Spain TV",24 Horas Rtvees TV 
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="La 2" tvg-language="Español" tvg-country="SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/1200px-TV3CAT.svg.png" group-title="España TV",Canal 26 3CAT | HD
+#EXTVLCOPT:network-caching=1000
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="fox61.com" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6QlmS1C.jpg" group-title="FOX TV",61 FOX Hartford CT (WTIC-TV) | HD 
 #EXTVLCOPT:network-caching=1000
@@ -19,7 +86,10 @@ http://azxtv.com/hls/stream.m3u8
 #EXTVLCOPT:network-caching=1000
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
 
-
+#EXTINF:-1 tvg-id="axn.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREactESRH9PfmqsnCs5lcZ2p0HDhW1VJD3bS-TN0PLM51iGZU3yffOmbP5UZpKtSljuV4&usqp=CAU"
+ tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",AXN East Asia Thai`| HD
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Comet.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Comet_TV_Logo.png" group-title="USA Cable",Comet | HD
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
@@ -31,6 +101,24 @@ http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-id="115" tvg-name="" tvg-logo="https://staticcdn.metv.com/images/metv_logo.png" group-title="Cable USA",44.3 MeTV (KBCW) | HD
 #EXTVLCOPT:network-caching=1000
 https://api.locastnet.org/api/watch/stream/1435/37.81/-122.24/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbmRyZXdxbGVAZ21haWwuY29tIiwicm9sZSI6MSwiZXhwIjoxNjAwNDUzMzgzfQ.J5ozsTgSPk5uAjjJk7vdKaPy4PDprVdtmWw9RMNSC_I
+
+#EXTINF:-1 tvg-id="bolywood.com" tvg-country="US" tvg-language="English" tvg-logo="" group-title="USA Cable",Bolywood | HD
+#EXTVLCOPT:network-caching=1000
+https://sc.id-tv.kz/bollywood_hd.m3u8
+
+
+#EXTINF:-1 tvg-id="Charge.us" tvg-name="" tvg-logo="https://i.imgur.com/fuw0hHE.png" group-title="USA Cable",Charge! USA | HD
+#EXTVLCOPT:network-caching=1000
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+#EXTINF:-1 tvg-id="Charge.us" tvg-name=""tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fuw0hHE.png" group-title="USA Cable",Charge! | HD
+#EXTVLCOPT:network-caching=1000
+https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtxrwyusL4XscUXwsqsyk-Z1Rpg4YAz5C9t-ooI0DoS7KqZ4Jn4mzMNpEcYhUCfuMYV5w&usqp=CAU" group-title="USA Cable",Al Jazeera Eng | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
 
 #EXTINF:-1 tvg-id="tnt.com tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" tvg-name="TNT Series" group-title="Cable TV",TNT Series | HD
 #EXTVLCOPT:network-caching=1000
@@ -64,10 +152,86 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fuw0hHE.png" group-title="USA Cable",Charge! USA | HD
+#EXTINF:-1 tvg-id="goldenlatam.mx" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" tvg-country="MX" tvg-language="Spanish"  group-title="Cable MX",Canal Golden LatinoAmerica | HD
 #EXTVLCOPT:network-caching=1000
-https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-country="MX" tvg-language="Spanish"  group-title="Cable MX",Canal  Moovimex | HD
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-country="MX" tvg-language="Spanish"  group-title="Cable MX",Canal Cine Clasicos TV | HD
+#EXTVLCOPT:network-caching=1000
+https://tvdatta.com:3484/stream/play.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-country="MX" tvg-language="Spanish"  group-title="Cable MX",Canal 
+Tlaxcala Tv | HD
+#EXTVLCOPT:network-caching=1000
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
+
+
+#EXTINF:-1 tvg-id="CanalMundoPlus.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9BtSyV2.png" group-title="Cable MX",Canal Mundo+ | HD
+#EXTVLCOPT:network-caching=1000
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 6 ReadyHD | HD 
+#EXTVLCOPT:network-caching=1000
+http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://secureservercdn.net/198.71.233.110/j6z.120.myftpupload.com/wp-content/uploads/2021/09/Nuevo-Logo-ATM-3-HD-150x150.png" group-title="PERU TV",Canal ATM TV Peru | HD 
+#EXTVLCOPT:network-caching=1000
+https://v4.tustreaming.cl/atmtv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.atb.com/siteassets/images/company/news/stories/wearing-our-new-logo-with-pride/atb-wearing-our-new-logo-with-pride.jpg" group-title="Bolivia TV",Canal ATB Bolivia | HD
+#EXTVLCOPT:network-caching=1000
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 tvg-id="AKITV.COM" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://image.roku.com/developer_channels/prod/0a78f669292e1889fa7f05e9033a2a10d460763ef9068613b0e88bf26bfd134c.png" group-title="Movies TV",Canal AKITV | HD
+#EXTVLCOPT:network-caching=1000
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies Tv",Canal Microvision | HD
+#EXTVLCOPT:network-caching=1000
+http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Movies TV",Canal CadenaTVHD Huancayo | HD 
+#EXTVLCOPT:network-caching=1000
+https://tvdatta.com:3262/live/cadenatvlive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Movies TV",Canal Bella Abanquina TV (Apurimac) | HD
+#EXTVLCOPT:network-caching=1000
+https://v4.tustreaming.cl/bellatv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal Orbit | HD
+#EXTVLCOPT:network-caching=1000
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Movies TV",Canal CajaMarcaTV | HD 
+#EXTVLCOPT:network-caching=1000
+https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Uruguay TV",Canal ABN TV | HD 
+#EXTVLCOPT:network-caching=1000
+https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
+
+#EXTINF:-1 tvg-id="asiritv.com" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://image.winudf.com/v2/image1/YXBwaW52ZW50b3IuYWlfbG93ZXBhbG1hLmFzaXJpdHZfc2NyZWVuXzBfMTYxNTI3Nzc5NV8wODc/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Movies TV",Canal AsiriTV | HD
+#EXTVLCOPT:network-caching=1000
+https://video2.lhdserver.es/asiritv/live.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Movies TV",Canal Bethel TV | HD
+#EXTVLCOPT:network-caching=1000
+https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",Canal Andes TV Sicusani | HD
+#EXTVLCOPT:network-caching=1000
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Movies TV",Canal betevé | HD
+#EXTVLCOPT:network-caching=1000
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 
 #EXTINF:-1 tvg-id="motorvision.tv" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Cable USA",Motorvisison TV | HD
 #EXTVLCOPT:network-caching=1000
@@ -189,10 +353,8 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 #EXTVLCOPT:network-caching=1000
 http://s02.diazol.hu:10192/stream.m3u8
 
-// **** Argentina Channels *****
-#EXTINF:-1 tvg-id="telemax.tv" tvg-country="AR" tvg-language="English" tvg-logo="" group-title="Argentina TV",Telemax Argentina | HD
-#EXTVLCOPT:network-caching=1000
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+
 
 // **** Chile Channels *****
 #EXTINF:-1 tvg-id="ucv3.tv"  tvg-logo="https://ucvtv.cl/imagenes/logo-ucv-200.png" tvg-country="CH" tvg-language="Español" group-title="Chile TV",Canal 4.3 UCV | HD
@@ -212,55 +374,7 @@ https://sofytv-samsungit.amagi.tv/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 
-// **** España Channels *****
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" tvg-language="Español" tvg-country="SP" group-title="España TV",Canal La 2 | HD
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3cffvogsu5dhv.cloudfront.net/wp-content/uploads-new/2017/10/09084207/Logotipo_TM-640x360.png" tvg-country="SP" tvg-language="Español" group-title="España TV",Canal TeleMadrid | HD
-#EXTVLCOPT:network-caching=1000
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/TVE_Internacional_old.png/revision/latest/scale-to-width-down/250?cb=20100228175250" tvg-country="SP" tvg-language="Español" group-title="España TV",Canal TVE Internacional | HD
-#EXTVLCOPT:network-caching=1000
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/44
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-name="La 2" tvg-language="Español" tvg-country="SP" group-title="España TV",Canal La 2 | HD
-#EXTVLCOPT:network-caching=1000
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-name="La 2" tvg-language="Español" tvg-country="SP" group-title="España TV",Canal La 2 mpd | HD 
-#EXTVLCOPT:network-caching=1000
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-name="La 2" tvg-language="Español" tvg-country="SP" group-title="España TV",Canal La 2 | HD
-#EXTVLCOPT:network-caching=1000
-https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/VSDsSTZ.png" tvg-country="SP" tvg-language="Español" group-title="España TV",Canal TeleMadrid | HD
-#EXTVLCOPT:network-caching=1000
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zROxNap.png" tvg-name="Cuatro" tvg-language="Español" tvg-country="SP" group-title="España TV",Canal La 4 Cuatro | HD
-#EXTVLCOPT:network-caching=1000
-https://limited09.todostreaming.es/live/tarson-livestream.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-name="La 7 CYLTV" tvg-logo="https://i.imgur.com/o2FlMXP.png" tvg-language="Español" tvg-country="SP" group-title="Spain",La 7 CYLTV | HD
-#EXTVLCOPT:network-caching=1000
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/chunklist_b2200000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="La 8 León" tvg-logo="https://imgur.com/mhK7EWO.png" tvg-language="Español" tvg-country="SP" group-title="Spain",La 8 León | HD
-#EXTVLCOPT:network-caching=1000
-https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="24 Horas Rtvees TV " tvg-language="Español" tvg-country="SP" group-title="Spain TV",24 Horas Rtvees TV 
-#EXTVLCOPT:network-caching=1000
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="La 2" tvg-language="Español" tvg-country="SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/1200px-TV3CAT.svg.png" group-title="España TV",Canal 26 3CAT | HD
-#EXTVLCOPT:network-caching=1000
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
 
 
 
@@ -274,6 +388,8 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-name="NHK World" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-country="SP" tvg-language="Español" group-title="Japan TV",NHK World | HD
 #EXTVLCOPT:network-caching=1000
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+
 
 
 // **** Telemundo Channels *****
@@ -331,81 +447,9 @@ http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
 
-// **** Russsian Tv Channels *****
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 tvg-name="???? ?? ?" tvg-logo="https://i.imgur.com/kFdooR4.png" group-title="Russia",???? ?? ?
-http://iptv.ktkru.ru:8003/index.m3u8
-#EXTINF:-1 tvg-name="??? ?" tvg-logo="https://i.imgur.com/DtQX5P2.png" group-title="Russia",??? ?
-http://iptv.ktkru.ru:8004/index.m3u8
-#EXTINF:-1 tvg-name="????? ????? ?" tvg-logo="https://i.imgur.com/u8Q69D9.png" group-title="Russia", Kannal 5
-http://iptv.ktkru.ru:8005/index.m3u8
-#EXTINF:-1 tvg-name="??????-???????? ?" tvg-logo="https://i.imgur.com/S12gaLc.png" group-title="Russia",??????-???????? ?
-http://iptv.ktkru.ru:8006/index.m3u8
-#EXTINF:-1 tvg-name="??????-24 ?" tvg-logo="https://i.imgur.com/tpqsFzm.png" group-title="Russia",??????-24 ?
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 tvg-name="???????? ?" tvg-logo="https://i.imgur.com/4fFMlVq.png" group-title="Russia",???????? ?
-http://iptv.ktkru.ru:8008/index.m3u8
-#EXTINF:-1 tvg-name="??? ?" tvg-logo="https://i.imgur.com/QyZvT3e.png" group-title="Russia",OTP
-http://iptv.ktkru.ru:8009/index.m3u8
-#EXTINF:-1 tvg-name="?? ????? ?" tvg-logo="https://i.imgur.com/ZP0D6Rd.png" group-title="Russia",TBU
-http://iptv.ktkru.ru:8010/index.m3u8
-#EXTINF:-1 tvg-name="??? ?? ?" tvg-logo="https://i.imgur.com/18TAzYV.png" group-title="Russia",4
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 tvg-name="??? ?" tvg-logo="https://i.imgur.com/y9bpqUD.png" group-title="Russia",CTC
-http://iptv.ktkru.ru:8013/index.m3u8
-#EXTINF:-1 tvg-name="???????? ?" tvg-logo="https://i.imgur.com/e8wlMIt.png" group-title="Russia",D
-http://iptv.ktkru.ru:8014/index.m3u8
-#EXTINF:-1 tvg-name="??-3 ?" tvg-logo="https://i.imgur.com/kjaxZms.png" group-title="Russia",TB-3
-http://iptv.ktkru.ru:8015/index.m3u8
-#EXTINF:-1 tvg-name="???????! ?" tvg-logo="https://i.imgur.com/rS11zVB.png" group-title="Russia",???????! ?
-http://iptv.ktkru.ru:8016/index.m3u8
-#EXTINF:-1 tvg-name="?????? ?" tvg-logo="https://i.imgur.com/c0L0ncA.png" group-title="Russia",?????? ?
-http://iptv.ktkru.ru:8017/index.m3u8
-#EXTINF:-1 tvg-name="???" tvg-logo="https://i.imgur.com/L2slsbG.png" group-title="Russia",???
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-name="??? ?" tvg-logo="https://i.imgur.com/1WqIPOB.png" group-title="Russia",??? ?
-http://iptv.ktkru.ru:8019/index.m3u8
-#EXTINF:-1 tvg-name="???-?? ?" tvg-logo="https://i.imgur.com/Ml3qqOF.png" group-title="Russia",???-?? ?
-http://iptv.ktkru.ru:8020/index.m3u8
 
 
-// **** Slovakia Tv Channels *****
-#EXTINF:-1 tvg-name="Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" group-title="Slovakia",Jednotka
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=1
-#EXTINF:-1 tvg-name="Dvojka" tvg-logo="https://i.imgur.com/Ksi25UD.png" group-title="Slovakia",Dvojka
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=2
-#EXTINF:-1 tvg-name="Trojka" tvg-logo="https://i.imgur.com/wy4Nrxl.png" group-title="Slovakia",Trojka
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=3
-#EXTINF:-1 tvg-name=":O" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="Slovakia",:O
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=4
-#EXTINF:-1 tvg-name="RTVS" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="Slovakia",RTVS
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=6
-#EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" group-title="Slovakia",NR SR
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=5
-#EXTINF:-1 tvg-name="JOJ" tvg-logo="https://i.imgur.com/5BAWD0z.png" group-title="Slovakia",JOJ
-https://live.cdn.joj.sk/live/hls/joj-720.m3u8
-#EXTINF:-1 tvg-name="JOJ Plus" tvg-logo="https://i.imgur.com/fKPliTj.png" group-title="Slovakia",JOJ Plus
-https://live.cdn.joj.sk/live/hls/jojplus-540.m3u8
-#EXTINF:-1 tvg-name="WAU" tvg-logo="https://i.imgur.com/3M46moH.png" group-title="Slovakia",WAU
-https://live.cdn.joj.sk/live/hls/wau-540.m3u8
-#EXTINF:-1 tvg-name="Senzi" tvg-logo="https://i.imgur.com/W82dwzf.png" group-title="Slovakia",Senzi
-http://lb.streaming.sk/senzi/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="TA3 ?" tvg-logo="https://i.imgur.com/kPFBxc9.png" group-title="Slovakia",TA3 ?
-http://sktv-forwarders.7m.pl/get.php?x=TA3
-#EXTINF:-1 tvg-name="RTV SLO 1" tvg-logo="https://i.imgur.com/YIZOtcm.png" group-title="Slovenia",RTV SLO 1
-https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV SLO 2" tvg-logo="https://i.imgur.com/mQe9U2h.png" group-title="Slovenia",RTV SLO 2
-https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV SLO 3" tvg-logo="https://i.imgur.com/WGUyj7r.png" group-title="Slovenia",RTV SLO 3
-https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Koper" tvg-logo="https://i.imgur.com/NQvOJNh.png" group-title="Slovenia",TV Koper
-https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Maribor" tvg-logo="https://i.imgur.com/tWf3dgf.png" group-title="Slovenia",TV Maribor
-https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="MMC TV" tvg-logo="https://i.imgur.com/yzETQJ4.png" group-title="Slovenia",MMC TV
-https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8
-
-
+""" ABC Channels ::::
 
 #EXTINF:0,2 ABC Atlanta GA (WSB-TV) (720p)
 #EXTVLCOPT:network-caching=1000
@@ -462,9 +506,11 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
 #EXTINF:0,9 ABC Orlando FL (WFTV) (720p)
 #EXTVLCOPT:network-caching=1000
 https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
-#EXTINF:0,10 ABC Sacramento CA (KXTV) (1080p)
+
+#EXTINF:-1 tvg-id="KXTV.us" tvg-name="ABC 10 Sacramento CA (KXTV)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/aqxCgyG.jpg" group-title="Local",ABC 10 Sacramento CA (KXTV) | HD (1080p)
 #EXTVLCOPT:network-caching=1000
 https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
+
 #EXTINF:0,11 ABC Louisville KY (WHAS) (1080p)
 #EXTVLCOPT:network-caching=1000
 https://livevideo01.whas11.com/hls/live/2016284/newscasts/live.m3u8
@@ -574,35 +620,57 @@ http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit_720p/playlist.m3u8
 
 // ********************************************************************************************************** //
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN | HD (720p)
+#EXTINF:-1 tvg-id="3ABN.us" tvg-name="3ABN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GVZuKc7.png" group-title="3ABN",3ABN | HD (720p)
 #EXTVLCOPT:network-caching=1000
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Dare to Dream | HD (720p)
+
+#EXTINF:-1 tvg-id="K17JID3.us" tvg-name="3ABN Dare to Dream" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zI6jr9L.png" group-title="3ABN TV",3ABN Dare to Dream | HD (720p)
 #EXTVLCOPT:network-caching=1000
 https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Français | HD (720p)
+
+#EXTINF:-1 tvg-id="3ABNFrancais.us" tvg-name="3ABN Français" tvg-country="US" tvg-language="French" tvg-logo="https://i.imgur.com/V6bL5MJ.png" group-title="3ABN TV",3ABN Français | HD (720p)
+#EXTVLCOPT:network-caching=1000
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN International | HD (720p)
+
+#EXTINF:-1 tvg-id="3ABNInternational.us" tvg-name="3ABN International" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vhb8zvB.png" group-title="3ABN TV",3ABN International | HD (720p)
 #EXTVLCOPT:network-caching=1000
 https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Kids | HD (720p)
+
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eOvzf3d.png" group-title="3ABN TV",3ABN Kids | HD (720p)
 #EXTVLCOPT:network-caching=1000
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Latino | HD (480p)
+
+#EXTINF:-1 tvg-id="K17JID4.us" tvg-name="3ABN Latino" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="3ABN TV",3ABN Latino | HD (480p)
 #EXTVLCOPT:network-caching=1000
 http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Latino | HD (720p)
+
+#EXTINF:-1 tvg-id="K18JLD2.us" tvg-name="3ABN Latino" tvg-logo="https://3abn.org/img/3abn-ogg.png" tvg-country="US" group-title="3ABN TV",3ABN Latino | HD (720p)
 #EXTVLCOPT:network-caching=1000
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Praise Him Music Channel | HD (720p)
+
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicChannel.us" tvg-name="3ABN Praise Him Music Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/t6Ydwqg.png" group-title="3ABN TV",3ABN Praise Him Music Channel | HD (720p)
 #EXTVLCOPT:network-caching=1000
 https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Proclaim! | HD (720p)
+
+#EXTINF:-1 tvg-id="K17JID2.us" tvg-name="3ABN Proclaim!" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/KiMtKUL.png" group-title="3ABN TV",3ABN Proclaim! | HD (720p)
 #EXTVLCOPT:network-caching=1000
 https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="3ABN",3ABN Russia | HD (720p)
+#EXTINF:-1 tvg-id="3ABNRussia.us" tvg-name="3ABN Russia" tvg-country="US" tvg-language="Russian" tvg-logo="https://i.imgur.com/8fKWpo3.png" group-title="3ABN TV",3ABN Russia | HD (720p)
 #EXTVLCOPT:network-caching=1000
 https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // ********************************************************************************************************** //
 
@@ -632,71 +700,7 @@ https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
 
 
 // ********************************************************************************************************** //
-#EXTINF:-1 tvg-id="goldenlatam.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" group-title="Cable MX",Canal Golden LatinoAmerica | HD
-#EXTVLCOPT:network-caching=1000
-https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="CanalMundoPlus.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9BtSyV2.png" group-title="Cable MX",Canal Mundo+ | HD
-#EXTVLCOPT:network-caching=1000
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 6 ReadyHD | HD 
-#EXTVLCOPT:network-caching=1000
-http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://secureservercdn.net/198.71.233.110/j6z.120.myftpupload.com/wp-content/uploads/2021/09/Nuevo-Logo-ATM-3-HD-150x150.png" group-title="PERU TV",Canal ATM TV Peru | HD 
-#EXTVLCOPT:network-caching=1000
-https://v4.tustreaming.cl/atmtv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.atb.com/siteassets/images/company/news/stories/wearing-our-new-logo-with-pride/atb-wearing-our-new-logo-with-pride.jpg" group-title="Bolivia TV",Canal ATB Bolivia | HD
-#EXTVLCOPT:network-caching=1000
-http://186.121.206.197/live/daniel/index.m3u8
-
-#EXTINF:-1 tvg-id="AKITV.COM" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://image.roku.com/developer_channels/prod/0a78f669292e1889fa7f05e9033a2a10d460763ef9068613b0e88bf26bfd134c.png" group-title="Movies TV",Canal AKITV | HD
-#EXTVLCOPT:network-caching=1000
-https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies Tv",Canal Microvision | HD
-#EXTVLCOPT:network-caching=1000
-http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Movies TV",Canal CadenaTVHD Huancayo | HD 
-#EXTVLCOPT:network-caching=1000
-https://tvdatta.com:3262/live/cadenatvlive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Movies TV",Canal Bella Abanquina TV (Apurimac) | HD
-#EXTVLCOPT:network-caching=1000
-https://v4.tustreaming.cl/bellatv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal Orbit | HD
-#EXTVLCOPT:network-caching=1000
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Movies TV",Canal CajaMarcaTV | HD 
-#EXTVLCOPT:network-caching=1000
-https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Uruguay TV",Canal ABN TV | HD 
-#EXTVLCOPT:network-caching=1000
-https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
-
-#EXTINF:-1 tvg-id="asiritv.com" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://image.winudf.com/v2/image1/YXBwaW52ZW50b3IuYWlfbG93ZXBhbG1hLmFzaXJpdHZfc2NyZWVuXzBfMTYxNTI3Nzc5NV8wODc/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Movies TV",Canal AsiriTV | HD
-#EXTVLCOPT:network-caching=1000
-https://video2.lhdserver.es/asiritv/live.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Movies TV",Canal Bethel TV | HD
-#EXTVLCOPT:network-caching=1000
-https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spanish",Canal Andes TV Sicusani | HD
-#EXTVLCOPT:network-caching=1000
-https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="Movies TV",Canal betevé | HD
-#EXTVLCOPT:network-caching=1000
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 
 
 
@@ -746,6 +750,7 @@ https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="CLAROSPORT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="Local MX",Canal Claro Sport MVS | HD
 #EXTVLCOPT:network-caching=1000
 http://45.179.140.242:8000/play/a0ht
+
 
 
 // ********************************************************************************************************//
