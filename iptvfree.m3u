@@ -7,6 +7,50 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestrea
 #EXTINF:-1 tvg-id="WKYC.us" tvg-name="3 Studios Cleveland OH (WKYC)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tjlSkyp.jpg" group-title="Local",3 Studios WKYC Cleveland OH | HD (1080p)
 https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
 
+:: VIDEO MUSIC TV Channels ::
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-country="" tvg-language="English" group-title="VideoMuisc TV",4FUN TV Eng | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+
+
+
+::: KOREA Channels  :::
+
+#EXTINF:-1 tvg-id="arirang.ko" tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" tvg-country="KO" tvg-language="English" group-title="Korea",Arirang Korea Eng | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="arirang.ko" tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" tvg-country="KO" tvg-language="English" group-title="Korea",Arirang | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/9ddeb092bc0964c344164bf3cd36d7941d37ca1947e0680a0084d7871dace8d0.png" group-title="KOREA TV HD",Arirang Korea | HD (1080p)
+htthttps://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
+
+::: ISRAEL TV Channels :::
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/KAN_11.png" tvg-country="IR" tvg-language="English" group-title="Israel TV",KAN 11 TV Irael (Hebrew) | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
+
+::: UKRAINE TV Channels :::
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_112_Ukraine.svg/200px-Logo_112_Ukraine.svg.png" tvg-name="" tvg-country="UK" tvg-language="English" group-title="UKRAINE TV",112 Ukraine | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+
+
+::: PERU TV Channels :::
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" tvg-name="" tvg-country="" tvg-language="English" group-title=" TV",Peru Internacional | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+http://cdnh4.iblups.com/hls/irtp.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-country="" tvg-language="English" group-title=" TV", | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+ 
 
 ::::: Kids Channels :::::
 #EXTINF:-1 tvg-id=".us" tvg-logo="" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",ABC Kids Eng| HD
@@ -107,7 +151,6 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 
 ::: USA Cable Channels :::
 
-
 #EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" tvg-name="ION Plus" tvg-country="US" tvg-language="English" group-title="USA Cable",ION Plus | HD
 #EXTVLCOPT:network-caching=1000
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
@@ -118,10 +161,13 @@ https://5e6cea03e25b6.streamlock.net/live/WCTVDT2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/retro-tv-us.png" group-title="Classic",Retro TV (720p)
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KCKSLD9.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/retro-tv-us.png" group-title="Classic",Retro TV (KCKS-LD9) (480p)
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+
 #EXTINF:-1 tvg-id="Revn.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzI1NDE5MjRf/Revn_375x375.png" group-title="",Rev'n (720p)
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KCKSLD7.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png" group-title="Auto",Rev'n (KCKS-LD7) (480p)
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 
@@ -135,9 +181,15 @@ https://5e6cea03e25b6.streamlock.net/live/GRIT.stream/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="GRIT.com" tvg-name="GRIT USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjj-hEr4daVE0pTAx1-j_vDoNqm6ToNwfoGaNJ3gUsgCmm5ulDTmp2cbCg7wE_-tVrA5w&usqp=CAU" group-title="Cable USA",GRIT | HD
+#EXTINF:-1 tvg-id="TruTV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtSlCFPq-ASnujkvhDmGCl-RE8aUZbNGtv7Hp1irtW0vFrHdcL6vDPVj7wHUxdqOBw2jA&usqp=CAU" tvg-name="TruTV USA"  tvg-country="US" tvg-language="English" group-title="Cable USA",TruTV East | HD
 #EXTVLCOPT:network-caching=1000
-https://5e6cea03e25b6.streamlock.net/live/GRIT.stream/playlist.m3u8
+https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TruTV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtSlCFPq-ASnujkvhDmGCl-RE8aUZbNGtv7Hp1irtW0vFrHdcL6vDPVj7wHUxdqOBw2jA&usqp=CAU" tvg-name="TruTV USA"  tvg-country="US" tvg-language="English" group-title="Cable USA",TruTV West | HD
+#EXTVLCOPT:network-caching=1000
+https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+
 
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="USA Cable",TBS East HDTV [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
@@ -198,10 +250,6 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1
 #EXTVLCOPT:network-caching=1000
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 
-#EXTINF:-1 tvg-id="goldenlatam.mx" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" tvg-country="MX" tvg-language="Spanish"  group-title="Cable MX",Canal Golden LatinoAmerica | HD
-#EXTVLCOPT:network-caching=1000
-https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Comet.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Comet_TV_Logo.png" group-title="USA Cable",Comet | HD
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
@@ -236,9 +284,10 @@ http://91.185.3.218:4000/play/606
 
 
 
-#EXTINF:-1 tvg-id="115" tvg-name="" tvg-logo="https://staticcdn.metv.com/images/metv_logo.png" group-title="Cable USA",44.3 MeTV (KBCW) | HD
+#EXTINF:-1 tvg-id="metv.us" tvg-name="" tvg-name="MeTV " tvg-logo="https://staticcdn.metv.com/images/metv_logo.png" group-title="Cable USA",MeTV Tallahassee FL (WCTV2)| HD
 #EXTVLCOPT:network-caching=1000
-https://api.locastnet.org/api/watch/stream/1435/37.81/-122.24/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbmRyZXdxbGVAZ21haWwuY29tIiwicm9sZSI6MSwiZXhwIjoxNjAwNDUzMzgzfQ.J5ozsTgSPk5uAjjJk7vdKaPy4PDprVdtmWw9RMNSC_I
+https://5e6cea03e25b6.streamlock.net/live/WCTVDT2.stream/playlist.m3u8
+
 
 
 
