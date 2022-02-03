@@ -7,6 +7,31 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestrea
 #EXTINF:-1 tvg-id="WKYC.us" tvg-name="3 Studios Cleveland OH (WKYC)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tjlSkyp.jpg" group-title="Local",3 Studios WKYC Cleveland OH | HD (1080p)
 https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
 
+
+
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo" tvg-country="US" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQezVfVamzd08ywLqOjqVqfOtEL-ZyphG2b0w&usqp=CAU" group-title="General",Telemundo (416p)
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
+#EXTINF:-1 tvg-id="KTAZ.us" tvg-name="Telemundo 40 [KTAZ] (Phoenix | AZ)" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pb0b7A4.png" group-title="General",Telemundo 40 Arizona (1080p)
+https://streams.the6tv.duckdns.org:2443/locals/Pheonix/ktaz-dt1.m3u8
+#EXTINF:-1 tvg-id="WZDCCD.us" tvg-name="Telemundo 44 [WZDC-CD] (Washington DC)" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/G8Bk8si.png" group-title="General",Telemundo 44 Washington DC (432p)
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+
+#EXTINF:-1 tvg-id="circle.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3dMs5tmMAV1xZnUoaHyiKZlaWyN7uIY5ulHxRUhpVlWicg9rusth54e9YA5bIs5Okaa4&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English"  group-title="CABLE USA",Circle TV | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://5e6cea03e25b6.streamlock.net/live/ION.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="cwseed.us" tvg-logo="" tvg-name="" tvg-country="US" tvg-language="English"  group-title="CABLE USA",Cw seed TV | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cwseedlive.cwtv.com/ingest/playlist.m3u8
+
+
+
+
+
+
+
+
 :: VIDEO MUSIC TV Channels ::
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-country="" tvg-language="English" group-title="VideoMuisc TV",4FUN TV Eng | HD (1080p)
 #EXTVLCOPT:network-caching=1000
@@ -155,6 +180,15 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 #EXTVLCOPT:network-caching=1000
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="gettv.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4UAaWCJRn5eypZaNqGZ7zIZE3V-ZrVV9D0keoJ2R_TQ_FXdzOoyFvbJhE6UuXj2MhRo&usqp=CAU" tvg-name="GetTV" tvg-country="US" tvg-language="English" group-title="USA Cable",GET TV | HD
+#EXTVLCOPT:network-caching=1000
+https://v-px.theus6tv.tk/hls/13.3/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" tvg-name="ION Plus" tvg-country="US" tvg-language="English" group-title="USA Cable",ION Plus | HD
+#EXTVLCOPT:network-caching=1000
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="metv.us" tvg-name="" tvg-name="MeTV " tvg-logo="https://staticcdn.metv.com/images/metv_logo.png" group-title="Cable USA",MeTV Tallahassee FL (WCTV2)| HD
 #EXTVLCOPT:network-caching=1000
 https://5e6cea03e25b6.streamlock.net/live/WCTVDT2.stream/playlist.m3u8
@@ -177,10 +211,6 @@ https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 https://5e6cea03e25b6.streamlock.net/live/GRIT.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="axn.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREactESRH9PfmqsnCs5lcZ2p0HDhW1VJD3bS-TN0PLM51iGZU3yffOmbP5UZpKtSljuV4&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",AXN East Asia Thai | HD
-#EXTVLCOPT:network-caching=1000
-https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="TruTV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtSlCFPq-ASnujkvhDmGCl-RE8aUZbNGtv7Hp1irtW0vFrHdcL6vDPVj7wHUxdqOBw2jA&usqp=CAU" tvg-name="TruTV USA"  tvg-country="US" tvg-language="English" group-title="Cable USA",TruTV East | HD
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
@@ -194,40 +224,9 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="USA Cable",TBS East HDTV [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="cinemax.us" tvg-logo="https://www.kindpng.com/picc/m/287-2873744_cinemax-logo-png-transparent-png.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",Cinemax Asia Thai | HD
-#EXTVLCOPT:network-caching=1000
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="crackle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Crackle_Logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",CRACKLE PlexTV | HD
-#EXTVLCOPT:network-caching=1000
-https://crackle-plex.amagi.tv/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="HALLMARK.us" tvg-logo="" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",Hallmark Movies & More | HD
 #EXTVLCOPT:network-caching=1000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="crackle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Crackle_Logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",CRACKLE XumoTV | HD
-#EXTVLCOPT:network-caching=1000
-http://crackle-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="groovy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXXrw8Mdbdj7_uNl9C3jdjfiNxvr_Gd351VB2aJANmUlxa79tKfhi-5bkyJ3z1XTLYPYM&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",Groovy TV | HD
-#EXTVLCOPT:network-caching=1000
-http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id=".us" tvg-logo="" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",| HD
-#EXTVLCOPT:network-caching=1000
-
-
-#EXTINF:-1 tvg-id="TBSWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="USA Cable",TBS West HDTV [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-
-
-
 #EXTINF:-1 tvg-id="TNTeast.us" tvg-logo="" tvg-country="US" tvg-language="English"  group-title="USA Cable",TNT Eaest HDTV [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
@@ -246,6 +245,11 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/320px-TBS_Network-logo.svg.png" group-title="USA Cable",TBS West HDTV [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+
+
 #EXTINF:-1 tvg-id="goldenlatam.mx" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" tvg-country="MX" tvg-language="Spanish"  group-title="Cable MX",Canal Golden LatinoAmerica | HD
 #EXTVLCOPT:network-caching=1000
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
@@ -257,12 +261,9 @@ http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTVLCOPT:network-caching=1000
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
-
-
 #EXTINF:-1 tvg-id="bolywood.com" tvg-country="US" tvg-language="English" tvg-logo="" group-title="USA Cable",Bolywood | HD
 #EXTVLCOPT:network-caching=1000
 https://sc.id-tv.kz/bollywood_hd.m3u8
-
 
 #EXTINF:-1 tvg-id="Charge.us" tvg-name="" tvg-logo="https://i.imgur.com/fuw0hHE.png" group-title="USA Cable",Charge! USA | HD
 #EXTVLCOPT:network-caching=1000
@@ -272,10 +273,40 @@ https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e
 #EXTVLCOPT:network-caching=1000
 https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="metv.us" tvg-name="" tvg-name="MeTV " tvg-logo="https://staticcdn.metv.com/images/metv_logo.png" group-title="Cable USA",MeTV Tallahassee FL (WCTV2)| HD
+#EXTVLCOPT:network-caching=1000
+https://5e6cea03e25b6.streamlock.net/live/WCTVDT2.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtxrwyusL4XscUXwsqsyk-Z1Rpg4YAz5C9t-ooI0DoS7KqZ4Jn4mzMNpEcYhUCfuMYV5w&usqp=CAU" group-title="USA Cable",Al Jazeera Eng | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
+#EXTINF:-1 tvg-id="axn.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREactESRH9PfmqsnCs5lcZ2p0HDhW1VJD3bS-TN0PLM51iGZU3yffOmbP5UZpKtSljuV4&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",AXN East Asia Thai | HD
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="cinemax.us" tvg-logo="https://www.kindpng.com/picc/m/287-2873744_cinemax-logo-png-transparent-png.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",Cinemax Asia Thai | HD
+#EXTVLCOPT:network-caching=1000
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="crackle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Crackle_Logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",CRACKLE PlexTV | HD
+#EXTVLCOPT:network-caching=1000
+https://crackle-plex.amagi.tv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="crackle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Crackle_Logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",CRACKLE XumoTV | HD
+#EXTVLCOPT:network-caching=1000
+http://crackle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="groovy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXXrw8Mdbdj7_uNl9C3jdjfiNxvr_Gd351VB2aJANmUlxa79tKfhi-5bkyJ3z1XTLYPYM&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",Groovy TV | HD
+#EXTVLCOPT:network-caching=1000
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id=".us" tvg-logo="" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",(576p) | HD
@@ -284,9 +315,7 @@ http://91.185.3.218:4000/play/606
 
 
 
-#EXTINF:-1 tvg-id="metv.us" tvg-name="" tvg-name="MeTV " tvg-logo="https://staticcdn.metv.com/images/metv_logo.png" group-title="Cable USA",MeTV Tallahassee FL (WCTV2)| HD
-#EXTVLCOPT:network-caching=1000
-https://5e6cea03e25b6.streamlock.net/live/WCTVDT2.stream/playlist.m3u8
+
 
 
 
