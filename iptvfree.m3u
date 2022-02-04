@@ -1,52 +1,100 @@
-#EXTM3U
 
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Entertainment" - WABC-DT4 (HSN) (432p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://v-ny.theus6tv.tk/hls/7.4/playlist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="" - WACP-DT1 (TCT) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://v-pi.theus6tv.tk/hls/4.1/playlist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Entertainment" - WACP-DT2 (AceTV) (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://v-pi.theus6tv.tk/hls/4.2/playlist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="" - WACP-DT4 (ShopLC) (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://v-pi.theus6tv.tk/hls/4.4/playlist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="" - WACP-DT5 (Jewelry TV) (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://v-pi.theus6tv.tk/hls/4.5/playlist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Entertainment" - WACP-DT6 (The Family Channel) (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://v-pi.theus6tv.tk/hls/4.6/playlist.m3u8
-#EXTINF:0,WAPT-TV News Jackson MS (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
-#EXTINF:0,Watch It Kid (720p)
-https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
-#EXTINF:0,Watch It Scream! (720p)
-https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
-#EXTINF:0,Waypoint TV (1080p)
-https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
-#EXTINF:0,WBAL-TV News Baltimore MD (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="" - WCAU-DT1 (NBC 10) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://v-pi.theus6tv.tk/hls/10.1/playlist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Entertainment" - WCAU-DT2 (COZI TV) (432p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://v-pi.theus6tv.tk/hls/10.2/playlist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="" - WCBS-DT1 (CBS 2) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+EXTINF:-1 tvg-id="WCBS-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Wbbm.png" tvg-name="CBS 2" tvg-country="US" tvg-language="English" group-title="Cable USA",2.1 CBS New York WCBS | HD 432p
+#EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
-#EXTINF:0,WCCA 194 Worcester MA (WCCA-TV) (480p)
-https://worcester.vod.castus.tv/live/ch1.m3u8
-#EXTINF:0,WCVB-TV News Boston MA (720p) [Not 24/7]
+
+EXTINF:-1 tvg-id="TCT.us" tvg-logo="https://www.tct.tv/wp-content/uploads/2019/08/tct-icon.png" tvg-name="TCT HD" tvg-country="US" tvg-language="English" group-title="Cable USA",4.1 TCT Skillman NJ WACP-DT1 | HD
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/4.1/playlist.m3u8
+
+EXTINF:-1 tvg-id="ACE.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ace-2021.png" tvg-name="ACE" tvg-country="US" tvg-language="English" group-title="Cable USA",4.2 ACE Atlantic City NJ WACP-DT2 | HD 480P
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/4.2/playlist.m3u8
+
+EXTINF:-1 tvg-id="SHOPLC.us" tvg-logo="https://image.roku.com/developer_channels/prod/deb768241a9fc0b317a7b6d5bff8dd866da1a0b4412133e288215ecc768b5ef3.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",4.4 ShopLC Toms Rivers NJ WACP-DT4 | HD 480P
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/4.4/playlist.m3u8
+
+EXTINF:-1 tvg-id="jewelry.us" tvg-logo="https://allvectorlogo.com/img/2016/07/jewelry-television-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",4.5 JTV HD Jewelry New Jersey NJ WACP-DT5 | HD 480P
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/4.5/playlist.m3u8
+
+EXTINF:-1 tvg-id="THEFAMILYCHANNEL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",4.6 FAM The Family Channel WACP-DT6 | HD 480p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/4.6/playlist.m3u8
+
+
+EXTINF:-1 tvg-id="WCVB-TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/1200px-WCVB-TV_%282021%29.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",5.1 ABC / NEWS Boston MT (WCVB-TV) | HD 720p
+#EXTVLCOPT:network-caching=1000
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Entertainment" - WDPN-DT2 (Grit) (432p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+
+
+EXTINF:-1 tvg-id="HSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" tvg-name="HSN" tvg-country="US" tvg-language="English" group-title="Cable USA",7.4 HSN New York NY | HD
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/7.4/playlist.m3u8
+
+
+
+
+EXTINF:-1 tvg-id="WAPT-TV.us" tvg-logo="https://kubrick.htvapps.com/mediaos.s3.amazonaws.com/htv_default_image/wapt/top_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",16.1 NEWS Jackson MS (WAPT-TV) | HD
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
+
+EXTINF:-1 tvg-id="WCCA.us" tvg-logo="https://pbs.twimg.com/profile_images/629323387375104000/AKFLI5oC_400x400.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",194 Worcester MA (WCCA-TV) | HD
+#EXTVLCOPT:network-caching=1000
+https://worcester.vod.castus.tv/live/ch1.m3u8
+
+
+
+EXTINF:-1 tvg-id="WCAU-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/1920px-WCAUlogo2.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",10.1 NBC Baltimore (WCAU-DT1( | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/10.1/playlist.m3u8
+
+EXTINF:-1 tvg-id="WBAL-TV.us" tvg-logo="https://kubrick.htvapps.com/mediaos.s3.amazonaws.com/htv_default_image/wbal/top_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",11.1 NBC Baltimore (WBAL-TV( | HD
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
+
+
+
+
+EXTINF:-1 tvg-id="cozitv.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cozitv.png" tvg-name="Cozi TV" tvg-country="US" tvg-language="English" group-title="Cable USA",10.2 COZY TV New Jersey | HD 432p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/10.2/playlist.m3u8
+
+
+
+
+
+
+
+
+EXTINF:-1 tvg-id="WATCHITKID.us" tvg-logo="https://watchitkid.com/wp-content/uploads/2019/09/Watch_It_Kid_TV_LOGO_Crop.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",Watch it Kids TV | HD 720p`
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+
+EXTINF:-1 tvg-id="WATCHITscream.us" tvg-logo="https://watchitscream.com/wp-content/uploads/2019/09/Watch_It-Scream_TV_Logo_WHT_crop.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",Watch it Scream TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
+
+EXTINF:-1 tvg-id="WAYPOINTTV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jic9wbNaDIEUHmZZaVEkr-9AoRQFHvhrUbjGBvqtrgaEGYuPj_ZhM6bZcUXOqBvLVII&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",WayPoint TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
+
+EXTINF:-1 tvg-id="WDPN.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",2.2 GRIT New Jersey | HD 432p
+#EXTVLCOPT:network-caching=1000
 https://v-pi.theus6tv.tk/hls/2.2/playlist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Entertainment" - WDPN-DT5 (Retro TV) (432p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+
+EXTINF:-1 tvg-id="WDPN-DT5.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",2.5 Retro TV New Jersey (WDPN-DT5) | HD 432p
+#EXTVLCOPT:network-caching=1000
 https://v-pi.theus6tv.tk/hls/2.5/playlist.m3u8
+
+EXTINF:-1 tvg-id="WHYY-DT1.us" tvg-logo="" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",12.1 PBS Philadelphia (WHYY) | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/12.1/playlist.m3u8
+
+
+
+
 #EXTINF:0,We TV All Weddings (1080p)
 https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Weathernation (720p) [Geo-blocked]
