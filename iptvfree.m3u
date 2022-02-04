@@ -1,3 +1,5 @@
+#EXTM3U
+
 
 EXTINF:-1 tvg-id="WCBS-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Wbbm.png" tvg-name="CBS 2" tvg-country="US" tvg-language="English" group-title="Cable USA",2.1 CBS New York WCBS | HD 432p
 #EXTVLCOPT:network-caching=1000
@@ -88,9 +90,15 @@ EXTINF:-1 tvg-id="WDPN-DT5.us" tvg-logo="https://cdn.tvpassport.com/image/statio
 #EXTVLCOPT:network-caching=1000
 https://v-pi.theus6tv.tk/hls/2.5/playlist.m3u8
 
-EXTINF:-1 tvg-id="WHYY-DT1.us" tvg-logo="" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",12.1 PBS Philadelphia (WHYY) | HD 1080p
+EXTINF:-1 tvg-id="WHYY-DT1.us" tvg-logo="https://www.barrettsportsmedia.com/wp-content/uploads/2021/09/WHYY_logo_og.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",12.1 PBS Philadelphia (WHYY) | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://v-pi.theus6tv.tk/hls/12.1/playlist.m3u8
+
+
+
+EXTINF:-1 tvg-id="WKOB-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Azteca_America_2015.svg/220px-Azteca_America_2015.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.1 Azteca America (WKOB-DT1) | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
 
 
 
