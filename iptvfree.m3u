@@ -6,6 +6,40 @@ https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wxtv-dt1.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
 
 
+#EXTINF:0,Ion Plus (1080p)
+#EXTVLCOPT:network-caching=1000
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,iON TV (576p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8
+
+
+#EXTINF:0,rt America (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTVLCOPT:network-caching=1000
+http://ott-cdn.ucom.am/s96/index.m3u8
+#EXTINF:0,RT Arabic (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
+#EXTINF:0,RT Documentary (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+#EXTINF:0,RT Documentary Russian (720p)
+#EXTVLCOPT:network-caching=1000
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:0,RT en Español (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:0,RT France (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
+#EXTINF:0,RT News (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
+#EXTINF:0,RT UK (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WCBS-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Wbbm.png" tvg-name="CBS 2" tvg-country="US" tvg-language="English" group-title="Cable USA",2.1 CBS New York WCBS | HD 432p
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
