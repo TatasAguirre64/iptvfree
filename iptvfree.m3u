@@ -1,26 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="WXTV.us" tvg-name="Univision East (WXTV)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="Local",Univision East (WXTV) (720p)
-https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wxtv-dt1.m3u8
-#EXTINF:-1 tvg-id="KDTV.us" tvg-name="Univision West (KDTV)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KDTV-14_logo.png" group-title="Local",Univision West (KDTV) (720p)
-https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
 
-#EXTINF:0,Ace TV (KCKS-LD3) (480p)
-#EXTVLCOPT:network-caching=1000
-https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
-
-#EXTINF:0,Action (KCKS-LD4) (480p)
-#EXTVLCOPT:network-caching=1000
-https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
-
-#EXTINF:0,AWE (720p)
-#EXTVLCOPT:network-caching=1000
-http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
-
-
-#EXTINF:0,TNT East (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TNTeast.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H4ZHRcMYypORP6G1h2gmNszmY44Y4EkZ7ZmutuDqO10i_p1IrQGtDBNybU4Ejj_5xI0&usqp=CAU" tvg-country="US" tvg-language="English"  group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TNTwest.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tnt-16.png" tvg-country="US" tvg-language="English"  group-title="USA Cable",TNT West | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="WXTV.us" tvg-name="Univision East (WXTV)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="Local",Univision East (WXTV) (720p)
+https://wscvlive-lh.akamaihd.net/i/MIAMI_STREAM6@183618/master.m3u8
+#EXTINF:-1 tvg-id="KDTV.us" tvg-name="Univision West (KDTV)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KDTV-14_logo.png" group-title="Local",Univision West (KDTV) (720p)
+https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
+
+
+#EXTINF:0,HLN (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+#EXTINF:0,Hsn (720p) [Geo-blocked]
+https://hsn.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0,Hsn 2 (720p) [Geo-blocked]
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+
+#EXTINF:0,Positiv TV (720p) [Geo-blocked]
+https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
+
+
+#EXTINF:0,TELEMUNDO MIAMIAn (720p) [Geo-blocked]
+https://wscvlive-lh.akamaihd.net/i/MIAMI_STREAM6@183618/master.m3u8
 #EXTINF:0,TNT Sports 2 Brasil (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
@@ -33,9 +42,7 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:0,TNT Sports 5 Brasil (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:0,TNT West (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+
 
 #EXTINF:0,Ion Plus (1080p)
 #EXTVLCOPT:network-caching=1000
