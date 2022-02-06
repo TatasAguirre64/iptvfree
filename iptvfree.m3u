@@ -14,6 +14,16 @@ https://wscvlive-lh.akamaihd.net/i/MIAMI_STREAM6@183618/master.m3u8
 #EXTINF:-1 tvg-id="KDTV.us" tvg-name="Univision West (KDTV)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KDTV-14_logo.png" group-title="Local",Univision West (KDTV) (720p)
 https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
 
+#EXTINF:-1 tvg-id="KFSFTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png" group-title="Local",UniMas West (KFSF) (720p)
+#EXTINF:-1 tvg-id="KFSFTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png" group-title="Local",UniMas West (KFSF) (720p) [Offline]
+https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt1.m3u8
+#EXTINF:-1 tvg-id="WXTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="Local",Univision East (WXTV) (720p)
+#EXTINF:-1 tvg-id="WXTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="Local",Univision East (WXTV) (720p) [Offline]
+https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
+#EXTINF:-1 tvg-id="KDTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KDTV-14_logo.png" group-title="Local",Univision West (KDTV) (720p)
+#EXTINF:-1 tvg-id="KDTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KDTV-14_logo.png" group-title="Local",Univision West (KDTV) (720p) [Offline]
+https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
+
 
 #EXTINF:0,HLN (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
