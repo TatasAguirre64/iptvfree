@@ -8,6 +8,15 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="KDTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KDTV-14_logo.png" tvg-name="Univision West (KDTV)" tvg-country="US" tvg-language="English" group-title="USA Cabble",Univision West (KDTV) | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
+
+
+#EXTINF:-1 tvg-id="IONPLUS.us" tvg-logo="https://community.tablotv.com/uploads/default/optimized/2X/f/fe9d71baf7325d1bd801c0514e8b875b78630e9c_2_690x361.png" tvg-country="US" tvg-language="English" group-title="USA Cable",ION plus | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1200px-HLN_%28TV_network%29_2017_logo.svg.png" tvg-country="US" tvg-language="English" group-title="USA Cable",HLN | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
@@ -25,6 +34,70 @@ https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
 https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 
 
+#EXTINF:-1 tvg-id="RTAmerica.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfF6TzlftAe8wpFx-XUa46b5SdlkMw6Xqn0diyJ8dNmJuxszzAxmfvH6br_iE3ZhTUKTk&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT America TV) | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://ott-cdn.ucom.am/s96/index.m3u8
+
+#EXTINF:-1 tvg-id="RTEspanol.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Espanol TV | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTArabic.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Arabic TV | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Documentary TV | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Documentary Russian TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://hls.rt.com/hls/rtdru.m3u8
+
+
+#EXTINF:-1 tvg-id="RTFrance.com" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/1200px-RT_France.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT France TV | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTNews.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT News TV | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTUK.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT UK TV | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="WATCHITKID.us" tvg-logo="https://watchitkid.com/wp-content/uploads/2019/09/Watch_It_Kid_TV_LOGO_Crop.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",Watch it Kids TV | HD 720p`
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+
+#EXTINF:-1 tvg-id="WATCHITscream.us" tvg-logo="https://watchitscream.com/wp-content/uploads/2019/09/Watch_It-Scream_TV_Logo_WHT_crop.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",Watch it Scream TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
+
+#EXTINF:-1 tvg-id="WAYPOINTTV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jic9wbNaDIEUHmZZaVEkr-9AoRQFHvhrUbjGBvqtrgaEGYuPj_ZhM6bZcUXOqBvLVII&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",WayPoint TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
+
+
+#EXTINF:-1 tvg-id="wetv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/640px-We_TV_logo_2014.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",WeTv Wenddings | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/36/b1/8f/36b18fa9-a8f7-6e4e-c807-098a546d456a/source/512x512bb.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",WeatherSpy | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESTERN4U.us" tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Westerns_4U.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",Western 4U TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="WCBS-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Wbbm.png" tvg-name="CBS 2" tvg-country="US" tvg-language="English" group-title="Cable USA",2.1 CBS New York WCBS | HD 432p
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
@@ -37,14 +110,14 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,C
 #EXTVLCOPT:network-caching=1000
 https://v-pi.theus6tv.tk/hls/2.2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WDPN-DT5.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",2.5 Retro TV New Jersey (WDPN-DT5) | HD 432p
+#EXTINF:-1 tvg-id="WDPN-DT5.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",2.5 Retro TV New Jersey (WDPN-DT5) | HD 432p
 #EXTVLCOPT:network-caching=1000
 https://v-pi.theus6tv.tk/hls/2.5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WKYC.us" tvg-name="3 Studios Cleveland OH (WKYC)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tjlSkyp.jpg" group-title="Local",3.1  Studios WKYC Cleveland OH | HD (1080p)
 https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
 
-#EXTINF:-1 tvg-id="TCT.us" tvg-logo="https://www.tct.tv/wp-content/uploads/2019/08/tct-icon.png" tvg-name="TCT HD" tvg-country="US" tvg-language="English" group-title="Cable USA",4.1 TCT Skillman NJ WACP-DT1 | HD
+#EXTINF:-1 tvg-id="TCT.us" tvg-logo="https://i.ytimg.com/vi/8vRw4gUx3Xs/maxresdefault.jpg" tvg-name="TCT HD" tvg-country="US" tvg-language="English" group-title="Cable USA",4.1 TCT Skillman NJ WACP-DT1 | HD
 #EXTVLCOPT:network-caching=1000
 https://v-pi.theus6tv.tk/hls/4.1/playlist.m3u8
 
@@ -95,7 +168,7 @@ https://v-pi.theus6tv.tk/hls/10.1/playlist.m3u8
 https://v-pi.theus6tv.tk/hls/10.2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="WBAL-TV.us" tvg-logo="https://kubrick.htvapps.com/mediaos.s3.amazonaws.com/htv_default_image/wbal/top_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",11.1 NBC Baltimore (WBAL-TV( | HD
+#EXTINF:-1 tvg-id="WBAL-TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/WBAL_TV_Plus_MeTV_Logo.jpg/170px-WBAL_TV_Plus_MeTV_Logo.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",11.1 NBC Baltimore (WBAL-TV) | HD
 #EXTVLCOPT:network-caching=1000
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
 
@@ -111,7 +184,7 @@ https://v-pi.theus6tv.tk/hls/12.3/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
 
-#EXTINF:-1 tvg-id="Weathernation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",16.1 Weathernation TV | HD 720p
+#EXTINF:-1 tvg-id="Weathernation.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/WAPT_97_to_99.svg/revision/latest/scale-to-width-down/250?cb=20201114093044" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",16.1 Weathernation TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
 
@@ -119,7 +192,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,C
 #EXTVLCOPT:network-caching=1000
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 
-#EXTINF:-1 tvg-id="WLIW-DT1.us" tvg-logo="https://d1b7flq4e9knh1.cloudfront.net/wp-content/plugins/wnet-schedule/libs/images/Schedule-WLIW-logo-2X.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.1 PBS New York NY (WLIW) | HD 1080p
+#EXTINF:-1 tvg-id="WLIW-DT1.us" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0008/4634/brand.gif?itok=wwpbBoGT" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.1 PBS New York NY (WLIW) | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
 
@@ -127,16 +200,13 @@ https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/21.2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WLIW-DT3.us" tvg-logo="https://www.wxxi.org/sites/default/files/images/highlights/world_canonical_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.3 PBS World New York NY (WLIW-DT3) | HD 1080p
+#EXTINF:-1 tvg-id="WLIW-DT3.us" tvg-logo="https://movetoinclude.us/wp-content/uploads/2020/07/world_canonical_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.3 PBS World New York NY (WLIW-DT3) | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/21.3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WLIW-DT4.us" tvg-logo="https://www.wxxi.org/sites/default/files/images/highlights/world_canonical_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.4 PBS All Arts New York NY (WLIW-DT4) | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/21.4/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="WKOB-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Azteca_America_2015.svg/220px-Azteca_America_2015.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.1 Azteca America (WKOB-DT1) | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -160,43 +230,22 @@ https://worcester.vod.castus.tv/live/ch1.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="WATCHITKID.us" tvg-logo="https://watchitkid.com/wp-content/uploads/2019/09/Watch_It_Kid_TV_LOGO_Crop.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",Watch it Kids TV | HD 720p`
+#EXTINF:-1 tvg-id="WP.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZAHLFc1xHE9he6UlSrsLW7r31m5i3fsHfZ2kmIoGO-ZZKP-iOHl3k5i6LutVvTYXEI0&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",White Plains Community Media | HD 720p
 #EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
-
-#EXTINF:-1 tvg-id="WATCHITscream.us" tvg-logo="https://watchitscream.com/wp-content/uploads/2019/09/Watch_It-Scream_TV_Logo_WHT_crop.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",Watch it Scream TV | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
-
-#EXTINF:-1 tvg-id="WAYPOINTTV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jic9wbNaDIEUHmZZaVEkr-9AoRQFHvhrUbjGBvqtrgaEGYuPj_ZhM6bZcUXOqBvLVII&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",WayPoint TV | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
+https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="wetv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/640px-We_TV_logo_2014.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",WeTv Wenddings | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/36/b1/8f/36b18fa9-a8f7-6e4e-c807-098a546d456a/source/512x512bb.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",WeatherSpy | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESTERN4U.us" tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Westerns_4U.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",Western 4U TV | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
+
+
+
+
+
+
+
+
 
 
 
@@ -206,92 +255,76 @@ https://broadcast.mytvtogo.net/westerntv4u/westerntv4u/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="WP.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZAHLFc1xHE9he6UlSrsLW7r31m5i3fsHfZ2kmIoGO-ZZKP-iOHl3k5i6LutVvTYXEI0&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",White Plains Community Media | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-id="WXTV.us" tvg-name="Univision East (WXTV)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="Local",Univision East (WXTV) (720p)
-https://wscvlive-lh.akamaihd.net/i/MIAMI_STREAM6@183618/master.m3u8
-#EXTINF:-1 tvg-id="KDTV.us" tvg-name="Univision West (KDTV)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KDTV-14_logo.png" group-title="Local",Univision West (KDTV) (720p)
-https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
+
+
 
 #EXTINF:-1 tvg-id="KFSFTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png" group-title="Local",UniMas West (KFSF) (720p)
+
+
 #EXTINF:-1 tvg-id="KFSFTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png" group-title="Local",UniMas West (KFSF) (720p) [Offline]
-https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt1.m3u8
+
+
+
 #EXTINF:-1 tvg-id="WXTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="Local",Univision East (WXTV) (720p)
-#EXTINF:-1 tvg-id="WXTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="Local",Univision East (WXTV) (720p) [Offline]
-https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
+
+
+#EXTINF:-1 tvg-id="WXTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="Local",Univision East (WXTV) (720p)
+
+
 #EXTINF:-1 tvg-id="KDTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KDTV-14_logo.png" group-title="Local",Univision West (KDTV) (720p)
-#EXTINF:-1 tvg-id="KDTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KDTV-14_logo.png" group-title="Local",Univision West (KDTV) (720p) [Offline]
-https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
 
 
 
 
-
-
-#EXTINF:-1 tvg-id=".us" tvg-logo="" tvg-country="US" tvg-language="English" group-title="USA Cable",HLN | HD 720p
-#EXTVLCOPT:network-caching=1000
-
-
-#EXTINF:0, (720p) [Geo-blocked]
-
-
-
-#EXTINF:0,TELEMUNDO MIAMIAn (720p) [Geo-blocked]
-https://wscvlive-lh.akamaihd.net/i/MIAMI_STREAM6@183618/master.m3u8
-#EXTINF:0,TNT Sports 2 Brasil (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:0,TNT Sports 3 Brasil (720p)
-#EXTVLCOPT:network-caching=1000
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:0,TNT Sports 4 Brasil (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:0,TNT Sports 5 Brasil (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-
-
-
-
-
-#EXTINF:0,Ion Plus (1080p)
-#EXTVLCOPT:network-caching=1000
-https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,iON TV (576p)
+#EXTINF:-1 tvg-id="iONTV.IN" tvg-country="US" tvg-language="English" tvg-logo="https://axiommedia.co/wp-content/uploads/2020/12/Ion-TV.png" group-title="Local",iON TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8
 
 
-#EXTINF:0,rt America (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="RTAmerica.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfF6TzlftAe8wpFx-XUa46b5SdlkMw6Xqn0diyJ8dNmJuxszzAxmfvH6br_iE3ZhTUKTk&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT America TV) | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://ott-cdn.ucom.am/s96/index.m3u8
-#EXTINF:0,RT Arabic (1080p)
-#EXTVLCOPT:network-caching=1000
-https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
-#EXTINF:0,RT Documentary (1080p)
-#EXTVLCOPT:network-caching=1000
-https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
-#EXTINF:0,RT Documentary Russian (720p)
-#EXTVLCOPT:network-caching=1000
-https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:0,RT en Español (1080p) [Not 24/7]
+
+#EXTINF:-1 tvg-id="RTEspanol.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Espanol TV | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:0,RT France (1080p)
+
+#EXTINF:-1 tvg-id="RTArabic.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Arabic TV | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Documentary TV | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Documentary Russian TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://hls.rt.com/hls/rtdru.m3u8
+
+
+#EXTINF:-1 tvg-id="RTFrance.com" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/1200px-RT_France.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT France TV | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
-#EXTINF:0,RT News (1080p) [Not 24/7]
+
+#EXTINF:-1 tvg-id="RTNews.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT News TV | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
-#EXTINF:0,RT UK (1080p)
+
+#EXTINF:-1 tvg-id="RTUK.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT UK TV | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
 
