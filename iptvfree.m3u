@@ -138,7 +138,7 @@ https://v-pi.theus6tv.tk/hls/4.5/playlist.m3u8
 https://v-pi.theus6tv.tk/hls/4.6/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="WCVB-TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/1200px-WCVB-TV_%282021%29.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",5.1 ABC / NEWS Boston MT (WCVB-TV) | HD 720p
+#EXTINF:-1 tvg-id="WCVB-TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/1200px-WCVB-TV_%282021%29.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",5.1 ABC-NEWS Boston MT (WCVB-TV) | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
 
@@ -176,6 +176,10 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,C
 #EXTVLCOPT:network-caching=1000
 https://v-pi.theus6tv.tk/hls/12.1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WISN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/WISN_2012_Logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",12.1 ABC-WISN-TV News Milwaukee WI | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8
+
 #EXTINF:-1 tvg-id="WHYY-DT3.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",12.3 PBS Kids Philadelphia (WHYY) | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://v-pi.theus6tv.tk/hls/12.3/playlist.m3u8
@@ -208,13 +212,33 @@ https://v-ny.theus6tv.tk/hls/21.3/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/21.4/playlist.m3u8
 
+#EXTINF:-1 tvg-id=".com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/WJCL_logo_2015.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",22.1 ABC-WJCL-TV News Savannah GA | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
+
 #EXTINF:-1 tvg-id="WKOB-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Azteca_America_2015.svg/220px-Azteca_America_2015.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.1 Azteca America (WKOB-DT1) | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WKOB.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBjrZmFqHfGVNjpXShP3XfyvnRuO6KdS7UrOhRcgj2gEAILP2Ue4H2v1NkUBl0DUmLn4A&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.2 Daystar New York NY (WKOB) | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/42.2/playlist.m3u8SBN Logo
+
 #EXTINF:-1 tvg-id="WELL-LD1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBjrZmFqHfGVNjpXShP3XfyvnRuO6KdS7UrOhRcgj2gEAILP2Ue4H2v1NkUBl0DUmLn4A&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",45.1 Daystar Spring House PA | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://v-pi.theus6tv.tk/hls/45.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SONLIFE.us" tvg-logo="https://www.rbr.com/wp-content/uploads/sonlife.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.5 SonLife (WKOB-LD5) | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/42.5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESTRELLATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.6 Estrella TV (WKOB-LD6) | HD 480p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/42.6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SONLIFE.us" tvg-logo="https://image.roku.com/developer_channels/prod/e1bd830cacc89006befec26d48c00381eb67acc7d374610516a0ef78356a466d.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.7 ShopLC TV (WKOB-LD7) | HD 480p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/42.7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WFMZ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",69.1 IDN Allentown, PA (WFMZ-DT1) | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -295,44 +319,14 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 
 
 
-#EXTINF:-1 tvg-id="RTAmerica.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfF6TzlftAe8wpFx-XUa46b5SdlkMw6Xqn0diyJ8dNmJuxszzAxmfvH6br_iE3ZhTUKTk&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT America TV) | HD 720p
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="WESH.us" tvg-logo="" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",45.1 Daystar Orlando FL (WESH-TV) | HD 720p
 #EXTVLCOPT:network-caching=1000
-http://ott-cdn.ucom.am/s96/index.m3u8
-
-#EXTINF:-1 tvg-id="RTEspanol.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Espanol TV | HD 1080p
-#EXTVLCOPT:network-caching=1000
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTArabic.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Arabic TV | HD 1080p
-#EXTVLCOPT:network-caching=1000
-https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTDocumentary.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Documentary TV | HD 1080p
-#EXTVLCOPT:network-caching=1000
-https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTDocumentary.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Documentary Russian TV | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://hls.rt.com/hls/rtdru.m3u8
-
-
-#EXTINF:-1 tvg-id="RTFrance.com" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/1200px-RT_France.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT France TV | HD 1080p
-#EXTVLCOPT:network-caching=1000
-https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTNews.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT News TV | HD 1080p
-#EXTVLCOPT:network-caching=1000
-https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTUK.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT UK TV | HD 1080p
-#EXTVLCOPT:network-caching=1000
-https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
-
-
-
-
-
-
 
 
 
@@ -348,28 +342,23 @@ https://edu-wcat.azureedge.net/live/live.m3u8
 https://frontdoor.wcat-tv.org:8686/live/live.m3u8
 #EXTINF:0,Wired (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
-#EXTINF:0,WISN-TV News Milwaukee WI (576p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8
-#EXTINF:0,WJCL-TV News Savannah GA (720p)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
+#EXTINF:0, (576p)
 
 
 
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Entertainment" - WKOB-LD2 (Daystar) (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://v-ny.theus6tv.tk/hls/42.2/playlist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Entertainment" - WKOB-LD5 (SonLife) (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://v-ny.theus6tv.tk/hls/42.5/playlist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Entertainment" - WKOB-LD6 (Estrella TV) (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://v-ny.theus6tv.tk/hls/42.6/playlist.m3u8
-#EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Entertainment" - WKOB-LD7 (ShopLC) (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#EXTINF:-1 tvg-id="SONLIFE.us" tvg-logo="https://image.roku.com/developer_channels/prod/e1bd830cacc89006befec26d48c00381eb67acc7d374610516a0ef78356a466d.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.6 ShopLC TV (WKOB-LD7) | HD 480p
+#EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/42.7/playlist.m3u8
+
+
+
+
+
 #EXTINF:0, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Entertainment" - WKOB-LD8 (Novelisima) (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://v-ny.theus6tv.tk/hls/42.8/playlist.m3u8
+
+
 
 
 #EXTINF:0,WLKY-TV News Louisville KY (720p)
