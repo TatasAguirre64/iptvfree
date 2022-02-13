@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TNTeast.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H4ZHRcMYypORP6G1h2gmNszmY44Y4EkZ7ZmutuDqO10i_p1IrQGtDBNybU4Ejj_5xI0&usqp=CAU" tvg-country="US" tvg-language="English"  group-title="USA Cable",TNT East | HD 720p
+#EXTINF:-1 tvg-id="TNTeast.us" tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-country="US" tvg-language="English"  group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="TNTwest.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tnt-16.png" tvg-country="US" tvg-language="English"  group-title="USA Cable",TNT West | HD 720p
+#EXTINF:-1 tvg-id="TNTwest.us" tvg-logo="https://imgur.com/nw0TVc0" tvg-country="US" tvg-language="English"  group-title="USA Cable",TNT West | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="cwseed.us" tvg-logo="https://imgur.com/HJlYq9o.png" tvg-name="" tvg-country="US" tvg-language="English"  group-title="CABLE USA",Cw seed TV | HD (1080p)
+#EXTINF:-1 tvg-id="cwseed.us" tvg-logo="https://i.imgur.com/HJlYq9o.png" tvg-name="" tvg-country="US" tvg-language="English"  group-title="CABLE USA",Cw seed TV | HD (1080p)
 #EXTVLCOPT:network-caching=1000
 https://cwseedlive.cwtv.com/ingest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cwseed.us" tvg-logo="https://imgur.com/X04offz.png" tvg-name="" tvg-country="US" tvg-language="English"  group-title="CABLE USA",The CW Tallahassee FL (WTLF1) | HD 720p
+#EXTINF:-1 tvg-id="cwseed.us" tvg-logo="https://i.imgur.com/wiMyzTf.png" tvg-name="" tvg-country="US" tvg-language="English"  group-title="CABLE USA",The CW Tallahassee FL (WTLF1) | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cwseed.us" tvg-logo="https://i.imgur.com/Nz1fy6U.png" tvg-name="" tvg-country="US" tvg-language="English"  group-title="CABLE USA",11 The CW New York NY (WPIX1) | HD 720p
+#EXTINF:-1 tvg-id="cwseed.us" tvg-logo="https://imgur.com/nIl3JKT.png" tvg-name="" tvg-country="US" tvg-language="English"  group-title="CABLE USA",The CW New York NY (WPIX1) | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
 
