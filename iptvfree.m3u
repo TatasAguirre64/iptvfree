@@ -4,9 +4,13 @@
 #EXTVLCOPT:network-caching=1000
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="posititv.us" tvg-logo="https://imgur.com/DORDAMk.png" tvg-country="US" tvg-language="English" group-title="USA Cable",Positiv TV | HD 720p
+#EXTINF:-1 tvg-id="posititv.us" tvg-logo="https://imgur.com/DORDAMk.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",Positiv TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
+
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-logo="https://imgur.com/0JFLaX3.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",27.2 Bounce Tallahassee FL (WTXL-TV2) | HD 480p
+#EXTVLCOPT:network-caching=1000
+https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNTeast.us" tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-country="US" tvg-language="English"  group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
