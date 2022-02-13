@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ion.us" tvg-logo="https://imgur.com/9eW36gz.png" tvg-country="US" tvg-language="English" group-title="USA Cable",ION plus | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TNTeast.us" tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-country="US" tvg-language="English"  group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -16,7 +20,7 @@ https://cwseedlive.cwtv.com/ingest/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cwseed.us" tvg-logo="https://imgur.com/nIl3JKT.png" tvg-name="" tvg-country="US" tvg-language="English"  group-title="CABLE USA",The CW New York NY (WPIX1) | HD 720p
+#EXTINF:-1 tvg-id="wpix.us" tvg-logo="https://imgur.com/nIl3JKT.png" tvg-name="" tvg-country="US" tvg-language="English"  group-title="CABLE USA",The CW New York NY (WPIX1) | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
 
@@ -25,9 +29,9 @@ http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
 https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
 
 
-#EXTINF:-1 tvg-id="IONPLUS.us" tvg-logo="https://community.tablotv.com/uploads/default/optimized/2X/f/fe9d71baf7325d1bd801c0514e8b875b78630e9c_2_690x361.png" tvg-country="US" tvg-language="English" group-title="USA Cable",ION plus | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1200px-HLN_%28TV_network%29_2017_logo.svg.png" tvg-country="US" tvg-language="English" group-title="USA Cable",HLN | HD 720p
 #EXTVLCOPT:network-caching=1000
