@@ -4,6 +4,10 @@
 #EXTVLCOPT:network-caching=1000
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="posititv.us" tvg-logo="https://imgur.com/DORDAMk.png" tvg-country="US" tvg-language="English" group-title="USA Cable",Positiv TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
+
 #EXTINF:-1 tvg-id="TNTeast.us" tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-country="US" tvg-language="English"  group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -45,7 +49,7 @@ https://hsn.samsung.wurl.com/manifest/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
 
-#EXTINF:-1 tvg-id="POSITIVTV.us" tvg-logo="https://positiv.tv/wp-content/uploads/2020/03/Favicon-2.png" tvg-country="US" tvg-language="English" group-title="USA Cable",Positiv TV | HD 720p
+#EXTINF:-1 tvg-id="posititv.us" tvg-logo="https://imgur.com/DORDAMk.png" tvg-country="US" tvg-language="English" group-title="USA Cable",Positiv TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 
