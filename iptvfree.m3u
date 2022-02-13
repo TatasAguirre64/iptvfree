@@ -20,7 +20,7 @@ https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KDTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/KDTV-14_logo.png" tvg-name="Univision West (KDTV)" tvg-country="US" tvg-language="English" group-title="USA Cabble",Univision West (KDTV) | HD 720p
+#EXTINF:-1 tvg-id="telemundo.us" tvg-logo="https://imgur.com/tKADTz6.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cabble",44.1 Telemundo Chicago Il (WSNS-TV) | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
 
