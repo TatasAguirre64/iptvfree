@@ -12,6 +12,10 @@ https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="thistv.us" tvg-logo="https://imgur.com/9TnDHZZ.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",This TV Network () | HD 480p
+#EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+
 #EXTINF:-1 tvg-id="TNTeast.us" tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-country="US" tvg-language="English"  group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
