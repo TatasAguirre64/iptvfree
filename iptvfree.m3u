@@ -4,6 +4,10 @@
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="comet.us" channel-id="comet.us" channel-number="1" tvg-name="Comet US" tvc-guide-stationid="109499" tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-country="US" tvg-language="English"  group-title="USA Cable",TNT East | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
 #EXTINF:-1 tvg-id="TNTwest.us" tvg-logo="https://imgur.com/EhmW1DA.png" tvg-country="US" tvg-language="English"  group-title="USA Cable",TNT West | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
