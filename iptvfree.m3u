@@ -20,7 +20,20 @@ https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="WFMY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ps6uQSW.jpg" group-title="Local",CBS 2 Greensboro NC (WFMY) (1080p)
+https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="KREM.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UANdGqv.jpg" group-title="Local",CBS 2 Spokane WA (KREM) (1080p)
+https://livevideo01.krem.com/hls/live/2017156/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="KMTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png" group-title="Local",CBS 3 Omaha NE (KMTV-TV) (720p)
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+#EXTINF:-1 tvg-id="KMTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png" group-title="Local",CBS 3 Omaha NE (KMTV-TV) (720p)
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 tvg-id="WWLTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BvlV1dl.jpg" group-title="Local",CBS 4 New Orleans LA (WWL-TV) (1080p)
+https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="KFSMTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/i0KCLny.jpg" group-title="Local",CBS 5 Ft Smith AR (KFSM-TV) (1080p)
+https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="KENS.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zV8X5Fi.jpg" group-title="Local",CBS 5 San Antonio TX (KENS) (1080p)
+https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8
 
 
 #EXTINF:-1 tvg-id="bouncetv.us" tvg-logo="https://imgur.com/ziONFqf.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",27.2 Bounce XL | HD 720p
@@ -2295,9 +2308,6 @@ http://201.201.149.86:8080/livestream/stream.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/live
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/11/Televisa-Juarez-en-vivo-Online.png" group-title="Local MX",Canal 9 Televisa Juarez Chihuahua | HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 10 C10 | HD
@@ -4653,20 +4663,7 @@ http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8
 #EXTINF:-1 tvg-id="CBNNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png" group-title="Religious",CBN News (1080p)
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
-#EXTINF:-1 tvg-id="WFMY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ps6uQSW.jpg" group-title="Local",CBS 2 Greensboro NC (WFMY) (1080p)
-https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="KREM.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UANdGqv.jpg" group-title="Local",CBS 2 Spokane WA (KREM) (1080p)
-https://livevideo01.krem.com/hls/live/2017156/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="KMTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png" group-title="Local",CBS 3 Omaha NE (KMTV-TV) (720p)
-https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
-#EXTINF:-1 tvg-id="KMTVTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png" group-title="Local",CBS 3 Omaha NE (KMTV-TV) (720p)
-https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:-1 tvg-id="WWLTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BvlV1dl.jpg" group-title="Local",CBS 4 New Orleans LA (WWL-TV) (1080p)
-https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="KFSMTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/i0KCLny.jpg" group-title="Local",CBS 5 Ft Smith AR (KFSM-TV) (1080p)
-https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8
-#EXTINF:-1 tvg-id="KENS.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zV8X5Fi.jpg" group-title="Local",CBS 5 San Antonio TX (KENS) (1080p)
-https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8
+
 #EXTINF:-1 tvg-id="WRGBTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ByPFQGp.png" group-title="Local",CBS 6 Albany NY (WRGB) (720p)
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 #EXTINF:-1 tvg-id="WHIO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38ZKuE.png" group-title="Local",CBS 7 Dayton OH (WHIO) [Timeout]
