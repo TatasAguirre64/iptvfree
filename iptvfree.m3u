@@ -37,7 +37,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3
 
 
 
-#EXTINF:-1 tvg-id="ion.us" tvg-logo="https://imgur.com/9eW36gz.png" tvg-country="US" tvg-language="English" group-title="USA Cable",ION plus | HD 720p
+#EXTINF:-1 tvg-id="ion.us" tvg-logo="https://imgur.com/IEBa47u.png" tvg-country="US" tvg-language="English" group-title="USA Cable",ION plus | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 
