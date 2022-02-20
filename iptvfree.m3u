@@ -19,7 +19,13 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1
 https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/raFDAB7.png" tvg-id="TBSEast.us" tvg-name="TBS US" channel-id="TBSEast.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TBS East | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/DN6xAlR.png" tvg-id="TBSWest.us" tvg-name="TBS US" channel-id="TBSWest.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TBS West| HD 720p
+#EXTVLCOPT:network-caching=1000
+https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
 
 
