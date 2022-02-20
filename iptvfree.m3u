@@ -31,15 +31,143 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/mUUQE1H.png" tvg-id="trutv.us" tvg-name="TRUTV US" channel-id="trutv.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TruTV West | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/IEBa47u.png" tvg-id="trutv.us" tvg-name="TRUTV US" channel-id="trutv.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TruTV West | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ion.us" tvg-logo="https://imgur.com/IEBa47u.png" tvg-country="US" tvg-language="English" group-title="USA Cable",ION plus | HD 720p
+
+
+
+#EXTINF:-1 tvg-id="crackle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Crackle_Logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",CRACKLE PlexTV | HD
+#EXTVLCOPT:network-caching=1000
+https://crackle-plex.amagi.tv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="crackle.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Crackle_Logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",CRACKLE XumoTV | HD
+#EXTVLCOPT:network-caching=1000
+http://crackle-xumo.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CNNBrasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/JXb5l9K.png" group-title="News",CNN Brasil (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+#EXTINF:-1 tvg-id="CNNChile.us" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="News",CNN Chile (720p) [Timeout]
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zeg2ZGW.jpg" group-title="News",CNN en Español [Timeout]
+http://209.91.213.10:8088/play/a014
+#EXTINF:-1 tvg-id="CNNPhilippines.us" tvg-country="PH" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/220px-CNN_Philippines_Logo.svg.png" group-title="News",CNN Philippines (720p) [Not 24/7]
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.us" tvg-country="TR" tvg-language="Turkish" tvg-logo="http://haber.sol.org.tr/sites/default/files/styles/newsimagestyle_615x410/public/20110201141238cnn_turk_logosu.png" group-title="News",CNN Türk (480p) [Not 24/7]
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
+#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="News",CNN USA (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="News",CNN USA (480p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="News",CNN USA (360p) [Geo-blocked]
+http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="News",CNN USA (360p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="News",CNN USA (360p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60526b849849524498245b78" group-title="Documentary",Court TV (1080p)
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60526b849849524498245b78" group-title="Documentary",Court TV (720p)
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+
+#EXTINF:-1 tvg-id="axn.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREactESRH9PfmqsnCs5lcZ2p0HDhW1VJD3bS-TN0PLM51iGZU3yffOmbP5UZpKtSljuV4&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",AXN East Asia Thai | HD
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="cinemax.us" tvg-logo="https://www.kindpng.com/picc/m/287-2873744_cinemax-logo-png-transparent-png.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",Cinemax Asia Thai | HD
+#EXTVLCOPT:network-caching=1000
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="circle.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3dMs5tmMAV1xZnUoaHyiKZlaWyN7uIY5ulHxRUhpVlWicg9rusth54e9YA5bIs5Okaa4&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English"  group-title="CABLE USA",Circle TV | HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://5e6cea03e25b6.streamlock.net/live/ION.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ion.us" tvg-logo="https://imgur.com/9eW36gz.png" tvg-country="US" tvg-language="English" group-title="USA Cable",ION plus | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" tvg-name="ION Plus" tvg-country="US" tvg-language="English" group-title="USA Cable",ION Plus | HD
+#EXTVLCOPT:network-caching=1000
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gettv.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4UAaWCJRn5eypZaNqGZ7zIZE3V-ZrVV9D0keoJ2R_TQ_FXdzOoyFvbJhE6UuXj2MhRo&usqp=CAU" tvg-name="GetTV" tvg-country="US" tvg-language="English" group-title="USA Cable",GET TV | HD
+#EXTVLCOPT:network-caching=1000
+https://v-px.theus6tv.tk/hls/13.3/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" tvg-name="ION Plus" tvg-country="US" tvg-language="English" group-title="USA Cable",ION Plus | HD
+#EXTVLCOPT:network-caching=1000
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="metv.us" tvg-name="" tvg-name="MeTV " tvg-logo="https://staticcdn.metv.com/images/metv_logo.png" group-title="Cable USA",MeTV Tallahassee FL (WCTV2)| HD
+#EXTVLCOPT:network-caching=1000
+https://5e6cea03e25b6.streamlock.net/live/WCTVDT2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/retro-tv-us.png" group-title="Classic",Retro TV (720p)
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KCKSLD9.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/retro-tv-us.png" group-title="Classic",Retro TV (KCKS-LD9) (480p)
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+
+#EXTINF:-1 tvg-id="Revn.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzI1NDE5MjRf/Revn_375x375.png" group-title="",Rev'n (720p)
+https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KCKSLD7.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png" group-title="Auto",Rev'n (KCKS-LD7) (480p)
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
+
+
+#EXTINF:-1 tvg-id="GRIT.com" tvg-name="GRIT USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjj-hEr4daVE0pTAx1-j_vDoNqm6ToNwfoGaNJ3gUsgCmm5ulDTmp2cbCg7wE_-tVrA5w&usqp=CAU" group-title="Cable USA",GRIT | HD
+#EXTVLCOPT:network-caching=1000
+https://5e6cea03e25b6.streamlock.net/live/GRIT.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="metv.us" tvg-name="" tvg-name="MeTV " tvg-logo="https://staticcdn.metv.com/images/metv_logo.png" group-title="Cable USA",MeTV Tallahassee FL (WCTV2)| HD
+#EXTVLCOPT:network-caching=1000
+https://5e6cea03e25b6.streamlock.net/live/WCTVDT2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Charge.us" tvg-name=""tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fuw0hHE.png" group-title="USA Cable",Charge! | HD
+#EXTVLCOPT:network-caching=1000
+https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Charge.us" tvg-name="" tvg-logo="https://i.imgur.com/fuw0hHE.png" group-title="USA Cable",Charge! USA | HD
+#EXTVLCOPT:network-caching=1000
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+
+#EXTINF:-1 tvg-id="HALLMARK.us" tvg-logo="" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",Hallmark Movies & More | HD
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="goldenlatam.mx" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" tvg-country="MX" tvg-language="Spanish"  group-title="Cable MX",Canal Golden LatinoAmerica | HD
+#EXTVLCOPT:network-caching=1000
+https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Comet_TV_Logo.png" group-title="USA Cable",Comet | HD
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+#EXTINF:-1 tvg-id="Charge.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fuw0hHE.png" group-title="USA Cable",Charge! | HD
+#EXTVLCOPT:network-caching=1000
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="posititv.us" tvg-logo="https://imgur.com/DORDAMk.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",Positiv TV | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -77,7 +205,9 @@ https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="comet.us" channel-id="comet.us" channel-number="1" tvg-name="Comet US" tvc-guide-stationid="109499" tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-country="US" tvg-language="English"  group-title="USA Cable",TNT East | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
 
 #EXTINF:-1 tvg-id="cwseed.us" tvg-logo="https://i.imgur.com/HJlYq9o.png" tvg-name="" tvg-country="US" tvg-language="English"  group-title="CABLE USA",Cw seed TV | HD (1080p)
@@ -95,7 +225,6 @@ http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="telemundo.us" tvg-logo="https://imgur.com/tKADTz6.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cabble",44.1 Telemundo Chicago Il (WSNS-TV) | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
-
 
 
 
