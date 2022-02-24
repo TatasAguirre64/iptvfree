@@ -361,7 +361,9 @@ https://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTVLCOPT:network-caching=1000
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://imgur.com/i3RMTO2.png" tvg-id="Locomotion.tv" tvg-name="Locomotion TV" channel-id="Locomotion.tv" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",Canal Locomotion TV | HD 480p
+#EXTVLCOPT:network-caching=1000
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 
@@ -966,6 +968,11 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/FjCisz0.png" tvg-id="CanalIPe.pe" tvg-name="Canal Ipe" channel-id="CanalIPe.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",Canal Ipe TV Perú | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/V8RQTLW.png" tvg-id="TVPeru.pe" tvg-name="TV Peru" channel-id="TVPeru.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",TV Perú Noticias | HD 450p
 #EXTVLCOPT:network-caching=1000 
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
@@ -973,6 +980,37 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/V8RQTLW.png" tvg-id="TVPeru.pe" tvg-name="TV Peru" channel-id="TVPeru.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",TV Perú Noticias | HD 450p
 #EXTVLCOPT:network-caching=1000 
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="ATV.pe" tvg-name="ATV HD" channel-id="ATV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",ATV HD Perú | HD 480p
+#EXTVLCOPT:network-caching=1000 
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="ATVmas.pe" tvg-name="ATV+ HD" channel-id="ATVmas.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",ATV+ HD Perú | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="ATVMásNoticias.pe" tvg-name="ATV+ HD" channel-id="ATVMásNoticias.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",ATV+ Noticias Perú | HD 480p
+#EXTVLCOPT:network-caching=1000 
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P0TOvvx.png" tvg-id="Exitosa.pe" tvg-name="Exitosa" channel-id="Exitosa.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",6.1 Exitosa TV Perú | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OyAWxMF.png" tvg-id="VisionNoticiasPeru.pe" tvg-name="Vision Noticias Peru" channel-id="VisionNoticiasPeru.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",VNP Vision Noticias Peru | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1780004605.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OyAWxMF.png" tvg-id="UCINoticias.pe" tvg-name="UCI Noticias 1" channel-id="UCINoticias.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",UCI Noticias 1 Peru | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qx0j8YR.png" tvg-id="RadioSanBorjaTV.pe" tvg-name="Radio San Borja PE" channel-id="RadioSanBorjaTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",Radios San Borja | HD 450p
+#EXTVLCOPT:network-caching=1000 
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
 
 
