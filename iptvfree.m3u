@@ -746,6 +746,52 @@ https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 http://190.122.96.187:8888/http/002
 
+#EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" status="timeout",Televisa Aguascalientes (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg/live
+#EXTINF:-1 tvg-id="TelevisaChihuahua.mx" status="error",Televisa Chihuahua (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/live
+#EXTINF:-1 tvg-id="TelevisaCiudadJuarez.mx" status="online",Televisa Ciudad Juarez (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live
+#EXTINF:-1 tvg-id="" status="error",Televisa Del Bajio [Offline]
+http://viptv-query/?streaming-ip=https://www.youtube.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A/live
+#EXTINF:-1 tvg-id="TelevisaDelGolfo.mx" status="timeout",Televisa Del Golfo [Timeout]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQ08tNTPiBn44c975S81ftg/live
+#EXTINF:-1 tvg-id="TelevisaEstado.mx" status="online",Televisa Estado (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9DH82HVSf4katwMeUpY80w
+#EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" status="online",Televisa Guadalajara (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
+#EXTINF:-1 tvg-id="TelevisaGuerrero.mx" status="error",Televisa Guerrero (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w/live
+#EXTINF:-1 tvg-id="TelevisaLaguna.mx" status="online",Televisa Laguna (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_mwCcsKDJLSWjply5s0h8w/live
+#EXTINF:-1 tvg-id="TelevisaMexicali.mx" status="online",Televisa Mexicali (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q/live
+#EXTINF:-1 tvg-id="TelevisaMonterrey.mx" status="online",Televisa Monterrey (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
+#EXTINF:-1 tvg-id="TelevisaMorelos.mx" status="timeout",Televisa Morelos [Timeout]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcC9ykApQrgl4UxbKg2U4zw/live
+#EXTINF:-1 tvg-id="TelevisaNewsMexico.mx" status="timeout",Televisa News Mexico (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
+#EXTINF:-1 tvg-id="TelevisaNoreste.mx" status="online",Televisa Noreste (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC752DYv5vPlTSMrvEjfZXcw/live
+#EXTINF:-1 tvg-id="TelevisaPiedrasNegras.mx" status="error",Televisa Piedras Negras (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA/live
+#EXTINF:-1 tvg-id="TelevisaPuebla.mx" status="timeout",Televisa Puebla [Timeout]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC-HNztluSQSffhIWJTL-LUw/live
+#EXTINF:-1 tvg-id="TelevisaQueretaro.mx" status="timeout",Televisa Queretaro [Timeout]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9QNz6VS3gGz55dzxAQtgtA/live
+#EXTINF:-1 tvg-id="" status="error",Televisa San Luis Potosí (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaRuyaHshLdq462E9_pLzdA/live
+#EXTINF:-1 tvg-id="TelevisaSinaloa.mx" status="timeout",Televisa Sinaloa [Timeout]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ/live
+#EXTINF:-1 tvg-id="TelevisaSonora.mx" status="online",Televisa Sonora (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg/live
+#EXTINF:-1 tvg-id="TelevisaVeracruz.mx" status="online",Televisa Veracruz (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg/live
+#EXTINF:-1 tvg-id="TelevisaZacatecas.mx" status="online",Televisa Zacatecas (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q/live
+
+
 
 #EXTINF:-1 tvg-id="Estrella.com" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="Local MX",Canal ESTRELLATV | HD
 #EXTVLCOPT:network-caching=1000
@@ -755,4 +801,98 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://190.122.96.187:8888/http/010
 
+
+// :::: US: ABC Channels ::::
+#EXTINF:-1 tvg-id="" status="online",ABC 2 Atlanta GA (WSB-TV) (720p)
+https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 2 Baton Rouge LA (WBRZ) (720p) [Not 24/7]
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 3 Corpus Christi TX (KIII) (1080p)
+https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 4 Seattle WA (KOMO-TV) (720p)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 5 Cleveland OH (WEWS-TV) (1080p)
+https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 5 Des Moines IA (WOI) (1080p)
+https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" status="error",ABC 5 Minneapolis MN (KSTP) (720p) [Offline]
+https://iptv-all.lanesh4d0w.repl.co/united-states/kstp-tv
+#EXTINF:-1 tvg-id="" status="online",ABC 7 Denver CO (KMGH) (720p)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 7 Los Angeles CA (KABC-TV) (720p)
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 7 Washington DC (WJLA) (720p)
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 8 Dallas TX (WFAA) (1080p)
+https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 8 Davenport IA (WQAD) (1080p)
+https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 9 Orlando FL (WFTV) (720p)
+https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 10 Sacramento CA (KXTV) (1080p)
+https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 11 Louisville KY (WHAS) (1080p)
+https://livevideo01.whas11.com/hls/live/2016284/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 13 Grand Rapids MI (WZZM) (1080p)
+https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 13 Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 13 Norfolk VA (WVEC) (1080p)
+https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 15 Phoenix AZ (KNXV-TV) (720p)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 16 Wilkes Barre PA (WNEP) (1080p)
+https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 24 Austin TX (KVUE) (1080p)
+https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC 24 Memphis TN (WATN-TV) (1080p)
+https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="ABCNews.us" status="online",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive1.us" status="online",ABC News Live 1 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive2.us" status="online",ABC News Live 2 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive3.us" status="online",ABC News Live 3 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive4.us" status="online",ABC News Live 4 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive5.us" status="online",ABC News Live 5 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive6.us" status="online",ABC News Live 6 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive7.us" status="online",ABC News Live 7 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive8.us" status="online",ABC News Live 8 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive9.us" status="online",ABC News Live 9 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive10.us" status="online",ABC News Live 10 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC News New York NY (WABC-TV) (720p)
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 tvg-id="" status="online",ABC Tallahassee FL (WTXL-TV1) (720p) [Not 24/7]
+https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8
+
+
+// *** Argentina Local TV **** 
+#EXTINF:-1 tvg-logo="https://imgur.com/nDv9wg0.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="TCanal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="AR Local",Canal 26 Argentina | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nDv9wg0.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="TCanal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="AR Local",Canal 26 Argentina | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+// *** Bulgaria Local TV **** 
+
+#EXTINF:0 tvg-name="Bulgaria On Air" tvg-language="Bulgarian" tvg-country="BG" tvg-id="Bulgaria On Air" tvg-logo="http://www.predavatel.com/bg/tv/bulgariaonair.png" group-title="News",Bulgaria On Air (News) (BG) (Bulgarian)
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+
+
+// *** Espana/ Spain Local TV **** 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wj3V1a6.png" tvg-id="Lancelot TV" tvg-name="Lancelot TV" channel-id="Lancelot TV" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="ES Local",Canal Lancelot TV | HD 720p
+#EXTVLCOPT:network-caching=10000 
+rtmp://62.210.141.18:1935/directo/lancelot.television
 
