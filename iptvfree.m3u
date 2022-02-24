@@ -755,34 +755,36 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTVLCOPT:network-caching=1000 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/AlQoWaaIv8A
 
-
-#EXTINF:-1 tvg-id="TelevisaEstado.mx" status="online",9 Nueve Televisa Estado Mexico | HD 1080p
+#EXTINF:-1 tvg-logo="https://imgur.com/xZwVw0w.png" tvg-id="TelevisaEstado.mx" tvg-name="Televisa Estado de Mexico" channel-id="TelevisaEstado.mx" channel-number="9.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",9 Nueve Televisa Estado Mexico | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9DH82HVSf4katwMeUpY80w
 
-#EXTINF:-1 tvg-id="TelevisaLaguna.mx" status="online",9 Nueve Televisa Laguna | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/HYpAiaN.png" tvg-id="TelevisaLaguna.mx" tvg-name="Televisa Coahuila Laguna" channel-id="TelevisaLaguna.mx" channel-number="9.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",9.1 Nueve Televisa  Laguna (XHTOB) | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_mwCcsKDJLSWjply5s0h8w/live
 
-#EXTINF:-1 tvg-id="TelevisaMexicali.mx" status="online",4.1 Televisa Mexicali (XHBC) | HD 1080p
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ywVaxHu.png" tvg-id="TelevisaMexicali.mx" tvg-name="Televisa Mexicali" channel-id="TelevisaMexicali.mx" channel-number="4.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",Televisa Mexicali (XHBC) | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q/live
 
-#EXTINF:-1 tvg-id="TelevisaMonterrey.mx" status="online",4 Televisa Monterrey | HD 1080p
+#EXTINF:-1 tvg-logo="https://imgur.com/rR5qgxj.png" tvg-id="TelevisaMonterrey.mx" tvg-name="Televisa Monterrey" channel-id="TelevisaMonterrey.mx" channel-number="4.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",Televisa Monterrey | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
 
-#EXTINF:-1 tvg-id="TelevisaNoreste.mx" status="online",8 Televisa Vallevisison Noreste | HD 480p
+#EXTINF:-1 tvg-logo="https://imgur.com/96XvUR2.png" tvg-id="TelevisaNoroeste.mx" tvg-name="Televisa Noroeste" channel-id="TelevisaNoroeste.mx" channel-number="7.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",7.1 Televisa Noroeste Vallevisison | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC752DYv5vPlTSMrvEjfZXcw/live
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hQkNKPu.png" tvg-id="TelevisaSanLuisPotosi.mx" tvg-name="Televisa San Luis Potosi" channel-id="TelevisaSanLuisPotosi.mx" channel-number="7.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",7.1 Televisa San Luis Potosi | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaRuyaHshLdq462E9_pLzdA/live
 
 #EXTINF:-1 tvg-id="TelevisaNewsMexico.mx" status="timeout",ForoTV Televisa Mexico | HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
 
-#EXTINF:-1 tvg-id="" status="error",8.1 Televisa San Luis Potosí | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaRuyaHshLdq462E9_pLzdA/live
+
 
 #EXTINF:-1 tvg-id="TelevisaSonora.mx" status="online",12.1 Televisa Sonora (XHAK) | HD 720p
 #EXTVLCOPT:network-caching=1000 
