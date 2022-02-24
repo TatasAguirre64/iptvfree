@@ -48,7 +48,23 @@ https://hsn.samsung.wurl.com/manifest/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
 
+// ++++ US: CNN Channels ++++
 
+#EXTINF:-1 tvg-logo="https://www.logodesignlove.com/wp-content/uploads/2010/06/cnn-logo-white-on-red.jpg" tvg-id="CNNUSA.us" tvg-name="CNN USA " channel-id="CNNUSA.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CNN USA" status="online",CNN USA I | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logodesignlove.com/wp-content/uploads/2010/06/cnn-logo-white-on-red.jpg" tvg-id="CNNUSA.us" tvg-name="CNN USA " channel-id="CNNUSA.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CNN USA" status="online",CNN USA II | HD 480p
+#EXTVLCOPT:network-caching=1000 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logodesignlove.com/wp-content/uploads/2010/06/cnn-logo-white-on-red.jpg" tvg-id="CNNUSA.us" tvg-name="CNN USA " channel-id="CNNUSA.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CNN USA" status="online",CNN USA III | HD 360p
+#EXTVLCOPT:network-caching=1000 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logodesignlove.com/wp-content/uploads/2010/06/cnn-logo-white-on-red.jpg" tvg-id="CNNUSA.us" tvg-name="CNN USA " channel-id="CNNUSA.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CNN USA" status="online",CNN USA IV | HD 360p
+#EXTVLCOPT:network-caching=1000 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 
 // *** USA Local TV **** 
 
