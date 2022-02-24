@@ -746,15 +746,15 @@ https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 http://190.122.96.187:8888/http/002
 
-
-
-#EXTINF:-1 tvg-id="TelevisaCiudadJuarez.mx" status="online",9 Nueve Televisa Ciudad Juarez | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/0Gq7Qdr.png" tvg-id="TelevisaCiudadJuarez.mx" tvg-name="Televisa CiudadJuarez" channel-id="TelevisaCiudadJuarez.mx" channel-number="8.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",8.1 Televisa Ciudad Juarez | HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live
 
-#EXTINF:-1 tvg-id="TelevisaJalisco.mx" status="online",4 Televisa Guadalajara (XHG) | HD 720p
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xgh22Xy.png" tvg-id="TelevisaJalisco.mx" tvg-name="Televisa Guadalajara" channel-id="TelevisaJalisco.mx" channel-number="4.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",4 Televisa Guadalajara (XHG) | HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/AlQoWaaIv8A
+
 
 #EXTINF:-1 tvg-id="TelevisaEstado.mx" status="online",9 Nueve Televisa Estado Mexico | HD 1080p
 #EXTVLCOPT:network-caching=1000 
