@@ -1003,15 +1003,15 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-1 tvg-logo=".png" tvg-id="ATV.pe" tvg-name="ATV HD" channel-id="ATV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",ATV HD Perú | HD 480p
+#EXTINF:-1 tvg-logo="https://imgur.com/Ae0EVtn.png" tvg-id="ATV.pe" tvg-name="ATV HD" channel-id="ATV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",ATV HD Perú | HD 480p
 #EXTVLCOPT:network-caching=1000 
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=".png" tvg-id="ATVmas.pe" tvg-name="ATV+ HD" channel-id="ATVmas.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",ATV+ HD Perú | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/Ae0EVtn.png" tvg-id="ATVmas.pe" tvg-name="ATV+ HD" channel-id="ATVmas.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",ATV+ HD Perú | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 
-#EXTINF:-1 tvg-logo=".png" tvg-id="ATVMásNoticias.pe" tvg-name="ATV+ HD" channel-id="ATVMásNoticias.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",ATV+ Noticias Perú | HD 480p
+#EXTINF:-1 tvg-logo="https://imgur.com/UvdczXj.png" tvg-id="ATVMásNoticias.pe" tvg-name="ATV+ HD" channel-id="ATVMásNoticias.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",ATV+ Noticias Perú | HD 480p
 #EXTVLCOPT:network-caching=1000 
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 
@@ -1088,6 +1088,9 @@ https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wj3V1a6.png" tvg-id="Lancelot TV" tvg-name="Lancelot TV" channel-id="Lancelot TV" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="ES Local",Canal Lancelot TV | HD 720p
 #EXTVLCOPT:network-caching=10000 
 rtmp://62.210.141.18:1935/directo/lancelot.television
+
+
+
 
 
 
