@@ -365,10 +365,15 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://51.222.85.85:81/hls/loco/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/undefined.png" tvg-id="AnimeZoneTV.tv" tvg-name="AZTV AnimeZoneTV" channel-id="AnimeZoneTV.tv" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",AZTV AnimeZoneTV | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://azxtv.com/hls/stream.m3u8
+
+
+
 
 
 // *** Mexico Local TV **** 
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 1 TV | HD
 #EXTVLCOPT:http-referrer=https://ssh101.com/
@@ -952,17 +957,34 @@ http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 
 
 
+// :: CL: CHILE LOCAL TV ::
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZH3PDFW.png" tvg-id="ZappingMusic.cl" tvg-name="Zapping Music TV" channel-id="ZappingMusic.cl" channel-number="" tvc-guide-stationid="" tvg-country="CL" tvg-language="Spanish" group-title="Chile Local TV" status="online",Zapping Music TV Chile | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 
 // :: PE: PERU Local TV ::
 
 
-#EXTINF:-1 tvg-logo=".png" tvg-id="TVPeruInternacional.pe" tvg-name="TV Peru Internacional" channel-id="TVPeruInternacional.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",TV Perú Internacional | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/n81CbIK.png" tvg-id="TVPeruInternacional.pe" tvg-name="TV Peru Internacional" channel-id="TVPeruInternacional.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",TV Perú Internacional | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://cdnh74.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hilDScr.png" tvg-id="BHTV.pe" tvg-name="BHTV Peru" channel-id="BHTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",703.1 BHTV Perú | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w1776637568.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/FxooKN9.png" tvg-id="CentralTVChosica.pe" tvg-name="CentralTV Chosica" channel-id="CentralTVChosica.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",CentralTV Chosica Perú | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/chunklist_w261521616.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/n81CbIK.png" tvg-id="TVPeru.pe" tvg-name="TV Peru" channel-id="TVPeru.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",TV Perú | HD 450p
 #EXTVLCOPT:network-caching=1000 
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UzXLgU0.png" tvg-id="RetroPlus3.cl" tvg-name="" channel-id="RetroPlus3.cl" channel-number="" tvc-guide-stationid="" tvg-country="CL;PE" tvg-language="Spanish;Latino" group-title="Peru Local TV" status="online",Retro Plus 3| HD 720p
+#EXTVLCOPT:network-caching=1000
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/n81CbIK.png" tvg-id="TVPeru.pe" tvg-name="TV Peru" channel-id="TVPeru.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",TV Perú | HD 450p
 #EXTVLCOPT:network-caching=1000 
@@ -1005,19 +1027,52 @@ https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w17
 #EXTVLCOPT:network-caching=1000 
 http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://imgur.com/GTzroyl.png" tvg-id="Unitel.pe" tvg-name="Unitel TV HD" channel-id="Unitel.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",UnitelTV HD Huancayo Peru | HD 480p
+#EXTVLCOPT:network-caching=1000 
+https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/chunklist_w1440873203.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/bI8PFhQ.png" tvg-id="Ovacion.pe" tvg-name="Ovacion" channel-id="Ovacion.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",Ovacion TV Peru | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_w1952385294.m3u8
 
+#EXTINF:-1 tvg-logo=".png" tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" channel-id="MonterricoTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",Monterrico TV Peru | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/GmWwrzy.png" tvg-id="KBOQuillabamba.pe" tvg-name="KBO Quillabamba" channel-id="KBOQuillabamba.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",KBO Quillabamba TV Peru | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/U02jHWl.png" tvg-id="NuestraTVLima.pe" tvg-name="NuestraTV Lima" channel-id="NuestraTVLima.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",NTV NuestraTV Lima Peru | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+
+#EXTINF:-1 tvg-logo="https://imgur.com/abW3PIn.png" tvg-id="AntaresTV.pe" tvg-name="Antares TV" channel-id="AntaresTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",Antares TV Peru | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1793259129.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/v348lMR.png" tvg-id="TurboMixTV.pe" tvg-name="Turbo Mix TV" channel-id="TurboMixTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",19.1 TurboMixTV Peru | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Bmcn5dg.png" tvg-id="Karibena.pe" tvg-name="Karibena TV" channel-id="Karibena.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",Karibena TV Peru | HD 480p
+#EXTVLCOPT:network-caching=1000 
+https://cu.onliv3.com/livevd/user1_low/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Bmcn5dg.png" tvg-id="Karibena.pe" tvg-name="Karibena TV" channel-id="Karibena.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",Karibena TV Peru | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qx0j8YR.png" tvg-id="RadioSanBorjaTV.pe" tvg-name="Radio San Borja PE" channel-id="RadioSanBorjaTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",Radios San Borja | HD 450p
 #EXTVLCOPT:network-caching=1000 
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/GhFR9oC.png" tvg-id="Millenium109FM.pe" tvg-name="Millenium 109FM TV" channel-id="Millenium109FM.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",Millenium 109FM TV Lamas | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/UzXLgU0.png" tvg-id="RetroPlus3.cl" tvg-name="" channel-id="RetroPlus3.cl" channel-number="" tvc-guide-stationid="" tvg-country="CL;PE" tvg-language="Spanish;Latino" group-title="Peru Local TV" status="online",Retro Plus 3| HD 720p
-#EXTVLCOPT:network-caching=1000
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
 
 
