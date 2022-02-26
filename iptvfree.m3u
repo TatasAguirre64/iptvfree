@@ -1,8 +1,6 @@
-#EXTM3U url-tvg=https://bit.ly/3itZsSm
+#EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml
 
-#EXTM3U
 
-#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-id="TNT.us" tvg-name="TNT US" channel-id="TNT.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -941,17 +939,29 @@ http://190.122.96.187:8888/http/010
 
 // :: AR: ARGENTINA Local TV ::
 
-#EXTINF:-1 tvg-logo="https://imgur.com/nDv9wg0.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="TCanal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="AR Local",Canal 26 Argentina | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="TCanal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="AR Local",Canal 26 Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/nDv9wg0.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="TCanal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="AR Local",Canal 26 Argentina | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="TCanal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="AR Local",Canal 26 Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vuNHCaj.png" tvg-id="CINEAR.ar" tvg-name="CINEAR" channel-id="CINEAR.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish;Latino" group-title="AR Local" status="online",CineAR TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="Canal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina Local TV" status="online",Canal 26 Argentina | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w731534597_b2628000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="Canal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina Local TV" status="online",Canal 26 Argentina | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1662145966_b1264000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9GYL6OO.png" tvg-id="MusicTop.ar" tvg-name="MusicTop" channel-id="MusicTop.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina Local TV" status="online",MusicTop Argentina | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 
 // *** BU: BULGARIA Local TV **** 
@@ -963,7 +973,7 @@ http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 
 // :: CL: CHILE LOCAL TV ::
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ARwmorS.png" tvg-id=".cl" tvg-name="Zapping Music TV" channel-id="ZappingMusic.cl" channel-number="" tvc-guide-stationid="" tvg-country="CL" tvg-language="Spanish" group-title="Chile Local TV" status="online",Zapping Music TV Chile | HD 1080p
+#EXTINF:-1 tvg-logo="https://imgur.com/ZH3PDFW.png" tvg-id=".cl" tvg-name="Zapping Music TV" channel-id="ZappingMusic.cl" channel-number="" tvc-guide-stationid="" tvg-country="CL" tvg-language="Spanish" group-title="Chile Local TV" status="online",Zapping Music TV Chile | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 
@@ -973,7 +983,7 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 #EXTVLCOPT:network-caching=1000 
 http://live.cgtn.com/500/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ZH3PDFW.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China Local TV" status="online",CGTN TV China Eng| HD 1080p
+#EXTINF:-1 tvg-logo="https://imgur.com/ARwmorS.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China Local TV" status="online",CGTN TV China Eng| HD 1080p
 #EXTVLCOPT:network-caching=1000 
 http://live.cgtn.com/1000/prog_index.m3u8
 
@@ -1107,17 +1117,7 @@ https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8
 
 
 // :: AR: Argentina Local TV  :: 
-#EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="Canal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina Local TV" status="online",Canal 26 Argentina | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w731534597_b2628000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="Canal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina Local TV" status="online",Canal 26 Argentina | HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1662145966_b1264000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/9GYL6OO.png" tvg-id="MusicTop.ar" tvg-name="MusicTop" channel-id="MusicTop.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina Local TV" status="online",MusicTop Argentina | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 
 
