@@ -141,7 +141,13 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x
 https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8
 
 
-// ++++ US: CNN Channels ++++
+// +US: CBS Channels +
+#EXTINF:-1 tvg-logo="https://imgur.com/LRzjvbW.png" tvg-id="CBS.us" tvg-name="CBS NEWS" channel-id="CBS.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS Local" status="online",CBS NEWS | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+
+// +US: CNN Channels ++
 
 #EXTINF:-1 tvg-logo=".png" tvg-id="CNNUSA.us" tvg-name="CNN USA " channel-id="CNNUSA.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CNN USA" status="online",CNN USA I | HD 720p
 #EXTVLCOPT:network-caching=1000 
