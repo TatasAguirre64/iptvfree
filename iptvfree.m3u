@@ -1,6 +1,8 @@
 
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml
 
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-id="TNT.us" tvg-name="TNT US" channel-id="TNT.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -75,31 +77,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/E1HJqlf.png" tvg-id="NASATVPublic.us" tvg-name="NASA TV" channel-id="NASATVPublic.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="NASA TV" status="online",NASA TV Public | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-
-
-
-// +Music TV Channels :::
-
-#EXTINF:-1 tvg-logo="https://imgur.com/DvQm71h.png" tvg-id="retro.UK" channel-id="Retro.uk" tvg-name="RETRO TV"  channel-number="" tvc-guide-stationid="" tvg-country="CZ" tvg-language="English" group-title="MUSIC TV" status="online",Retro TV UK | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/wPTlqy9.png" tvg-id="M2OTV.UK" tvg-name="M2O TV" channel-id="M2OTV.UK" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="MUSIC TV" status="online",M2O TV UK | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/DvQm71h.png" tvg-id="retro.UK" channel-id="Retro.uk" tvg-name="RETRO TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="MUSIC TV" status="online",Retro TV UK | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
-
-#EXTINF:-1 tvg-logo="https://imgur.com/wPTlqy9.png" tvg-id="M2OTV.UK" tvg-name="M2O TV" channel-id="M2OTV.UK" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="MUSIC TV" status="online",M2O TV UK | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
-
-#EXTINF:-1 tvg-logo="https://imgur.com/LL4429Z.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="MUSIC TV" status="online",PortalMix TV | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
 
 
@@ -183,6 +160,18 @@ https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
+#EXTINF:-1 tvg-logo="hhttps://imgur.com/5if7bPk.png" tvg-id="CBS.us" tvg-name="CBS NEWS" channel-id="CBS.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS Local" status="online",CBS NEWS | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/5a90193e-6141-4208-9341-310109a5cf86:DLS/master.m3u8
+
+
+
+
+// +VOA: Voice of America +
+#EXTINF:-1 tvg-logo="https://imgur.com/WZ56Hf5.png" tvg-id="AOV.us" tvg-name="AOV TV" channel-id="AOV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="AOV Local" status="online",AOV TV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
 
 // ++++ US: CNN Channels ++++
 
@@ -212,7 +201,6 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="RTAmerica.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfF6TzlftAe8wpFx-XUa46b5SdlkMw6Xqn0diyJ8dNmJuxszzAxmfvH6br_iE3ZhTUKTk&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT America TV) | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://ott-cdn.ucom.am/s96/index.m3u8
-
 
 #EXTINF:-1 tvg-id="RTEspanol.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="RT TV",RT Espanol TV | HD 1080p
 #EXTVLCOPT:network-caching=1000
@@ -272,6 +260,9 @@ https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source
 #EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France Espanol" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Espanol| HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France Espanol" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Espanol| HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -524,6 +515,39 @@ https://worcester.vod.castus.tv/live/ch1.m3u8
 
 
 
+// +Music TV Channels :::
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DvQm71h.png" tvg-id="retro.UK" channel-id="Retro.uk" tvg-name="RETRO TV"  channel-number="" tvc-guide-stationid="" tvg-country="CZ" tvg-language="English" group-title="MUSIC TV" status="online",Retro TV UK | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wPTlqy9.png" tvg-id="M2OTV.UK" tvg-name="M2O TV" channel-id="M2OTV.UK" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="MUSIC TV" status="online",M2O TV UK | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DvQm71h.png" tvg-id="retro.UK" channel-id="Retro.uk" tvg-name="RETRO TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="MUSIC TV" status="online",Retro TV UK | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wPTlqy9.png" tvg-id="M2OTV.UK" tvg-name="M2O TV" channel-id="M2OTV.UK" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="MUSIC TV" status="online",M2O TV UK | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+
+#EXTINF:-1 tvg-logo="https://imgur.com/LL4429Z.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="MUSIC TV" status="online",PortalMix TV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HMPYh3t.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="MUSIC TV" status="online",MolahitsTV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Gmv9kVR.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="MUSIC TV" status="online",Radio 88 Hits | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+
+
+
 
 
 
@@ -555,6 +579,11 @@ http://azxtv.com/hls/stream.m3u8
 #EXTVLCOPT:network-caching=1000
 https://tna5.bozztv.com/LiveCH07/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/mKifhfe.png" tvg-id="RCGCohauila.tv" tvg-name="RCG Cohauila" channel-id="RCGCohauila.tv" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local",2.1 RCG Cohauila | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 2 TV | HD
 #EXTVLCOPT:network-caching=1000
 https://video13.virtualtronics.com/streamer/canal2.m3u8
@@ -579,6 +608,10 @@ http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/iyHcvJV.png" tvg-id="RCGSaltilo.tv" tvg-name="RCG Saltillo" channel-id="RCGSaltillo.tv" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local",3.1 RCG Saltillo | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 3 TV| HD
 #EXTVLCOPT:network-caching=1000
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
@@ -591,9 +624,9 @@ http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTVLCOPT:network-caching=1000
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RCG 3 Saltillo" tvg-logo="https://i.imgur.com/NefH5qZ.png" group-title="Local MX",Canal 3.1 RCG Saltillo | HD
-#EXTVLCOPT:network-caching=1000
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-name="Trece" tvg-logo="https://i.imgur.com/9kcYqk2.png" group-title="Paraguay",Canal 3.1 Trece Paraguay | HD
@@ -617,6 +650,11 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF:-1 tvg-name="RCG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU979fGwFDcFqSQ_tcHp7MtePJ_IdoqX7lp8tQX8mfpn_X-pqQP-aKkCKrSsmvPFBUoCE&usqp=CAU" group-title="Local MX",Canal 3.4 Imagen Radio | HD
 #EXTVLCOPT:network-caching=1000
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB0BUmdBOrH9mYU2ebs1eWA/live
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/izZa0lv.png" tvg-id="RCGSaltilo.tv" tvg-name="RCG Saltillo" channel-id="RCGSaltillo.tv" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local",3.1 RCG Saltillo | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 4 TeleDiario | HD
 #EXTVLCOPT:network-caching=1000
@@ -1123,18 +1161,20 @@ http://190.122.96.187:8888/http/010
 #EXTVLCOPT:network-caching=1000 
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
 
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+/ +MX: MIAMI TV ++
+#EXTINF:-1 tvg-logo="https://imgur.com/TpWfOZt.png" tvg-id="" channel-id="" tvg-name=""  channel-number="9.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",Miami TV Mexico | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
 
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+// MOVIES: Movies Channels
 
+#EXTINF:-1 tvg-logo="https://imgur.com/VGV8xhU.png" tvg-id="Mundomas.co" channel-id="MundoMas.com" tvg-name="Mundo+ Colombia"  channel-number="" tvc-guide-stationid="" tvg-country="CO" tvg-language="Spanish" group-title="CO Local" status="online",Mundo+ Colombia | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1344197682.m3u8
 
-EUROPA
-http://europa-crtvg.flumotion.com/playlist.m3u8
-
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hilDScr.png" tvg-id="BHTV.pe" tvg-name="BHTV Peru" channel-id="BHTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",703.1 BHTV 2 Perú | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 
 // Religion TV: Hope TV++
@@ -1154,50 +1194,58 @@ https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/m
 
 // :: AR: ARGENTINA Local TV ::
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="TCanal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="AR Local",Canal 26 Argentina | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="TCanal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV",Canal 26 Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/e2X0SXu.png" tvg-id="MicrovisionArgentina.ar" tvg-name="Microvision TV" channel-id="MicrovisionArgentina.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="AR Local",Microvision Argentina | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/e2X0SXu.png" tvg-id="MicrovisionArgentina.ar" tvg-name="Microvision TV" channel-id="MicrovisionArgentina.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV",Microvision Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/YURnxqL.png" tvg-id="Telemax.ar" channel-id="Telemax.ar" tvg-name="Telemax Argentina" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="AR Local",Telemax Argentina | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/YURnxqL.png" tvg-id="Telemax.ar" channel-id="Telemax.ar" tvg-name="Telemax Argentina" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV",Telemax Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="TCanal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="AR Local",Canal 26 Argentina | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="TCanal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV",Canal 26 Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yEWK9Wx.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="AR Local" status="online",Futuro 88.9 TV | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/rDEyA7j.png" tvg-id="5TV.ar" tvg-name="5TV" channel-id="5TV.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV",5TV Argentina | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yEWK9Wx.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV" status="online",Futuro 88.9 TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/WB4wYap.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="AR Local" status="online",Pinguino TV | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/WB4wYap.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV" status="online",Pinguino TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/vuNHCaj.png" tvg-id="CINEAR.ar" tvg-name="CINEAR" channel-id="CINEAR.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish;Latino" group-title="AR Local" status="online",CineAR TV | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/vuNHCaj.png" tvg-id="CINEAR.ar" tvg-name="CINEAR" channel-id="CINEAR.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish;Latino" group-title="Argentina TV" status="online",CineAR TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9GYL6OO.png" tvg-id="MusicTop.ar" tvg-name="MusicTop" channel-id="MusicTop.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina Local TV" status="online",MusicTop Argentina | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/9GYL6OO.png" tvg-id="MusicTop.ar" tvg-name="MusicTop" channel-id="MusicTop.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV" status="online",MusicTop Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="Canal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina Local TV" status="online",Canal 26 Argentina | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="Canal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV" status="online",Canal 26 Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w731534597_b2628000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="Canal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina Local TV" status="online",Canal 26 Argentina | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="Canal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV" status="online",Canal 26 Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1662145966_b1264000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9GYL6OO.png" tvg-id="MusicTop.ar" tvg-name="MusicTop" channel-id="MusicTop.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina Local TV" status="online",MusicTop Argentina | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/9GYL6OO.png" tvg-id="MusicTop.ar" tvg-name="MusicTop" channel-id="MusicTop.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV" status="online",MusicTop Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AABOASt.png" tvg-id="CanalProvicial.ar" tvg-name="Canal Provicial" channel-id="CanalProvicial.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV" status="online",MusicTop Argentina | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
 
 
@@ -1206,6 +1254,16 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:0 tvg-name="Bulgaria On Air" tvg-language="Bulgarian" tvg-country="BG" tvg-id="Bulgaria On Air" tvg-logo="http://www.predavatel.com/bg/tv/bulgariaonair.png" group-title="News",Bulgaria On Air (News) (BG) (Bulgarian)
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 
+// *** BR: BRAZIL Local TV **** 
+#EXTINF:-1 tvg-logo="https://imgur.com/fzszmZT.png" tvg-id="MasterTv.br" tvg-name="Master Tv Brasil" channel-id="MasterTv.br" channel-number="" tvc-guide-stationid="" tvg-country="BR" tvg-language="Spanish" group-title="Brasil Local TV" status="online",Master TV Brasil | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fnOICwv.png" tvg-id=".br" tvg-name="Brasil" channel-id=".br" channel-number="" tvc-guide-stationid="" tvg-country="BR" tvg-language="Brazilian" group-title="Brasil TV" status="online",Canal 10 Rio Negro Brazil | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+
+
 // CO: COLOMBIA LOCAL TV++
 
 
@@ -1213,9 +1271,22 @@ http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/VGV8xhU.png" tvg-id="Mundomas.co" channel-id="MundoMas.com" tvg-name="Mundo+ Colombia"  channel-number="" tvc-guide-stationid="" tvg-country="CO" tvg-language="Spanish" group-title="CO Local" status="online",Mundo+ Colombia | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
 
 
 //+CT : COSTA RICA CHANNELS ++
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fuh1o75.png" tvg-id="TELESUR.CR" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="CR" tvg-language="Spanish" group-title="CR TV" status="online",TeleSur Costa Rica | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w733680605.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fuh1o75.png" tvg-id="TELESUR.CR" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="CR" tvg-language="Spanish" group-title="CR TV" status="online",TeleSur Costa Rica | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HT9tvwt.png" tvg-id="ExtremaTV.cr" channel-id="ExtremaTV.cr" tvg-name="Extrema TV"  channel-number="" tvc-guide-stationid="" tvg-country="CR" tvg-language="Spanish" group-title="CR Local" status="online",Extrema TV | HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -1247,10 +1318,25 @@ https://604bda2ac71ad.streamlock.net/TENHD/TENLive.smil/chunklist_w1571806234_b1
 #EXTVLCOPT:network-caching=1000
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/va0HqTj.png" tvg-id="7TVMurcia.es" channel-id="7TVMurcia.es" tvg-name="7TV Murcia"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",7HD Murcia Conecta| HD 720p
+#EXTVLCOPT:network-caching=1000
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NePV2B7.png" tvg-id="AlcarriaTV.es" channel-id="AlcarriaTV" tvg-name="AlcarriaTV.es"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",7TV Murcia | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0B2bKEF.png" tvg-id="EtbBasquet.es" channel-id="EtbBasquet.es" tvg-name="EtbBasquet Madrid"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",EtbBasquet TV Madrid | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2ncyGL2.png" tvg-id="GaliciaAmerica.es" tvg-name="Galicia America" channel-id="GaliciaAmerica.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Galicia America TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/pNx2Dot.png" tvg-id="GaliciaInfantil.es" tvg-name="Galicia Infantil" channel-id="GaliciaInfantil.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Galicia Infantil TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://infantil-crtvg.flumotion.com/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2ncyGL2.png" tvg-id="GaliciaAmerica.es" tvg-name="Galicia America" channel-id="GaliciaAmerica.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",7 Galicia | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -1295,6 +1381,29 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ovznd85.png" tvg-id="Romanatv.do" channel-id="Romanatv.do" tvg-name="Romana TV"  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",Romana Tv | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://tv.romanatv42.com/hls/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/R1FRHd0.png" tvg-id="TELENORD.do" channel-id="" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",8 Telenord TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w1265903714.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/R1FRHd0.png" tvg-id="TELENORD.do" channel-id="" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",8 Telenord TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/R1FRHd0.png" tvg-id="TELENORD.do" channel-id="" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",8 Telenord TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/telenord10.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/R1FRHd0.png" tvg-id="TELENORD.do" channel-id="" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",12 Telenord TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w1127557772.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/R1FRHd0.png" tvg-id="TELENORD.do" channel-id="" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",14 Telenord TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://newyorkstream.ddns.net:5854/telenord14/telenord14/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TdS8Dus.png" tvg-id="Microvisionhd.do" channel-id="Microvisionhd.do" tvg-name="Microvision HD"  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",Microvision HD | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -1373,10 +1482,17 @@ https://playback2.akamaized.net/streams/7082210_9331199_lsi3hcfzbzthsx7nzz2_1/ma
 #EXTVLCOPT:network-caching=1000 
 https://cdnh74.iblups.com/hls/irtp.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/hilDScr.png" tvg-id="BHTV.pe" tvg-name="BHTV Peru" channel-id="BHTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",703.1 BHTV Perú | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/hilDScr.png" tvg-id="BHTV.pe" tvg-name="BHTV Peru" channel-id="BHTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",703.1 BHTV 1 Perú | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w1776637568.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/hilDScr.png" tvg-id="BHTV.pe" tvg-name="BHTV Peru" channel-id="BHTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",703.1 BHTV 2 Perú | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hilDScr.png" tvg-id="BHTV.pe" tvg-name="BHTV Peru" channel-id="BHTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",703.1 BHTV 3 Perú | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FxooKN9.png" tvg-id="CentralTVChosica.pe" tvg-name="CentralTV Chosica" channel-id="CentralTVChosica.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",CentralTV Chosica Perú | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/chunklist_w261521616.m3u8
@@ -1474,7 +1590,11 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m
 #EXTVLCOPT:network-caching=1000 
 https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8
 
+// VE: Venezuela TV++
 
+#EXTINF:-1 tvg-logo=".png" tvg-id="TELESUR.CR" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="CR" tvg-language="Spanish" group-title="CR TV" status="online",TeleSur Costa Rica | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w733680605.m3u8
 
 // :: AR: DATA
 
@@ -1482,6 +1602,13 @@ https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
 
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+http://37.187.7.106/hechostv/live.m3u8
+http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
 
 
