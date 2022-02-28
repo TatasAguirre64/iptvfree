@@ -1,8 +1,6 @@
 
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml
 
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-id="TNT.us" tvg-name="TNT US" channel-id="TNT.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -46,6 +44,10 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OazcMqb.png" tvg-id="RedBullTv.us" channel-id="RedBullTv.us" tvg-name="Red Bull TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Red Bull TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bnik82m.png" tvg-id="" channel-id="" tvg-name="Space Channel TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",Space Channel TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
 #EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1200px-HLN_%28TV_network%29_2017_logo.svg.png" tvg-country="US" tvg-language="English" group-title="USA Cable",HLN | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -200,13 +202,19 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_14
 #EXTVLCOPT:network-caching=1000 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 
+#EXTINF:-1 tvg-id="Cnn.com" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="CNN TV",CNN Internacional | HD
+#EXTVLCOPT:network-caching=1000
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+
 // ++++ RT: RT Channels ++++
 
 #EXTINF:-1 tvg-id="RTAmerica.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfF6TzlftAe8wpFx-XUa46b5SdlkMw6Xqn0diyJ8dNmJuxszzAxmfvH6br_iE3ZhTUKTk&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT America TV) | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://ott-cdn.ucom.am/s96/index.m3u8
 
-#EXTINF:-1 tvg-id="RTEspanol.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Espanol TV | HD 1080p
+
+#EXTINF:-1 tvg-id="RTEspanol.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="RT TV",RT Espanol TV | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
@@ -234,6 +242,92 @@ https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="RTUK.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT UK TV | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
+
+
+
+
+
+// **** Bloomberg TV Channels *****
+
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxEU143qHqc7Y5bLkB6SQU0vgbLyeGvqzxHpDWVua4ntrM1Dd02gmsdiPATUe7Hd1mEM&usqp=CAU" group-title="Bloomberg TV",Bloomberg TV Europe | HD
+#EXTVLCOPT:network-caching=1000
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxEU143qHqc7Y5bLkB6SQU0vgbLyeGvqzxHpDWVua4ntrM1Dd02gmsdiPATUe7Hd1mEM&usqp=CAU" group-title="Bloomberg TV",Bloomberg TV Europe | UHD
+#EXTVLCOPT:network-caching=1000
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxEU143qHqc7Y5bLkB6SQU0vgbLyeGvqzxHpDWVua4ntrM1Dd02gmsdiPATUe7Hd1mEM&usqp=CAU" group-title="Bloomberg TV",Bloomberg TV ASIA | UHD
+#EXTVLCOPT:network-caching=1000
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxEU143qHqc7Y5bLkB6SQU0vgbLyeGvqzxHpDWVua4ntrM1Dd02gmsdiPATUe7Hd1mEM&usqp=CAU" group-title="Bloomberg TV",Bloomberg TV AUSTRALIA | UHD
+#EXTVLCOPT:network-caching=1000
+https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
+
+
+// FR: FRANCE LOCAL TV ****
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France Espanol" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Espanol| HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France Espanol" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Espanol| HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France Espanol" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Engligh | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/47
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France Espanol" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Engligh | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/48
+
+
+
+// ***** DW Channels ****
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DW TV",Canal DW Español | HD
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="dw.com" tvg-country="Arab" tvg-language="Arabian" tvg-logo="" group-title="DW TV",DW Arabic | HD
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+//////////////////////////////////////////////////////////////////
+
+#EXTINF:-1 tvg-id="bbc.com" tvg-country="Arab" tvg-language="Arabic" tvg-logo="" group-title="BBC TV",BBC Arabic | HD
+#EXTVLCOPT:network-caching=1000
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+#EXTINF:-1 tvg-id="foxlife.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Russian TV", FOX Russsian | HD
+#EXTVLCOPT:network-caching=1000
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+
+#EXTINF:-1 tvg-id="foxlife.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Russian TV", FOX Life | HD
+#EXTVLCOPT:network-caching=1000
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+
+#EXTINF:-1 tvg-id="ru" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Russian TV",National Geographic Channel Wild | HD
+#EXTVLCOPT:network-caching=1000
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
+
+#EXTINF:-1 tvg-id="ru" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Russian TV",National Geographic Channel | HD
+#EXTVLCOPT:network-caching=1000
+https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
+
+#EXTINF:-1 tvg-id="ru" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Russian TV",Sony Sci Fi | HD
+#EXTVLCOPT:network-caching=1000
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+
+
+
+
 // *** USA Local TV **** 
 
 #EXTINF:-1 tvg-id="WCBS-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Wbbm.png" tvg-name="CBS 2" tvg-country="US" tvg-language="English" group-title="Cable USA",2.1 CBS New York WCBS | HD 432p
