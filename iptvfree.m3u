@@ -200,7 +200,40 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_14
 #EXTVLCOPT:network-caching=1000 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 
+// ++++ RT: RT Channels ++++
 
+#EXTINF:-1 tvg-id="RTAmerica.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfF6TzlftAe8wpFx-XUa46b5SdlkMw6Xqn0diyJ8dNmJuxszzAxmfvH6br_iE3ZhTUKTk&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT America TV) | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://ott-cdn.ucom.am/s96/index.m3u8
+
+#EXTINF:-1 tvg-id="RTEspanol.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Espanol TV | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTArabic.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Arabic TV | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Documentary TV | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT Documentary Russian TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://hls.rt.com/hls/rtdru.m3u8
+
+
+#EXTINF:-1 tvg-id="RTFrance.com" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/RT_France.svg/1200px-RT_France.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT France TV | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTNews.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT News TV | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTUK.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",RT UK TV | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
 // *** USA Local TV **** 
 
 #EXTINF:-1 tvg-id="WCBS-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Wbbm.png" tvg-name="CBS 2" tvg-country="US" tvg-language="English" group-title="Cable USA",2.1 CBS New York WCBS | HD 432p
