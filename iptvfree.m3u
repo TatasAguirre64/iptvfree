@@ -44,10 +44,18 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3
 https://circle-samsung.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/WG2sENG.png" tvg-id="Crime360.us" tvg-name="Crime 360" channel-id="Crime360.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Crime 360 TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/XhmP6E0.png" tvg-id="AMGTV.us" tvg-name="AMGTV EAST" channel-id="AMGTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMGTV EAST | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tjS60Hd.png" tvg-id="IONPlus.us" tvg-name="ION Plus" channel-id="IONPlus.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",ION Plus | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/GSC8dCo.png" tvg-id="BlackNewsChannel.us" tvg-name="Black News Channel" channel-id="BlackNewsChannel.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Black News Channel | HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -65,6 +73,12 @@ https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5uDrtd0.png" tvg-id="Cheddar.us" tvg-name="Cheddar TV" channel-id="Cheddar.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Cheddar TV | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://live.chdrstatic.com/cheddar/primary/1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/LcwSTPW.png" tvg-id="CMCUSA.us" tvg-name="CMC USA" channel-id="CMCUSA.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",CMC USA | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bFrJb6D.png" tvg-id="VH1.us" tvg-name="VH1" channel-id="VH1.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",VH1 | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -87,9 +101,20 @@ https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.
 #EXTVLCOPT:network-caching=1000
 https://hsn.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HSN2.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdRx5EvxvYadG3WKbFJEsy_Bd0f1rlBNh1nSdpDr6VXa4njj-k6mUibfZBsyyZKRHJWoo&usqp=CAU" tvg-country="US" tvg-language="English" group-title="USA Cable",HLN 2 | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/wjHLMjN.png" tvg-id="HSN.us" channel-id="HSN.us" tvg-name="HSN Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HSN TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wjHLMjN.png" tvg-id="HSN2.us" channel-id="HSN2.us" tvg-name="HSN2 Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HSN 2 TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wnjPvkv.png" tvg-id="HSN2.us" channel-id="HSN2.us" tvg-name="HSN2 Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HSN 2TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/mKBQvlu.png" tvg-id="Beachtv.us"  tvg-country="US" tvg-language="English" group-title="USA Cable",BeachTV I | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -114,9 +139,30 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo=".png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online", | HD 720p
 #EXTVLCOPT:network-caching=1000 
 
+// US: NEWSMAX 
+#EXTINF:-1 tvg-logo="https://imgur.com/OuorICM.png" tvg-id="Newsmax.us" tvg-name="Newsmax TV" channel-id="Newsmax.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Newsmax | HD 720p
+#EXTVLCOPT:network-caching=1000 
 
 
 
+// US: NBC 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/J9vGdQG.png" tvg-id="NBCLX.us" tvg-name="NBCLX" channel-id="NBCLX.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",NBCLX | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
+
+// US: FOX 
+#EXTINF:-1 tvg-logo="https://imgur.com/iF68eRi.png" tvg-id="Fox26.us" tvg-name="Fox 26" channel-id="Fox26.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",26.1 Fox26 Houston | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lifDNjN.png" tvg-id="FoxNewsNow.us" tvg-name="Fox News Now" channel-id="FoxNewsNow.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Fox News Now | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bfYaQoI.png" tvg-id="FoxNews.us" tvg-name="Fox News" channel-id="FoxNews.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Fox News | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 
 
