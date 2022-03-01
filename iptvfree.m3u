@@ -2,6 +2,7 @@
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml
 
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-id="TNT.us" tvg-name="TNT US" channel-id="TNT.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -38,6 +39,11 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Mas6Ses.png" tvg-id="Circle.us" tvg-name="Circle TV" channel-id="Circle.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Circle TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://circle-samsung.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/XhmP6E0.png" tvg-id="AMGTV.us" tvg-name="AMGTV EAST" channel-id="AMGTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMGTV EAST | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
@@ -50,6 +56,15 @@ https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ymlCd6j.png" tvg-id="BratTV.us" tvg-name="Brat TV" channel-id="BratTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Brat TV | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://brat-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YxrHE1T.png" tvg-id="CelebrityScene.us" tvg-name="Celebrity Scene" channel-id="CelebrityScene.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Celebrity Scene TV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5uDrtd0.png" tvg-id="Cheddar.us" tvg-name="Cheddar TV" channel-id="Cheddar.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Cheddar TV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live.chdrstatic.com/cheddar/primary/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bFrJb6D.png" tvg-id="VH1.us" tvg-name="VH1" channel-id="VH1.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",VH1 | HD 720p
 #EXTVLCOPT:network-caching=1000
