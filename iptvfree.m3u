@@ -3,6 +3,7 @@
 
 
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-id="TNT.us" tvg-name="TNT US" channel-id="TNT.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -48,6 +49,11 @@ https://circle-samsung.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/aD0DaIZ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",USA Premiere | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/XhmP6E0.png" tvg-id="AMGTV.us" tvg-name="AMGTV EAST" channel-id="AMGTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMGTV EAST | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
@@ -88,6 +94,10 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OazcMqb.png" tvg-id="RedBullTv.us" channel-id="RedBullTv.us" tvg-name="Red Bull TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Red Bull TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vlCpOqv.png" tvg-id="OutdoorChannel.us" channel-id="OutdoorChannel.us" tvg-name="Outdoor Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Outdoor Channel TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bnik82m.png" tvg-id="" channel-id="" tvg-name="Space Channel TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",Space Channel TV | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -168,10 +178,14 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 // US: ABC 
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/1mF1I34.png" tvg-id="ABCNews.us" tvg-name="ABC News" channel-id="ABCNews.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",ABC News | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+// US: ALJAZEERA 
+#EXTINF:-1 tvg-logo="https://imgur.com/P8uMsMX.png" tvg-id="AljazeeraEng.il" tvg-name="Aljazeera English" channel-id="AljazeeraEng.il" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",Al Jazeera America | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 
 #EXTINF:-1 tvg-id="" status="online",ABC 2 Atlanta GA (WSB-TV) (720p)
@@ -268,6 +282,19 @@ https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTVLCOPT:network-caching=1000 
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/NGXS0ma.png" tvg-id="AOV.us" tvg-name="AOV TV" channel-id="AOV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="AOV Local" status="online",AOV Persian TV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WZ56Hf5.png" tvg-id="AOV.us" tvg-name="AOV TV" channel-id="AOV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="AOV Local" status="online",AOV TV | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TpnIHoy.png" tvg-id="AOV.us" tvg-name="AOV TV" channel-id="AOV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="AOV Local" status="online",AOV TV | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+
 
 // ++++ US: CNN Channels ++++
 
@@ -351,40 +378,69 @@ https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-
 https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
 
 
-// FR: FRANCE LOCAL TV ****
+// FR: FRANCE TV *
 
+#EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France24" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Engligh | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/47
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France24" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Engligh | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_old_900.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France24" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Engligh | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/48
 #EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France Espanol" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Espanol| HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
+#EXTINF:-1 tvg-logo=".https://imgur.com/Pqpvnma.png" tvg-id="EURONEWS.fr" tvg-name="EURONEWS.fr" channel-id="EURONEWS.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",EURONEWS. | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France Espanol" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Espanol| HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Espanol| HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France Espanol" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Engligh | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France24" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Engligh | HD 720p
 #EXTVLCOPT:network-caching=1000 
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/47
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_old_900.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France Espanol" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Engligh | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France24" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Engligh | HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/48
 
+// TRT: TRT TV+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P2LL5tp.png" tvg-id="TRTWorld.uk" tvg-name="TRT World" channel-id="TRTWorld.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="TRT TV" status="online",TRT WORLD | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 
-// ***** DW Channels ****
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DW TV",Canal DW Español | HD
-#EXTVLCOPT:network-caching=1000
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+// DW: DW TV+
 
-#EXTINF:-1 tvg-id="dw.com" tvg-country="Arab" tvg-language="Arabian" tvg-logo="" group-title="DW TV",DW Arabic | HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://imgur.com/e8fXcVv.png" tvg-id="DW.al" tvg-name="DW" channel-id="DW.al" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="DW TV" status="online",DW English | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JxKnYKN.png" tvg-id="" tvg-name="dw.us" channel-id="DW" channel-number="dw.us" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="DW TV" status="online",DW Arabic | HD 720p
+#EXTVLCOPT:network-caching=1000 
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
-//////////////////////////////////////////////////////////////////
+#EXTINF:-1 tvg-logo="https://imgur.com/HQgiQfj.png" tvg-id="" tvg-name="dw.us" channel-id="DW" channel-number="dw.us" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="DW TV" status="online",DW Español | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+
+// AF: AFRICA TV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xlgm0JH.png" tvg-id="" tvg-name="AFRICANEWS.AF" channel-id="DW" channel-number="AFRICANEWS.AF" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="DW TV" status="online",Africa News | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+
+
+// BBC: BCC TV
 
 #EXTINF:-1 tvg-id="bbc.com" tvg-country="Arab" tvg-language="Arabic" tvg-logo="" group-title="BBC TV",BBC Arabic | HD
 #EXTVLCOPT:network-caching=1000
@@ -660,9 +716,19 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://51.222.85.85:81/hls/loco/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t5honyz.png" tvg-id="Locomotion.tv" tvg-name="EBS TV" channel-id="Locomotion.tv" channel-number="" tvc-guide-stationid="" tvg-country="KR" tvg-language="KOREAN" group-title="Anime TV", EDS Kids Korea | HD 480p
+#EXTVLCOPT:network-caching=1000
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/0UlVUJ6.png" tvg-id="AnimeZoneTV.tv" tvg-name="AZTV AnimeZoneTV" channel-id="AnimeZoneTV.tv" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",AZTV AnimeZoneTV | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hGdrX8D.png" tvg-id="AniPLUS" tvg-name="AniPLUS TV" channel-id="AniPLUS" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",AniPLUS | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
 
 
 
@@ -1305,14 +1371,18 @@ https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/c
 #EXTVLCOPT:network-caching=1000
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/manifest.m3u8
 
+// AU: AUSTRALIA TV ::
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OcmL4x0.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="Spanish" group-title="Australia TV",ABC NEWS | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 
-// :: AR: ARGENTINA Local TV ::
+// AR: ARGENTINA TV ::
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="TCanal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV",Canal 26 Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/e2X0SXu.png" tvg-id="MicrovisionArgentina.ar" tvg-name="Microvision TV" channel-id="MicrovisionArgentina.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV",Microvision Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -1564,31 +1634,127 @@ https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2
 
 //:: CH: CHINA CHANNELS::
 
-#EXTINF:-1 tvg-logo="https://imgur.com/dJ9myqJ.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China Local TV" status="online",CGTN TV China Eng| HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/dJ9myqJ.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China TV" status="online",CGTN English | HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://live.cgtn.com/500/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ARwmorS.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China Local TV" status="online",CGTN TV China Eng| HD 1080p
+#EXTINF:-1 tvg-logo="https://imgur.com/fpjTwop.png" tvg-id="CCTV.ch" tvg-name="CGTN Documentary" channel-id="CCTV.ch" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China TV" status="online",CGTN Documentary | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8xGrDfR.png" tvg-id="CCTV.ch" tvg-name="CGTN Documentary" channel-id="CCTV.ch" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China TV" status="online",CGTN Documentary | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ARwmorS.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China TV" status="online",CGTN English | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 http://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NPZObxp.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China Local TV" status="online",CGTN Espanol TV China | HD 720p
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YFV978I.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China TV" status="online",CGTN Espanol | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://livees.cgtn.com/500e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NPZObxp.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China TV" status="online",CGTN Espanol | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NPZObxp.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China Local TV" status="online",CGTN Espanol TV China | HD 1080p
+#EXTINF:-1 tvg-logo="https://imgur.com/NPZObxp.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China TV" status="online",CGTN Espanol | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rX3fn9P.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China Local TV" status="online",CGTN français TV China | HD 1080p
+#EXTINF:-1 tvg-logo="https://imgur.com/rX3fn9P.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China TV" status="online",CGTN français | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 http://livefr.cgtn.com/1000f/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/j8MuzBR.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China Local TV" status="online",CGTN Now China Eng| HD 1080p
+#EXTINF:-1 tvg-logo="https://imgur.com/rX3fn9P.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China TV" status="online",CGTN français | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Atub4hF.png" tvg-id="CCTV.ch" tvg-name="CGTN" channel-id="CCTV.ch" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China TV" status="online",CGTN Arabic | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+http://livear.cgtn.com/1000a/prog_index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="CCTV.ru" tvg-name="CGTN" channel-id="CCTV.ru" channel-number="" tvc-guide-stationid="" tvg-country="RU" tvg-language="English" group-title="China TV" status="online",CGTN Russian | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/j8MuzBR.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China TV" status="online",CGTN Now China Eng | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 https://playback2.akamaized.net/streams/7082210_9331199_lsi3hcfzbzthsx7nzz2_1/master.m3u8?dw=14400&hdnts=exp=1645850329~acl=/streams/7082210_9331199_lsi3hcfzbzthsx7nzz2_1/master.m3u8*~hmac=431ad85dac5f0f28942b9dcbfe02f60fac35f9006889737b35acbd3cc29613cf
 
 
+// KR: KOREA TV++
+#EXTINF:-1 tvg-logo="https://imgur.com/HqokqWi.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="HK" tvg-language="English" group-title="KOREA TV" status="online",Arirang KOREA | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+// HK: Hong Kong TV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qduLDdm.png" tvg-id="HKSTV.HK" tvg-name="HKSTV-HK" channel-id="HKSTV.HK" channel-number="" tvc-guide-stationid="" tvg-country="HK" tvg-language="English" group-title="Hong Kong TV" status="online",HongKong 1 HKSTV-HK | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qduLDdm.png" tvg-id="HKSTV.HK" tvg-name="HKSTV-HK" channel-id="HKSTV.HK" channel-number="" tvc-guide-stationid="" tvg-country="HK" tvg-language="English" group-title="Hong Kong TV" status="online",HongKong 1 HKSTV-HK | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+
+// JP: JAPAN TV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1WyopjZ.png" tvg-id="NHK.jp" tvg-name="NHK Japan" channel-id="NHK.jp" channel-number="" tvc-guide-stationid="" tvg-country="HK" tvg-language="English" group-title="Japan TV" status="online",NHK Japan  | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1WyopjZ.png" tvg-id="NHK.jp" tvg-name="NHK Japan" channel-id="NHK.jp" channel-number="" tvc-guide-stationid="" tvg-country="HK" tvg-language="English" group-title="Japan TV" status="online",NHK Japan  | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+
+
+// IN: INDIA TV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/h166D9n.png" tvg-id="CBNC18.in" tvg-name="CNBCTV18 News" channel-id="CBNC18.in" channel-number="" tvc-guide-stationid="" tvg-country="IN" tvg-language="English" group-title=" TV" status="online",CNBC TV18 India | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8sQECjj.png" tvg-id="CBNC18.in" tvg-name="CNBCTV18 News" channel-id="CBNC18.in" channel-number="" tvc-guide-stationid="" tvg-country="IN" tvg-language="English" group-title=" TV" status="online",CNBC India | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BtOoBgG.png" tvg-id=".in" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IN" tvg-language="English" group-title=" TV" status="online", India | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/859
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0g08hHk.png" tvg-id="abp.in" tvg-name="ABP News" channel-id="abp.in" channel-number="" tvc-guide-stationid="" tvg-country="IN" tvg-language="English" group-title=" TV" status="online",ABP NEWS India | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BGsYzRP.png" tvg-id="abp.in" tvg-name="ABP News" channel-id="abp.in" channel-number="" tvc-guide-stationid="" tvg-country="IN" tvg-language="English" group-title=" TV" status="online",ABP NEWS India | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
+
+
+
+
+// :: ID: INDONESIA TV ::
+
+#EXTINF:-1 tvg-logo="https://imgur.com/H6C6USs.png" tvg-id="CNBCIndonesia.id" tvg-name="CNBCIndonesia" channel-id="CNBCIndonesia.ID" channel-number="" tvc-guide-stationid="" tvg-country="ID" tvg-language="English" group-title=" TV" status="online",CNBC Indonesia | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bMjQ1xJ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="ID" tvg-language="English" group-title=" TV" status="online",Berita Satu Indonesia | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?aux=eroz_brebes.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/pxpov7G.png" tvg-id="JakartaGlobe.id" tvg-name="Jakarta Globe" channel-id="JakartaGlobe.id" channel-number="" tvc-guide-stationid="" tvg-country="ID" tvg-language="English" group-title=" TV" status="online",Jakarta Globe News | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b356000.m3u8
 
 
 // :: PE: PERU Local TV ::
@@ -1711,7 +1877,24 @@ https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w733680605.m3u8
 
-// :: AR: DATA
+
+
+
+
+
+// AS: SINGAPURE
+
+#EXTINF:-1 tvg-logo="https://imgur.com/U0bI3gF.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="SG" tvg-language="Spanish" group-title="CR TV" status="online", | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/U0bI3gF.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="SG" tvg-language="Spanish" group-title="CR TV" status="online", | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://mediacorp-videosbclive.akamaized.net/310fff74530047d29076136efeabe72c/ap-southeast-1/6057994443001/profile_3/chunklist.m3u8
+
+
+
+
 
 
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
