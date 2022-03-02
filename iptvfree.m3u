@@ -44,10 +44,17 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3
 #EXTVLCOPT:network-caching=1000
 https://circle-samsung.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/JYTS8Pr.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",BingeFolk TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WG2sENG.png" tvg-id="Crime360.us" tvg-name="Crime 360" channel-id="Crime360.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Crime 360 TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/iJcU7Tl.png" tvg-id="nrbtv.us" tvg-name="nrbtv.us" channel-id="nrbtv.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",NRBTV | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/aD0DaIZ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",USA Premiere | HD 720p
@@ -152,6 +159,27 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 // US: NEWSMAX 
 #EXTINF:-1 tvg-logo="https://imgur.com/OuorICM.png" tvg-id="Newsmax.us" tvg-name="Newsmax TV" channel-id="Newsmax.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Newsmax | HD 720p
 #EXTVLCOPT:network-caching=1000 
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OuorICM.png" tvg-id="Newsmax.us" tvg-name="Newsmax TV" channel-id="Newsmax.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Newsmax | HD 480p
+#EXTVLCOPT:network-caching=1000 
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OuorICM.png" tvg-id="Newsmax.us" tvg-name="Newsmax TV" channel-id="Newsmax.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Newsmax | HD 480p
+#EXTVLCOPT:network-caching=1000 
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
+
+
+// US: NEWSY
+
+#EXTINF:-1 tvg-logo="https://imgur.com/uZpbQc0.png" tvg-id="Newsy.us" tvg-name="Newsy TV" channel-id="Newsy.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Newsy | HD 480p
+#EXTVLCOPT:network-caching=1000 
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hb44Nsx.png" tvg-id="Newsy.us" tvg-name="Newsy TV" channel-id="Newsy.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Newsy | HD 480p
+#EXTVLCOPT:network-caching=1000 
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+
 
 
 
@@ -668,6 +696,15 @@ https://worcester.vod.castus.tv/live/ch1.m3u8
 
 
 // +Music TV Channels :::
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZCtjC3r.png" tvg-id="" channel-id="" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="CZ" tvg-language="English" group-title="MUSIC TV" status="online",KPOP | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HhWm0go.png" tvg-id="" channel-id="" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="ID" tvg-language="English" group-title="MUSIC TV" status="online",Sun Music | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/DvQm71h.png" tvg-id="retro.UK" channel-id="Retro.uk" tvg-name="RETRO TV"  channel-number="" tvc-guide-stationid="" tvg-country="CZ" tvg-language="English" group-title="MUSIC TV" status="online",Retro TV UK | HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -1710,6 +1747,7 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/1WyopjZ.png" tvg-id="NHK.jp" tvg-name="NHK Japan" channel-id="NHK.jp" channel-number="" tvc-guide-stationid="" tvg-country="HK" tvg-language="English" group-title="Japan TV" status="online",NHK Japan  | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -1907,9 +1945,6 @@ http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playli
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
-
-
-
 
 
 
