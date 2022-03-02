@@ -4,6 +4,7 @@
 
 
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-id="TNT.us" tvg-name="TNT US" channel-id="TNT.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -101,6 +102,15 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OazcMqb.png" tvg-id="RedBullTv.us" channel-id="RedBullTv.us" tvg-name="Red Bull TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Red Bull TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/cJedHRh.png" tvg-id="TuTv.us" channel-id="TuTv.us" tvg-name="TuTV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TuTV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OazcMqb.png" tvg-id="RedBullTv.us" channel-id="RedBullTv.us" tvg-name="Red Bull TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Red Bull TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vlCpOqv.png" tvg-id="OutdoorChannel.us" channel-id="OutdoorChannel.us" tvg-name="Outdoor Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Outdoor Channel TV | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -322,9 +332,18 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
+// EU: Euronews TV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ArkNZFl.png" tvg-id="EURONEWS.fr" tvg-name="EURONEWS.fr" channel-id="EURONEWS.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",EURONEWS. | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0ZOtHyh.png" tvg-id="EURONEWS.fr" tvg-name="EURONEWS.fr" channel-id="EURONEWS.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",EURONEWS. Espanol | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 
-// ++++ US: CNN Channels ++++
+// US: CNN Channels ++++
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zZDta7z.png" tvg-id="CNNUSA.us" tvg-name="CNN USA " channel-id="CNNUSA.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CNN USA" status="online",CNN USA I | HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -345,6 +364,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 #EXTINF:-1 tvg-id="Cnn.com" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="CNN TV",CNN Internacional | HD
 #EXTVLCOPT:network-caching=1000
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fNN3FzB.png" tvg-id="" tvg-name="" channel-id="CNN.id" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CNN USA" status="online",CNN Indonesia | HD 360p
+#EXTVLCOPT:network-caching=1000 
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
 
 // ++++ RT: RT Channels ++++
@@ -422,10 +445,6 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/48
 #EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France Espanol" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Espanol| HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-logo=".https://imgur.com/Pqpvnma.png" tvg-id="EURONEWS.fr" tvg-name="EURONEWS.fr" channel-id="EURONEWS.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",EURONEWS. | HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ZKyI201.png" tvg-id="France.fr" tvg-name="France" channel-id="France.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",France24 Espanol| HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -1747,6 +1766,10 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/OOOsAf9.png" tvg-id="NHK.jp" tvg-name="NHK Japan" channel-id="NHK.jp" channel-number="" tvc-guide-stationid="" tvg-country="JP" tvg-language="English" group-title="Japan TV" status="online",NHK Japan  | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/1WyopjZ.png" tvg-id="NHK.jp" tvg-name="NHK Japan" channel-id="NHK.jp" channel-number="" tvc-guide-stationid="" tvg-country="HK" tvg-language="English" group-title="Japan TV" status="online",NHK Japan  | HD 1080p
 #EXTVLCOPT:network-caching=1000 
@@ -1945,8 +1968,6 @@ http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playli
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
-
-
 
 
 
