@@ -1,8 +1,5 @@
-
-
 #EXTM3U url-tvg=https://bit.ly/3itZsSm
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml
-
 #EXTINF:-1 tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-id="TNT.us" tvg-name="TNT US" channel-id="TNT.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -59,10 +56,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/tjS60Hd.png" tvg-id="IONPlus.us" tvg-name="ION Plus" channel-id="IONPlus.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",ION Plus | HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/GSC8dCo.png" tvg-id="BlackNewsChannel.us" tvg-name="Black News Channel" channel-id="BlackNewsChannel.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Black News Channel | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
@@ -91,6 +84,7 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/cJedHRh.png" tvg-id="TuTv.us" channel-id="TuTv.us" tvg-name="TuTV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TuTV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8
@@ -118,6 +112,7 @@ https://hsn.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wjHLMjN.png" tvg-id="HSN.us" channel-id="HSN.us" tvg-name="HSN Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HSN TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wjHLMjN.png" tvg-id="HSN2.us" channel-id="HSN2.us" tvg-name="HSN2 Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HSN 2 TV | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -166,6 +161,17 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hGdrX8D.png" tvg-id="AniPLUS" tvg-name="AniPLUS TV" channel-id="AniPLUS" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",AniPLUS | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
+
+
+// US: ION PLus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tjS60Hd.png" tvg-id="IONPlus.us" tvg-name="ION Plus" channel-id="IONPlus.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",ION Plus | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6pFvdXP.png" tvg-id="IONPlus.us" tvg-name="ION Plus" channel-id="IONPlus.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",ION Plus | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 
 
 
@@ -1604,22 +1610,6 @@ http://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w47791226
 
 
 
-
-// HO: HONDURAS
-
-#EXTINF:-1 tvg-logo="https://imgur.com/L7NM3wC.png" tvg-id="TENTV.ar" tvg-name="MusicTop" channel-id="MusicTop.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Honduras Local TV" status="online",TEN TV Honduras | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/L7NM3wC.png" tvg-id="TENTV.ar" tvg-name="MusicTop" channel-id="MusicTop.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Honduras Local TV" status="online",TEN TV Honduras | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/L7NM3wC.png" tvg-id="TENTV.ar" tvg-name="MusicTop" channel-id="MusicTop.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Honduras Local TV" status="online",TEN TV Honduras | HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://604bda2ac71ad.streamlock.net/TENHD/TENLive.smil/chunklist_w1571806234_b1248000.m3u8
-
-
 // ES: SPAIN 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/va0HqTj.png" tvg-id="7TVMurcia.es" channel-id="7TVMurcia.es" tvg-name="7TV Murcia"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",7TV Murcia | HD 720p
@@ -1662,7 +1652,6 @@ rtmp://62.210.141.18:1935/directo/lancelot.television
 #EXTVLCOPT:network-caching=1000
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/wWQAmjU.png" tvg-id="Telesafor.es" channel-id="Telesafor.es" tvg-name="Galicia Europe"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Telesafor TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://video.telesafor.com/hls/video_low.m3u8
@@ -1682,6 +1671,31 @@ http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ApvvBYt.png" tvg-id="WOWTV.sa" tvg-name="Wow TV" channel-id="WOWTV.sa" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="El Salvador Local",WOW TV El Salvador | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+
+
+
+// HO: HONDURAS
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L7NM3wC.png" tvg-id="TENTV.ar" tvg-name="MusicTop" channel-id="MusicTop.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Honduras Local TV" status="online",TEN TV Honduras | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L7NM3wC.png" tvg-id="TENTV.ar" tvg-name="MusicTop" channel-id="MusicTop.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Honduras Local TV" status="online",TEN TV Honduras | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L7NM3wC.png" tvg-id="TENTV.ar" tvg-name="MusicTop" channel-id="MusicTop.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Honduras Local TV" status="online",TEN TV Honduras | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://604bda2ac71ad.streamlock.net/TENHD/TENLive.smil/chunklist_w1571806234_b1248000.m3u8
+
+
+
+// IT: ITALY
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OJBoepI.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Spanish" group-title="ITALY TV" status="online",SofyTV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://sofytv-samsungit.amagi.tv/playlist.m3u8
 
 
 
@@ -2224,6 +2238,7 @@ http://soberon.us:25461/boris/boris/177
 http://soberon.us:25461/boris/boris/178
 #EXTINF:0,Latino | Win Sports
 http://soberon.us:25461/boris/boris/179
+
 
 
 
