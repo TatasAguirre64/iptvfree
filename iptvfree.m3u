@@ -87,30 +87,35 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 #EXTVLCOPT:network-caching=1000
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/CgxD6i6.png" tvg-id="RetroTV.us" tvg-name="RetroTV" channel-id="RetroTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",RetroTV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/bFrJb6D.png" tvg-id="VH1.us" tvg-name="VH1" channel-id="VH1.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",VH1 | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OazcMqb.png" tvg-id="RedBullTv.us" channel-id="RedBullTv.us" tvg-name="Red Bull TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Red Bull TV | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/cJedHRh.png" tvg-id="TuTv.us" channel-id="TuTv.us" tvg-name="TuTV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TuTV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OazcMqb.png" tvg-id="RedBullTv.us" channel-id="RedBullTv.us" tvg-name="Red Bull TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Red Bull TV | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vlCpOqv.png" tvg-id="OutdoorChannel.us" channel-id="OutdoorChannel.us" tvg-name="Outdoor Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Outdoor Channel TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/bnik82m.png" tvg-id="" channel-id="" tvg-name="Space Channel TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",Space Channel TV | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/bnik82m.png" tvg-id="" channel-id="" tvg-name="Space Channel TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",SpaceChannel TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kzwMISb.png" tvg-id="HDFashion.us" channel-id="HDFashion.us" tvg-name="HD Fashion and LifeStyle"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HD Fashion and LifeStyle|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1200px-HLN_%28TV_network%29_2017_logo.svg.png" tvg-country="US" tvg-language="English" group-title="USA Cable",HLN | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -140,6 +145,26 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 tvg-logo=".png" tvg-id=".us"  tvg-country="US" tvg-language="English" group-title="USA Cable",BeachTV I | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+
+
+// US: REDBULLTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OazcMqb.png" tvg-id="RedBullTv.us" channel-id="RedBullTv.us" tvg-name="Red Bull TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",RedBullTV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OazcMqb.png" tvg-id="RedBullTv.us" channel-id="RedBullTv.us" tvg-name="Red Bull TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",RedBullTV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OazcMqb.png" tvg-id="RedBullTv.us" channel-id="RedBullTv.us" tvg-name="Red Bull TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",RedBullTV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+
+
+
+// US: NASA
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bYD6zgO.png" tvg-id="NASATVMedia.us" tvg-name="NASA TV" channel-id="NASATVMedia.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="NASA TV" status="online",NASA TV Media | HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -618,14 +643,15 @@ https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OuorICM.png" tvg-id="Newsmax.us" tvg-name="Newsmax TV" channel-id="Newsmax.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Newsmax | HD 480p
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OuorICM.png" tvg-id="Newsmax.us" tvg-name="Newsmax TV" channel-id="Newsmax.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Newsmax|HD 480p
 #EXTVLCOPT:network-caching=1000 
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OuorICM.png" tvg-id="Newsmax.us" tvg-name="Newsmax TV" channel-id="Newsmax.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Newsmax | HD 480p
+#EXTINF:-1 tvg-logo="https://imgur.com/OuorICM.png" tvg-id="Newsmax.us" tvg-name="Newsmax TV" channel-id="Newsmax.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Newsmax|HD 480p
 #EXTVLCOPT:network-caching=1000 
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
-
 
 // US: NEWSY
 
@@ -819,6 +845,10 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,C
 #EXTINF:-1 tvg-id="WHYY-DT3.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",12.3 PBS Kids Philadelphia (WHYY) | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://v-pi.theus6tv.tk/hls/12.3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="GetTv.us" tvg-name="GET TV" channel-id="GetTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="AOV Local" status="online",13.3 GET|New Jersey | HD 480p
+#EXTVLCOPT:network-caching=1000 
+https://v-px.theus6tv.tk/hls/13.3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WAPT-TV.us" tvg-logo="https://kubrick.htvapps.com/mediaos.s3.amazonaws.com/htv_default_image/wapt/top_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",16.1 NEWS Jackson MS (WAPT-TV) | HD
 #EXTVLCOPT:network-caching=1000
@@ -1649,6 +1679,18 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+
+// CU: CUBA
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K5LKlyp.png" tvg-id="marti.cu" channel-id="marti.cu" tvg-name="Marti TV"  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="CUBA TV",MARTI Cuba|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AlDbSAA.png" tvg-id="marti.cu" channel-id="marti.cu" tvg-name="Marti TV"  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="CUBA TV",MARTI Cuba|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://ocb-ingest.akamaized.net/dash/live/2036986/tvmc01/manifest.mpd
+
+
 // CL: CHILE
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ZH3PDFW.png" tvg-id=".cl" tvg-name="Zapping Music TV" channel-id="ZappingMusic.cl" channel-number="" tvc-guide-stationid="" tvg-country="CL" tvg-language="Spanish" group-title="Chile Local TV" status="online",Zapping Music TV Chile | HD 1080p
@@ -1708,6 +1750,36 @@ http://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w47791226
 
 // ES: SPAIN 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/5bs6AD4.png" tvg-id="Emporda.es" channel-id="Emporda.es" tvg-name="Emporda TV"  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",Emporda|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://ventdelnord.tv:8080/escala/directe.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ncyGL2.png" tvg-id="GaliciaAmerica.es" tvg-name="Galicia America" channel-id="GaliciaAmerica.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Galicia America|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/pNx2Dot.png" tvg-id="GaliciaInfantil.es" tvg-name="Galicia Infantil" channel-id="GaliciaInfantil.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Galicia Infantil|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ncyGL2.png" tvg-id="GaliciaAmerica.es" tvg-name="Galicia America" channel-id="GaliciaAmerica.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",7 Galicia|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HxcfiiG.png" tvg-id="GaliciaEurope.es" channel-id="GaliciaEurope.es" tvg-name="Galicia Europe"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",Galicia Europe|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DQCD69S.png" tvg-id="ETB1.es" channel-id="ETB1.es" tvg-name="ETB1" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",ETB1|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NFGWlQF.png" tvg-id="ETB2.es" channel-id="ETB2.es" tvg-name="ETB2" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",ETB2|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/va0HqTj.png" tvg-id="7TVMurcia.es" channel-id="7TVMurcia.es" tvg-name="7TV Murcia"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",7TV Murcia | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
@@ -1724,21 +1796,7 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTVLCOPT:network-caching=1000
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/2ncyGL2.png" tvg-id="GaliciaAmerica.es" tvg-name="Galicia America" channel-id="GaliciaAmerica.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Galicia America TV | HD 720p
-#EXTVLCOPT:network-caching=1000
-http://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/pNx2Dot.png" tvg-id="GaliciaInfantil.es" tvg-name="Galicia Infantil" channel-id="GaliciaInfantil.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Galicia Infantil TV | HD 720p
-#EXTVLCOPT:network-caching=1000
-http://infantil-crtvg.flumotion.com/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/2ncyGL2.png" tvg-id="GaliciaAmerica.es" tvg-name="Galicia America" channel-id="GaliciaAmerica.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",7 Galicia | HD 720p
-#EXTVLCOPT:network-caching=1000
-http://america-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/HxcfiiG.png" tvg-id="GaliciaEurope.es" channel-id="GaliciaEurope.es" tvg-name="Galicia Europe"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Galicia Europe | HD 720p
-#EXTVLCOPT:network-caching=1000
-http://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wj3V1a6.png" tvg-id="Lancelot TV" tvg-name="Lancelot TV" channel-id="Lancelot TV" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Canal Lancelot TV | HD 720p
 #EXTVLCOPT:network-caching=1000
