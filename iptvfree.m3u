@@ -1,6 +1,7 @@
 #EXTM3U url-tvg=https://bit.ly/3itZsSm
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-id="TNT.us" tvg-name="TNT US" channel-id="TNT.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -80,6 +81,11 @@ https://live.chdrstatic.com/cheddar/primary/1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LcwSTPW.png" tvg-id="CMCUSA.us" tvg-name="CMC USA" channel-id="CMCUSA.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",CMC USA | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/7zWpi7s.png" tvg-id="Comet.us" tvg-name="Comet" channel-id="Comet.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Comet|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bFrJb6D.png" tvg-id="VH1.us" tvg-name="VH1" channel-id="VH1.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",VH1 | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -365,12 +371,30 @@ https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source
 #EXTVLCOPT:network-caching=1000 
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/P2v84P9.png" tvg-id="CBN.us" tvg-name="CBN " channel-id="CBN.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS Local" status="online",CBN|Espanol HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/SJYjqWl.png" tvg-id="CBN.us" tvg-name="CBN Family" channel-id="CBN.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS Local" status="online",CBN|Family HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8NOT4VR.png" tvg-id="CBN.us" tvg-name="CBN NEWS" channel-id="CBN.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS Local" status="online",CBN NEWS | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
 
 // US: CBS
+
+
+
+// US: CBSN
 
 #EXTINF:-1 tvg-logo="https://imgur.com/LRzjvbW.png" tvg-id="CBS.us" tvg-name="CBS NEWS" channel-id="CBS.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS Local" status="online",CBS NEWS | HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/LRzjvbW.png" tvg-id="CBS.us" tvg-name="CBS NEWS" channel-id="CBS.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS Local" status="online",CBS NEWS | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://www.cbsnews.com/common/video/dai_prod.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5if7bPk.png" tvg-id="CBS.us" tvg-name="CBS NEWS" channel-id="CBS.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS Local" status="online",CBS NEWS | HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -1021,13 +1045,13 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5940924978228.streamlock.net/Directo3/Directo3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/nrt-mexico-live-vipotv.png" group-title="Local MX",4 Canal 4.1 Monclova | HD
+#EXTINF:-1 tvg-logo="https://imgur.com/U3HXhYA.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local",4.1 NRT|Monclova | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/nrt-mexico-live-vipotv.png" group-title="Local MX",Canal 4 Saltillo | HD
 #EXTVLCOPT:network-caching=1000
-https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 4 Guanajuato | HD
 #EXTVLCOPT:network-caching=1000
@@ -2313,6 +2337,7 @@ http://soberon.us:25461/boris/boris/177
 http://soberon.us:25461/boris/boris/178
 #EXTINF:0,Latino | Win Sports
 http://soberon.us:25461/boris/boris/179
+
 
 
 
