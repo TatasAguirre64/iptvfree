@@ -1,6 +1,7 @@
 #EXTM3U url-tvg=https://bit.ly/3itZsSm
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-id="TNT.us" tvg-name="TNT US" channel-id="TNT.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -573,6 +574,8 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 #EXTINF:-1 tvg-logo="https://imgur.com/0ZOtHyh.png" tvg-id="EURONEWS.fr" tvg-name="EURONEWS.fr" channel-id="EURONEWS.fr" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",EURONEWS. Espanol | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+
 
 
 // FR: FRANCE24
@@ -1847,9 +1850,40 @@ http://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w47791226
 #EXTVLCOPT:network-caching=1000
 http://ventdelnord.tv:8080/escala/directe.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/lw3iEBf.png" tvg-id="la2.es" channel-id="la2.es" tvg-name="La 2 RTVE"  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",La 2|HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/lw3iEBf.png" tvg-id="la2.es" channel-id="la2.es" tvg-name="La2 RTVE"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",La2|HD 720p
 #EXTVLCOPT:network-caching=1000
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wWZTJgX.png" tvg-id="la2.es" channel-id="la2.es" tvg-name="La2 RTVE"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",La2|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2TE7Qg5.png" tvg-id="la2.es" channel-id="la2.es" tvg-name="La2 RTVE"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",La2|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Uilmwkf.png" tvg-id="rtves24h.es" channel-id="rtves24h.es" tvg-name="Rtves24h"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",Rrtves24h|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/cAxcLeA.png" tvg-id="rtves24h.es" channel-id="rtves24h.es" tvg-name="Rtves24h"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",RTVE24h|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2m0j3Be.png" tvg-id="MTMAD.es" channel-id="MTMAD.es" tvg-name="MTMAD TV"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",MTMAD24h|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/7gOs0hb.png" tvg-id="ELTOROTV.es" channel-id="ELTOROTV.es" tvg-name="EL TORO TV"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",EL TOROTV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://live1-eltorotv.flumotion.com/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2ncyGL2.png" tvg-id="GaliciaAmerica.es" tvg-name="Galicia America" channel-id="GaliciaAmerica.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Galicia America|HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -1906,6 +1940,10 @@ http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wWQAmjU.png" tvg-id="Telesafor.es" channel-id="Telesafor.es" tvg-name="Galicia Europe"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Telesafor TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://video.telesafor.com/hls/video_low.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/O52ySXn.png" tvg-id="SecretStory24h.es" channel-id="SecretStory24h.es" tvg-name="Secret Story 24h"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",SecretStory24h|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://premium0506-i.akamaihd.net/hls/live/827156/premium05/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/93AZXvT.png" tvg-id="" channel-id="" tvg-name="Lebrija TV"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Lebrija TV | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -2247,51 +2285,6 @@ http://soberon.us:25461/boris/boris/38
 #EXTVLCOPT:network-caching=1000 
 http://soberon.us:25461/boris/boris/41
 
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/tAlpDDp.png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",HOT|HBO  | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7168.ts
-
-#EXTINF:-1 tvg-logo="https://imgur.com/vKuZOE7.png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",HOT|ZONE | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2955.ts
-
-#EXTINF:-1 tvg-logo="https://imgur.com/EwymOip.png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",HOT|REAL | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/10132.ts
-
-#EXTINF:-1 tvg-logo="https://imgur.com/AhB0XOf.png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",HOT|3 | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2954.ts
-
-#EXTINF:-1 tvg-logo="https://imgur.com/hFzYeHZ.png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",HOT|ACTION | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2961.ts
-
-#EXTINF:-1 tvg-logo="https://imgur.com/EwymOip.png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",HOT|8 | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/3991.ts
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Eti54hk.png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",HOT|ComedyCentral | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/2953.ts
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FhuT4I9.png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",RTK|1 | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://filma.albkanale-robot.ga:25461/kanale2/Ass/48
-
-#EXTINF:-1 tvg-logo=".png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Cartoons|1 | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://181.176.148.142:8000/play/a009
-
-#EXTINF:-1 tvg-logo=".png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",A&E|SPA | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://soberon.us:25461/boris/boris/38
-#EXTINF:-1 tvg-logo=".png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",A3S|SPA | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://soberon.us:25461/boris/boris/41
-
 #EXTINF:0,Latino | A&E
 http://soberon.us:25461/boris/boris/38
 #EXTINF:0,Latino | A3S
@@ -2542,6 +2535,30 @@ http://soberon.us:25461/boris/boris/177
 http://soberon.us:25461/boris/boris/178
 #EXTINF:0,Latino | Win Sports
 http://soberon.us:25461/boris/boris/179
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2915,70 +2932,6 @@ https://ia802800.us.archive.org/25/items/OSB-21_Front_Runner/OSB-21_Front_Runner
 
 #EXTINF:-1, tvg-logo="" group-title="One Step Beyond S01",Episode 22 - The Riddle
 https://ia802800.us.archive.org/33/items/OneStepBeyondTheRiddle/OneStepBeyondTheRiddle_512kb.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
