@@ -1,6 +1,12 @@
 #EXTM3U url-tvg=https://bit.ly/3itZsSm
-#EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml
+#EXTM3U url-tvg=https://bit.ly/3itZsSm
+#EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml url-tvg=https://i.mjh.nz/PlutoTV/all.xml.gz
 
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wbkCZXk.png" tvg-id="AMC.us" channel-id="AMC.us" tvg-name="AMC Presents"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMC East | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-id="TNT.us" tvg-name="TNT US" channel-id="TNT.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -26,6 +32,11 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Wk6jDhR.png" tvg-id="TelemundoChicago.us" channel-id="TelemundoChicago.us" tvg-name="44.1 Telemundo Chicago"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",44.1 Telemundo (WSNS)| Chicago HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/zFQE67B.png" tvg-id="trutv.us" tvg-name="TRUTV US" channel-id="trutv.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TruTV East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
@@ -38,7 +49,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3
 #EXTVLCOPT:network-caching=1000
 https://circle-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Nz09V5L.png" tvg-id="PositivTV.us" tvg-name="PositivTV" channel-id="PositivTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",PositivTV|HD 1080p
+#EXTINF:-1 tvg-logo="https://imgur.com/Nz09V5L.png" tvg-id="PositivTV.us" tvg-name="PositivTV" channel-id="PositivTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",PositivTV |HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 
@@ -399,9 +410,14 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 // AF: AFRICA
 
-#EXTINF:-1 tvg-logo="https://imgur.com/xlgm0JH.png" tvg-id="" tvg-name="AFRICANEWS.AF" channel-id="DW" channel-number="AFRICANEWS.AF" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="DW TV" status="online",Africa News | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/xlgm0JH.png" tvg-id="Africanews.af" tvg-name="Africanews.af" channel-id="Africanews.af" channel-number="" tvc-guide-stationid="" tvg-country="AF" tvg-language="English" group-title="Africa TV" status="online",Africa News | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/eAAwTua.png" tvg-id="DemandAfricaMexico.us" tvg-name="DemandAfrica Mexico" channel-id="DemandAfricaMexico.us" channel-number="" tvc-guide-stationid="" tvg-country="AF" tvg-language="English" group-title="Africa TV" status="online",Demand Africa Mexico | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
+
 
 
 // UK: BCC
@@ -1681,6 +1697,13 @@ http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m
 
 // AR: ARGENTINA
 
+
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="AmericaTV.ar" tvg-name="AmericaTV" channel-id="AmericaTV.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV" status="online",MusicTop Argentina | HD 720p
+#EXTVLCOPT:network-caching=1000 
+
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="TCanal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV",Canal 26 Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
@@ -2261,7 +2284,6 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=".png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online", | HD 720p
 #EXTVLCOPT:network-caching=1000
- 
 
 // HOT: VIP Channels +
 
