@@ -1222,9 +1222,7 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/M0JqHa9.png" group-title="Spain",7 Televisión Región de Murcia | HD 
 https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
-#EXTINF:-1 tvg-id="aragontv.com" tvg-country="SP" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/190px-Identidad_Peruana_ipe_2020.png" group-title="Peru TV",Canal 7.4 IPE | HD 
-#EXTVLCOPT:network-caching=1000
-https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/XHBZC_Logo_2015.png/200px-XHBZC_Logo_2015.png" group-title="Local MX",Canal 8 Baja California Sur XHBZC-TDT | HD
 #EXTVLCOPT:network-caching=1000
@@ -1234,9 +1232,7 @@ https://60ed5b6d0df78.streamlock.net:1936/tv1/tv1/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 8 Costa Rica | HD
-#EXTVLCOPT:network-caching=1000
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 8 | HD
 #EXTVLCOPT:network-caching=1000
@@ -1262,7 +1258,7 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 9 Costa Rica Saltillo | HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 9 Costa Rica | HD
 #EXTVLCOPT:network-caching=1000
 http://201.201.149.86:8080/livestream/stream.m3u8
 
@@ -1278,21 +1274,6 @@ http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 10 | HD
-#EXTVLCOPT:network-caching=1000
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 10 Emporda | HD
-#EXTVLCOPT:network-caching=1000
-http://ventdelnord.tv:8080/escala/directe.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 10 Rio Negro | HD
-#EXTVLCOPT:network-caching=1000
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Noticias.Canal10.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/y4akKrD.png" group-title="Local MX",Canal 10.1 Chiapas | HD
-#EXTVLCOPT:network-caching=1000
-https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvmar.tv" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvmar.s3.us-west-2.amazonaws.com/2021/12/tvmar_banner.png" group-title="Local MX",Canal 10.1 TVMar Jalisco | HD
 #EXTVLCOPT:network-caching=1000
@@ -1318,9 +1299,15 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live-ak.vimeocdn.com/exp=1642732423~acl=%2Fe276c940-23ca-4efa-a9da-289b1fa93be8%2F%2A~hmac=af5adf6cc34fcab1832451e75e5f49cb20669585f2d0155d9744d27a52641e67/e276c940-23ca-4efa-a9da-289b1fa93be8/chunklist_b2056000.m3u8?max_segments=10
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Czr3RO3.png" tvg-id="Canal10.mx" tvg-name="Canal 10 Chiapas" channel-id="Canal10.mx" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local",10.1 Chiapas | HD 720p
-#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="https://imgur.com/iEybOta.png" tvg-id="Canal10.mx" channel-id="Canal10.mx" tvg-name="Canal 10 Chiapas"  channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="Mexico TV" status="online",10.1 Canal Chiapas|HD 480p
+#EXTVLCOPT:network-caching=1000 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/y4akKrD.png" group-title="Local MX",Canal 10.1 Chiapas | HD
+#EXTVLCOPT:network-caching=1000
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4nbGtvd.png" tvg-id="Tlaxcala.mx" tvg-name="Tlaxcala MX" channel-id="Tlaxcala.mx" channel-number="10.1" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="MX Local",101.1 Tlaxcala TV | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -1448,6 +1435,8 @@ https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 #EXTVLCOPT:network-caching=1000
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/0Ky3MYL.png" tvg-id="Rtv.mx" tvg-name="TV Mas" channel-id="Rtv.mx" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local",26.1 TVMAS Veracruz | HD  480p
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net:443/rtv/videortv/playlist.m3u8
@@ -1455,6 +1444,7 @@ https://5ca9af4645e15.streamlock.net:443/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0Ky3MYL.png" tvg-id="Rtv.mx" tvg-name="TV Mas" channel-id="Rtv.mx" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local",26.1 TVMAS Veracruz | HD  720p
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+
 
 #EXTINF:-1 tvg-id="SetPuebla.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/osgOMAu.png" group-title="Local MX",26.1 TVMAS Veracruz Mexico | HD  720p
 #EXTVLCOPT:network-caching=1000 
@@ -1476,7 +1466,10 @@ http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal28.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lr4MZFg.png" group-title="Local MX",Canal 28.1 Chihuahua | HD
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NgwnVn8.png" tvg-id="Canal28.mx" channel-id="Canal28.mx" tvg-name="Canal 28 Chihuahua" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="Mexico TV" status="online",28.1 (XHABC) Canal Chihuahua|HD 480p
 #EXTVLCOPT:network-caching=1000 
 https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8
 
@@ -1507,17 +1500,41 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w10450
 #EXTVLCOPT:network-caching=1000 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Local MX",Canal 34.2 AMX Noticias East | HD 
-#EXTVLCOPT:network-caching=1000
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EGuApLS.png" tvg-id="AMXNoticias.mx" channel-id="AMXNoticias.mx" tvg-name="34.2 AMXNoticias"  channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="Mexico TV" status="online",Canal 34.2 AMXNoticias|HD 720p
+#EXTVLCOPT:network-caching=1000 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://www.m3u.cl/logo/1042_AMX_Noticias.png",Canal 34.2 AMX Noticias | HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://imgur.com/YnO84hf.png" tvg-id="AMXNoticias.mx" channel-id="AMXNoticias.mx" tvg-name="34.2 AMXNoticias"  channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="Mexico TV" status="online",Canal 34.2 AMXNoticias|HD 720p
+#EXTVLCOPT:network-caching=1000 
 https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vq8JCzl.png" tvg-id="ADN40.mx" tvg-name="ADN40" channel-id="ADN40.mx" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="Mexico TV" status="online",Canal 40.1 ADN40|HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/d5Afn9Q.png" tvg-id="ADN40.mx" tvg-name="ADN40" channel-id="ADN40.mx" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="Mexico TV" status="online",Canal 40.1 ADN40|HD 1080p
+#EXTVLCOPT:network-caching=1000 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/live
+
+#EXTINF:-1 tvg-logo="https://imgur.com/J5syY55.png" tvg-id="AztecaUno.ho" tvg-name="Azteca Uno Honduras" channel-id="AztecaUno.ho" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="Mexico TV" status="online",Azteca Uno (XHJK-TDT)|HD Honduras 720p
+#EXTVLCOPT:network-caching=1000 
+http://190.122.96.187:8888/http/002
 
 #EXTINF:-1 tvg-id="mariavision.mx" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Maria-vision.jpg",Canal 34.5 Maria Visison | HD
 #EXTVLCOPT:network-caching=1000
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="CostaRica TV",Canal 36 AnexionTV | HD
 #EXTVLCOPT:network-caching=1000 
@@ -1527,13 +1544,9 @@ http://rtmp.info:8081/anexiontv/envivo/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://rtmp.info/canal38/envivo/chunks.m3u8
 
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="Local MX",Canal 40.1 ADN40 | HD
-#EXTVLCOPT:network-caching=1000 
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="",Canal 40.1 ADN40 | HD
-#EXTVLCOPT:network-caching=1000 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/live
+
+
 
 #EXTINF:-1 tvg-id="TVLobo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XZ8GmZW.png" group-title="Local MX",Canal 46 TV Lobo DURANGO HD
 #EXTVLCOPT:network-caching=1000 
@@ -1592,6 +1605,11 @@ http://190.122.96.187:8888/http/002
 #EXTINF:-1 tvg-logo="https://imgur.com/0Gq7Qdr.png" tvg-id="TelevisaCiudadJuarez.mx" tvg-name="Televisa CiudadJuarez" channel-id="TelevisaCiudadJuarez.mx" channel-number="8.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",8.1 Televisa Ciudad Juarez | HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0Gq7Qdr.png" tvg-id="TelevisaCiudadJuarez.mx" tvg-name="Televisa CiudadJuarez" channel-id="TelevisaCiudadJuarez.mx" channel-number="8.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",8.1 Televisa Chihuahua | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XzWlpbx9oh4
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xgh22Xy.png" tvg-id="TelevisaJalisco.mx" tvg-name="Televisa Guadalajara" channel-id="TelevisaJalisco.mx" channel-number="4.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",4 Televisa Guadalajara (XHG) | HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -1761,6 +1779,12 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
 
 // CT: COSTA RICA
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VKBj741.png" tvg-id="canal8.cr" tvg-name="canal8.cr" channel-id="canal8.cr" channel-number="" tvc-guide-stationid="" tvg-country="CR" tvg-language="Spanish" group-title="CR TV" status="online",8.1 Canal Costa Rica|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/fuh1o75.png" tvg-id="TELESUR.CR" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="CR" tvg-language="Spanish" group-title="CR TV" status="online",TeleSur Costa Rica | HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -2240,6 +2264,8 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
  
 
 // HOT: VIP Channels +
+
+
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tAlpDDp.png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",HOT|HBO  | HD 720p
