@@ -1,8 +1,5 @@
 #EXTM3U url-tvg=https://bit.ly/3itZsSm
-#EXTM3U url-tvg=https://bit.ly/3itZsSm
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml url-tvg=https://i.mjh.nz/PlutoTV/all.xml.gz
-
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wbkCZXk.png" tvg-id="AMC.us" channel-id="AMC.us" tvg-name="AMC Presents"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMC East | HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -325,10 +322,9 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fwwzxhb.png" tvg-id="5ABC.us" tvg-name="5ABC" channel-id="5ABC.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",5 ABC|Minneapolis MN (KSTP) | HD 1720p
+#EXTINF:-1 tvg-logo="https://imgur.com/ifHMLxG.png" tvg-id="7ABC.us" tvg-name="7ABC" channel-id="7ABC.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",7 ABC|Sarasota FL(WWSB) | HD 720p
 #EXTVLCOPT:network-caching=1000 
-https://dcs-live.mp.lura.live/server/play/zA65M4DuXVnxibP0/manifest.m3u8
-
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 
 
 
@@ -464,8 +460,13 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTVLCOPT:network-caching=1000 
 http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
 
+
+
 // US: CBS
 
+#EXTINF:-1 tvg-logo="https://imgur.com/9Tq2b3C.png" tvg-id="3NewsKMTV.US" channel-id="3NewsKMTV" tvg-name="3News-CBS(KMTV)"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS TV" status="online",3News|CBS(KMTV) Omaha | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 
 
 // US: CBSN
@@ -473,6 +474,13 @@ http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LRzjvbW.png" tvg-id="CBS.us" tvg-name="CBS NEWS" channel-id="CBS.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS Local" status="online",CBS NEWS | HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/LRzjvbW.png" tvg-id="CBS.us" tvg-name="CBS NEWS" channel-id="CBS.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS TV" status="online",CBS NEWS BOSTON | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/LRzjvbW.png" tvg-id="CBS.us" tvg-name="CBS NEWS" channel-id="CBS.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS Local" status="online",CBS NEWS | HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -703,6 +711,11 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/YSDvYDs.png" tvg-id="WHDH.us" channel-id="WHDH.us" tvg-name="7News Boston (WHDH)"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",7News|NBC(WHDH)| HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+
+
 // US: NEWSMAX 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OuorICM.png" tvg-id="Newsmax.us" tvg-name="Newsmax TV" channel-id="Newsmax.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Newsmax | HD 720p
@@ -747,6 +760,17 @@ https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/in
 #EXTINF:-1 tvg-logo="https://imgur.com/hb44Nsx.png" tvg-id="Newsy.us" tvg-name="Newsy TV" channel-id="Newsy.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Newsy|HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
+
+
+// AB: SKY NEWS
+
+#EXTINF:-1 tvg-logo="https://imgur.com/N6ZQieK.png" tvg-id="SKYNEWS.ab" tvg-name="SKY News Arabic" channel-id="SKYNEWS.ab" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",SkyNews Arabic | HD 480p
+#EXTVLCOPT:network-caching=1000 
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/N6ZQieK.png" tvg-id="SKYNEWS.ab" tvg-name="SKY News Arabic" channel-id="SKYNEWS.ab" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",SkyNews Arabic | HD 480p
+#EXTVLCOPT:network-caching=1000 
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
 
 // RT: Reuters
@@ -2284,7 +2308,7 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=".png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online", | HD 720p
 #EXTVLCOPT:network-caching=1000
-
+ 
 // HOT: VIP Channels +
 
 
