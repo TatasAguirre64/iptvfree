@@ -1,9 +1,19 @@
 #EXTM3U url-tvg=https://bit.ly/3itZsSm
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml url-tvg=https://i.mjh.nz/PlutoTV/all.xml.gz
 
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/wbkCZXk.png" tvg-id="AMC.us" channel-id="AMC.us" tvg-name="AMC Presents"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMC East | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="AWE.us" channel-id="AWE.us" tvg-name="AWE"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AWE | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="AWEEncore.us" channel-id="AWEEncore.us" tvg-name="AWE Encore"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AWE Encore| HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://aweencore-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-id="TNT.us" tvg-name="TNT US" channel-id="TNT.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -49,6 +59,20 @@ https://circle-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Nz09V5L.png" tvg-id="PositivTV.us" tvg-name="PositivTV" channel-id="PositivTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",PositivTV |HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fv5VNG1.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV",The HeartLand Network | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XxtwSWy.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV",TMZ | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UhAsqxd.png" tvg-id="Today.us" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV",Today | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Today.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/JYTS8Pr.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",BingeFolk TV | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -122,7 +146,9 @@ https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/61839
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://imgur.com/SdOT7ga.png" tvg-id="BounceXL.us" tvg-name="BounceXL" channel-id="BounceXL.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",BounceXL | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/cJedHRh.png" tvg-id="TuTv.us" channel-id="TuTv.us" tvg-name="TuTV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TuTV | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -143,9 +169,23 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 
+#EXTINF:-1 tvg-logo="https://imgur.com/bjdMTbN.png" tvg-id="" channel-id="" tvg-name="Motors TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",Motors TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/kzwMISb.png" tvg-id="HDFashion.us" channel-id="HDFashion.us" tvg-name="HD Fashion and LifeStyle"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HD Fashion and LifeStyle|HD 720p
 #EXTVLCOPT:network-caching=1000
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DPc8DwF.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AM" tvg-language="" group-title="USA TV" status="online",BspokeTV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://bspoketv.s.llnwi.net/streams/322/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/z8m2TJQ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AM" tvg-language="" group-title="USA TV" status="online",Business Rockstars | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jMPBFZc.png" tvg-id=".us" channel-id=".us" tvg-name="Adventure Sports Network"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",Adventure Sports Network|HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -415,11 +455,20 @@ https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 
 
+// AZ: ARIZONNA
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xGkx2ro.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",11 Channel Tempe AZ | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/playlist.m3u8
 
 // UK: BCC
 
-#EXTINF:-1 tvg-id="bbc.com" tvg-country="Arab" tvg-language="Arabic" tvg-logo="" group-title="BBC TV",BBC Arabic | HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://imgur.com/7rK00a5.png" tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" channel-id="BBCWorldNews.uk" channel-number="" tvc-guide-stationid="" tvg-country="AF" tvg-language="English" group-title="Africa TV" status="online",BBC World News | HD 576p
+#EXTVLCOPT:network-caching=1000 
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IS0xVEe.png" tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" channel-id="BBCWorldNews.uk" channel-number="" tvc-guide-stationid="" tvg-country="AF" tvg-language="English" group-title="Africa TV" status="online",BBC World News | HD 576p
+#EXTVLCOPT:network-caching=1000 
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 
 
@@ -1124,6 +1173,11 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/SNEG00c.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="MUSIC TV" status="online",The Breeze | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
+
+
 // MX: MEXICO TV 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 1 TV | HD
@@ -1793,6 +1847,23 @@ http://ott-cdn.ucom.am/s10/index.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/KfJ1B81.png" tvg-id="" tvg-name="C31 Melbourne" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="Spanish" group-title="Australia TV",C31 Melbourne | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+
+// AB: ARABIA
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZK6dhGF.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AM" tvg-language="" group-title="Armenia TV" status="online",British Muslim TV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+
+
+
+
+
+
+
+
 // BU: BULGARIA  
 
 #EXTINF:0 tvg-name="Bulgaria On Air" tvg-language="Bulgarian" tvg-country="BG" tvg-id="Bulgaria On Air" tvg-logo="http://www.predavatel.com/bg/tv/bulgariaonair.png" group-title="News",Bulgaria On Air (News) (BG) (Bulgarian)
@@ -2295,21 +2366,6 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 
 
 // MOVIES: VIP
-
-#EXTINF:-1 tvg-logo="https://imgur.com/VGV8xhU.png" tvg-id="Mundomas.co" channel-id="MundoMas.com" tvg-name="Mundo+ Colombia"  channel-number="" tvc-guide-stationid="" tvg-country="CO" tvg-language="Spanish" group-title="CO Local" status="online",Mundo+ Colombia | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1344197682.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/hilDScr.png" tvg-id="BHTV.pe" tvg-name="BHTV Peru" channel-id="BHTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",703.1 BHTV 2 Perú | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=".png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online", | HD 720p
-#EXTVLCOPT:network-caching=1000
- 
-// HOT: VIP Channels +
 
 
 
