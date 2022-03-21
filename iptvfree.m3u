@@ -15,6 +15,17 @@ http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KHbOEa9.png" tvg-id="Bravo.us" channel-id="Bravo.us" tvg-name="Bravo"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Bravo |HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://stariptv.org:8080/hakim2021/123456/148450
+
+#EXTINF:-1 tvg-logo="https://imgur.com/gJHgp46.png" tvg-id="CartoonNetwork.us" channel-id="CartoonNetwork.us" tvg-name="CartoonNetwork.us"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",CN CartoonNetwork|HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://myhosting.one:8080/arsenal1/arsenal1/261193
+
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/WDP6Wvx.png" tvg-id="TNT.us" tvg-name="TNT US" channel-id="TNT.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TNT East | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -52,6 +63,33 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/7zWpi7s.png" tvg-id="Comet.us" tvg-name="Comet" channel-id="Comet.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Comet|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3HtHXk3.png" tvg-id="Charge.us" tvg-name="Charge!" channel-id="Charge.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Charge!|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9dADU98.png" tvg-id="Cinelife.us" tvg-name="Cinelife" channel-id="Cinelife.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",CineLife|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/inNdpmh.png" tvg-id="Cinemax.us" tvg-name="Cinemax" channel-id="Cinemax.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Cinemax|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://stariptv.org:8080/wael2021/123456/148473
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OA3IZGL.png" tvg-id="Cinemax.us" tvg-name="Cinemax" channel-id="Cinemax.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Cinemax|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://myhosting.one:8080/arsenal1/arsenal1/261321
+
+#EXTINF:-1 tvg-logo="https://imgur.com/inNdpmh.png" tvg-id="Cinemax.us" tvg-name="Cinemax" channel-id="Cinemax.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Cinemax|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://myhosting.one:8080/arsenal1/arsenal1/261322
+
 #EXTINF:-1 tvg-logo="https://imgur.com/Mas6Ses.png" tvg-id="Circle.us" tvg-name="Circle TV" channel-id="Circle.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Circle|HD 720p
 #EXTVLCOPT:network-caching=1000
 https://circle-samsung.amagi.tv/playlist.m3u8
@@ -64,6 +102,24 @@ https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fv5VNG1.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV",The HeartLand Network | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dzQBBwF.png" tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" channel-id="DiscoveryChannel.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Discovery Channel|HD 1080p
+#EXTVLCOPT:network-caching=1000
+http://stariptv.org:8080/hakim2021/123456/148482
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="FX.us" tvg-name="FX HD" channel-id="FX.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",FX|HD 1080p
+#EXTVLCOPT:network-caching=1000
+http://stariptv.org:8080/hakim2021/123456/148463
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dzQBBwF.png" tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" channel-id="DiscoveryChannel.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Discovery Channel|HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://list.iptvcat.com/my_list/s/b65d9251717d3d5ca9f46738e149ddde.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dzQBBwF.png" tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" channel-id="DiscoveryChannel.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Discovery Channel|HD 1080p
+#EXTVLCOPT:network-caching=1000
+http://myhosting.one:8080/arsenal1/arsenal1/261163
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XxtwSWy.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV",TMZ | HD 1080p
 #EXTVLCOPT:network-caching=1000
@@ -129,9 +185,10 @@ https://live.chdrstatic.com/cheddar/primary/1.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/7zWpi7s.png" tvg-id="Comet.us" tvg-name="Comet" channel-id="Comet.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Comet|HD 720p
-#EXTVLCOPT:network-caching=1000
-http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/CgxD6i6.png" tvg-id="RetroTV.us" tvg-name="RetroTV" channel-id="RetroTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",RetroTV|HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -734,6 +791,70 @@ https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/c
 #EXTVLCOPT:network-caching=1000
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/manifest.m3u8
 
+// US: INSIGHTTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lnWH2iK.png" tvg-id="InsightTV.nl" tvg-name="Insight TV (English)" channel-id="InsightTV.nl" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",InsightTV USA|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8
+
+
+
+https://live.mybtv.net/manifest/4f0f25b338c3293216e8b36b00f3248b08be929d/px-prd/1bef577d-b215-4554-97b2-24f1367171a8/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lnWH2iK.png" tvg-id="InsightTVEnglish.nl" tvg-name="Insight TV" channel-id="InsightTVEnglish.nl" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",InsightTV | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lnWH2iK.png" tvg-id="InsightTVEnglish.nl" tvg-name="Insight TV" channel-id="InsightTVEnglish.nl" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",InsightTV | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://insight-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lnWH2iK.png" tvg-id="InsightTVEnglish.nl" tvg-name="Insight TV" channel-id="InsightTVEnglish.nl" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",InsightTV | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lnWH2iK.png" tvg-id="InsightTVEnglish.nl" tvg-name="Insight TV Canada" channel-id="InsightTVEnglish.nl" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",InsightTV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-insighttv/CDN/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lnWH2iK.png" tvg-id="InsightTV.nl" tvg-name="Insight TV (English)" channel-id="InsightTV.nl" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",InsightTV Australia|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lnWH2iK.png" tvg-id="InsightTV.nl" tvg-name="Insight TV (English)" channel-id="InsightTV.nl" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",InsightTV UK|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lnWH2iK.png" tvg-id="InsightTVEnglish.nl" tvg-name="Insight TV" channel-id="InsightTVEnglish.nl" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",InsightTV Canada| HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lnWH2iK.png" tvg-id="InsightTVBrazil.nl" tvg-name="Insight TV (Brazil)" channel-id="InsightTVBrazil.nl" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",InsightTV Brazil|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://insight-samsungbrazil.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://imgur.com/lnWH2iK.png" tvg-id="InsightTVGerman.nl" tvg-name="Insight TV (German)" channel-id="InsightTVGerman.nl" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",InsightTV Germany|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://insighttv-ger-rakuten.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lnWH2iK.png" tvg-id="InsightTVIndia.nl" tvg-name="Insight TV (India)" channel-id="InsightTVIndia.nl" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",InsightTV India|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://insighttv-samsungindia.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lnWH2iK.png" tvg-id="InsightTVMexico.nl" tvg-name="Insight TV (Mexico)" channel-id="InsightTVMexico.nl" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",InsightTV Mexico|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://insighttv-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lnWH2iK.png" tvg-id="InsightTVSpain.nl" tvg-name="Insight TV (Spain)" channel-id="InsightTVSpain.nl" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",InsightTV Spain|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://insighttv-spa-rakuten.amagi.tv/playlist.m3u8
+
+
+
+
 
 
 // JP: NHK
@@ -929,6 +1050,7 @@ https://dai.google.com/linear/hls/event/OB8_g3B_Th2LAr1AVmM4Mw/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cTtd3VC.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="Engligh" group-title="USA TV" status="online",TVS: Classic Movies| HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+
 
 
 // RU: RBC
@@ -2400,6 +2522,7 @@ http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uclr5AJ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="RU" tvg-language="Russian" group-title="Russian TV" status="online",Luxury|Russian HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://nano.teleservice.su:8080/hls/luxury.m3u8
+
 
 
 
