@@ -3,6 +3,8 @@
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/wbkCZXk.png" tvg-id="AMC.us" channel-id="AMC.us" tvg-name="AMC Presents"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMC East | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
@@ -67,6 +69,10 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3
 #EXTINF:-1 tvg-logo="https://imgur.com/7zWpi7s.png" tvg-id="Comet.us" tvg-name="Comet" channel-id="Comet.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Comet|HD 720p
 #EXTVLCOPT:network-caching=1000
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Y7Yji5U.png" tvg-id="LifeVisison.us" tvg-name="Life Visison TV" channel-id="LifeVisison.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",LifeVisison TV|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3HtHXk3.png" tvg-id="Charge.us" tvg-name="Charge!" channel-id="Charge.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Charge!|HD 720p
@@ -212,7 +218,22 @@ https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/
 https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/ugEjZb1.png" tvg-id="TexasStudentTV.us" channel-id="TexasStudentTV.us" tvg-name="Texas Student TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Texas Student TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/ClmtqTj.png" tvg-id="GoodLife45.us" channel-id="GoodLife45.us" tvg-name="Good Life 45"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Good Life 45 | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id=".us" channel-id=".us" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",GlobeVille: New York Institute | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/724fCN0.png" tvg-id=".us" channel-id=".us" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable", Key TV (KTHD) | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vlCpOqv.png" tvg-id="OutdoorChannel.us" channel-id="OutdoorChannel.us" tvg-name="Outdoor Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Outdoor Channel TV | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -320,6 +341,10 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=3
 #EXTINF:-1 tvg-logo="https://imgur.com/E1HJqlf.png" tvg-id="NASA.us" tvg-name="NASA TV" channel-id="NASA.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="NASA TV" status="online",NASA|HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/E1HJqlf.png" tvg-id="NASA.us" tvg-name="NASA TV" channel-id="NASA.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="NASA TV" status="online",NASA|HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 // ANIME: ANIME TV
 
@@ -517,6 +542,14 @@ https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xGkx2ro.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",11 Channel Tempe AZ | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8tuJHkg.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",4 Channel Lake Havasu City AZ | HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6GNQKJe.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",11 Channel Glendale AZ | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
 
 // UK: BCC
 
@@ -2532,6 +2565,21 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 
 
 
+
+// MOVIES: VIP
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VGV8xhU.png" tvg-id="Mundomas.co" channel-id="MundoMas.com" tvg-name="Mundo+ Colombia"  channel-number="" tvc-guide-stationid="" tvg-country="CO" tvg-language="Spanish" group-title="CO Local" status="online",Mundo+ Colombia | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1344197682.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hilDScr.png" tvg-id="BHTV.pe" tvg-name="BHTV Peru" channel-id="BHTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",703.1 BHTV 2 Perú | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=".png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online", | HD 720p
+#EXTVLCOPT:network-caching=1000
 
 
 // MOVIES: VIP
