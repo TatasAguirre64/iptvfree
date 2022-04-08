@@ -108,6 +108,9 @@ https://circle-samsung.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/SdOT7ga.png" tvg-id="BounceXL.us" tvg-name="BounceXL" channel-id="BounceXL.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",BounceXL | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/fv5VNG1.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV",The HeartLand Network | HD 1080p
 #EXTVLCOPT:network-caching=1000
@@ -216,9 +219,7 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTVLCOPT:network-caching=1000 
 http://trn03.tulix.tv/teleup-mBm5MQ50rA/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/SdOT7ga.png" tvg-id="BounceXL.us" tvg-name="BounceXL" channel-id="BounceXL.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",BounceXL | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_BounceXL/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/cJedHRh.png" tvg-id="TuTv.us" channel-id="TuTv.us" tvg-name="TuTV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TuTV | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -280,26 +281,12 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x43
 #EXTVLCOPT:network-caching=1000
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="HSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" tvg-country="US" tvg-language="English" group-title="USA Cable",HSN | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://hsn.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/wjHLMjN.png" tvg-id="HSN.us" channel-id="HSN.us" tvg-name="HSN Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HSN TV | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/wjHLMjN.png" tvg-id="HSN.us" channel-id="HSN.us" tvg-name="HSN Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",7.4 HSN (WABC-DT4)| HD 720p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/7.4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/wjHLMjN.png" tvg-id="HSN2.us" channel-id="HSN2.us" tvg-name="HSN2 Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HSN 2 TV | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/wnjPvkv.png" tvg-id="HSN2.us" channel-id="HSN2.us" tvg-name="HSN2 Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HSN 2TV | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/mKBQvlu.png" tvg-id="Beachtv.us"  tvg-country="US" tvg-language="English" group-title="USA Cable",BeachTV I | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -378,9 +365,10 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestrea
 #EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
 
-#EXTINF:-1 tvg-id="HSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" tvg-name="HSN" tvg-country="US" tvg-language="English" group-title="Cable USA",7.4 HSN New York NY | HD
+#EXTINF:-1 tvg-logo="https://imgur.com/wjHLMjN.png" tvg-id="HSN.us" channel-id="HSN.us" tvg-name="HSN Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",7.4 HSN|New York NY(WABC-DT4)| HD 720p
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/7.4/playlist.m3u8
+
 
 EXTINF:-1 tvg-id="WGAL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/WGAL.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",8.1 NBC-WGAL Lancaster PA (WGAL-TV) | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -410,11 +398,19 @@ https://v-pi.theus6tv.tk/hls/12.1/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8
 
-#EXTINF:-1 tvg-id="WHYY-DT3.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",12.3 PBS Kids Philadelphia (WHYY) | HD 1080p
+#EXTINF:-1 tvg-id="WHYY-DT3.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",12.3 PBS Kids|Philadelphia (WHYY) | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://v-pi.theus6tv.tk/hls/12.3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=".png" tvg-id="GetTv.us" tvg-name="GET TV" channel-id="GetTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="AOV Local" status="online",13.3 GET|New Jersey | HD 480p
+#EXTINF:-1 tvg-logo="https://imgur.com/HUXtYqw.png" tvg-id="WNET.us" channel-id="WNET.us" tvg-name="13.1 PBS New Jersey"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",13.1 PBS THIRTEEN|New York (WNET-DT1)|HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/13.1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="WNET.us" channel-id="WNET.us" tvg-name="13.2 PBS KIDS"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",13.1 PBS KIDS|New York (WNET-DT2)|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/13.2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="GetTv.us" tvg-name="GET TV" channel-id="GetTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable" status="online",13.3 GET|New Jersey | HD 480p
 #EXTVLCOPT:network-caching=1000 
 https://v-px.theus6tv.tk/hls/13.3/playlist.m3u8
 
@@ -434,21 +430,29 @@ https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WLIW-DT2.us" tvg-logo="https://createtv.com/CreateTV.nsf/CreateLogo-Showcase.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.2 PBS CreateTV New York NY (WLIW-DT2) | HD 1080p
+#EXTINF:-1 tvg-id="WLIW-DT2.us" tvg-logo="https://createtv.com/CreateTV.nsf/CreateLogo-Showcase.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.2 PBS CreateTV|New York NY (WLIW-DT2) | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/21.2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WLIW-DT3.us" tvg-logo="https://movetoinclude.us/wp-content/uploads/2020/07/world_canonical_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.3 PBS World New York NY (WLIW-DT3) | HD 1080p
+#EXTINF:-1 tvg-id="WLIW-DT3.us" tvg-logo="https://movetoinclude.us/wp-content/uploads/2020/07/world_canonical_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.3 PBS World|New York NY (WLIW-DT3) | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/21.3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WLIW-DT4.us" tvg-logo="https://www.wxxi.org/sites/default/files/images/highlights/world_canonical_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.4 PBS All Arts New York NY (WLIW-DT4) | HD 1080p
+#EXTINF:-1 tvg-id="WLIW-DT4.us" tvg-logo="https://www.wxxi.org/sites/default/files/images/highlights/world_canonical_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.4 PBS All Arts|New York NY (WLIW-DT4) | HD 1080p
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/21.4/playlist.m3u8
 
-#EXTINF:-1 tvg-id=".com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/WJCL_logo_2015.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",22.1 ABC-WJCL-TV News Savannah GA | HD 720p
+#EXTINF:-1 tvg-id=".com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/WJCL_logo_2015.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",22.1 ABC-WJCL-TV|Savannah GA | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jjzKGqP.png" tvg-id="WNJS.us" channel-id="WNJS.us" tvg-name="13.2 PBS New Jersy"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",23.1 PBS NJ|New Jersey (WNJS-DT1)|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/23.1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1WyopjZ.png" tvg-id="WNJS.us" channel-id="WNJS.us" tvg-name="13.2 PBS New Jersy"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",23.2 NHK WORLD|(WNJS-DT2)|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/23.2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WLKY.us" tvg-logo="https://www.tvnewslivestream.com/wp-content/uploads/2018/02/CBS-Wlky.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",32.1 CBS-WLKY-TV News Louisville KY | HD 480p
 #EXTVLCOPT:network-caching=1000
@@ -494,11 +498,15 @@ https://v-ny.theus6tv.tk/hls/44.1/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/46.1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/TxOeOM7.png" tvg-id="WNJU.us" channel-id="WNJU.us" tvg-name="47.1 Telemundo|New Jersy "  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",47.1 Telemundo|New Jersy (WNJU-DT1)|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WNJU-DT2.us" tvg-logo="https://imgur.com/0JFLaX3.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",47.2 TeleXitos Teterboro NJ (WNJU-DT2) | HD 480p
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/47.2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WFMZ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",69.1 IDN Allentown, PA (WFMZ-DT1) | HD 720p
+#EXTINF:-1 tvg-id="WFMZ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",69.1 IDN|Allentown PA(WFMZ-DT1) | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://v-pi.theus6tv.tk/hls/69.1/playlist.m3u8
 
@@ -655,8 +663,9 @@ https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://imgur.com/6PD0gvk.png" tvg-id="WJCL.us" tvg-name="22 ABC|Savannah GA" channel-id="WJCL.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",22 ABC|Savannah GA(WJCL)| HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/JXID0Pj.png" tvg-id="23ABC.us" tvg-name="23 ABC|Bakersfield" channel-id="23ABC.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",23 ABC|Bakersfield (KERO)| HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -1040,6 +1049,23 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 
+// US: HSN Network
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wjHLMjN.png" tvg-id="HSN.us" channel-id="HSN.us" tvg-name="HSN Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HSN TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://hsn.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wjHLMjN.png" tvg-id="HSN.us" channel-id="HSN.us" tvg-name="HSN Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HSN TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wjHLMjN.png" tvg-id="HSN2.us" channel-id="HSN2.us" tvg-name="HSN2 Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HSN 2 TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wnjPvkv.png" tvg-id="HSN2.us" channel-id="HSN2.us" tvg-name="HSN2 Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HSN 2TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
 
 
 // Hope: HOPE TV
@@ -2636,20 +2662,11 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 
 
 
-// MOVIES: VIP
-
-#EXTINF:-1 tvg-logo="https://imgur.com/VGV8xhU.png" tvg-id="Mundomas.co" channel-id="MundoMas.com" tvg-name="Mundo+ Colombia"  channel-number="" tvc-guide-stationid="" tvg-country="CO" tvg-language="Spanish" group-title="CO Local" status="online",Mundo+ Colombia | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1344197682.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/hilDScr.png" tvg-id="BHTV.pe" tvg-name="BHTV Peru" channel-id="BHTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",703.1 BHTV 2 Perú | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=".png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online", | HD 720p
-#EXTVLCOPT:network-caching=1000
+
+
 
 
 // MOVIES: VIP
