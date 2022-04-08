@@ -2,8 +2,6 @@
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml url-tvg=https://i.mjh.nz/PlutoTV/all.xml.gz
 
 
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/wbkCZXk.png" tvg-id="AMC.us" channel-id="AMC.us" tvg-name="AMC Presents"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMC East | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
@@ -441,6 +439,15 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://dcs-live.mp.lura.live/server/play/zA65M4DuXVnxibP0/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/ifHMLxG.png" tvg-id="7ABC.us" tvg-name="7ABC" channel-id="7ABC.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",7 ABC|Sarasota FL(WWSB) | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yQ3TqEb.png" tvg-id="7ABC.us" channel-id="7ABC.us" tvg-name="7 ABC New York"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",7 ABC|New York (WABC-DT1)| HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/JXID0Pj.png" tvg-id="23ABC.us" tvg-name="23ABC" channel-id="23ABC.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",23 ABC|Bakersfield (KERO) | HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -449,10 +456,9 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ifHMLxG.png" tvg-id="7ABC.us" tvg-name="7ABC" channel-id="7ABC.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",7 ABC|Sarasota FL(WWSB) | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/yQ3TqEb.png" tvg-id="7ABC.us" channel-id="7ABC.us" tvg-name="7 ABC New York"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",7 ABC|New York (WABC-DT1) | HD 720p
 #EXTVLCOPT:network-caching=1000 
-https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
-
+https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
 
 
 
