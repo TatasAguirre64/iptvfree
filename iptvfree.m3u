@@ -2,6 +2,8 @@
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml url-tvg=https://i.mjh.nz/PlutoTV/all.xml.gz
 
 
+US: USA VIP
+
 #EXTINF:-1 tvg-logo="https://imgur.com/wbkCZXk.png" tvg-id="AMC.us" channel-id="AMC.us" tvg-name="AMC Presents"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMC East | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
@@ -287,6 +289,10 @@ https://hsn.samsung.wurl.com/manifest/playlist.m3u8
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/wjHLMjN.png" tvg-id="HSN.us" channel-id="HSN.us" tvg-name="HSN Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",7.4 HSN (WABC-DT4)| HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/7.4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/wjHLMjN.png" tvg-id="HSN2.us" channel-id="HSN2.us" tvg-name="HSN2 Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HSN 2 TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
@@ -309,7 +315,208 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
 
 
-https://s4.tntendirect.com/france2/live/chunks.m3u8?nimblesessionid=28627881&wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjIgMToxOTowNiBBTSZoYXNoX3ZhbHVlPUR5ZEEwVm5oQnQ5OWhUL0NSZVFhT2c9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+// US: USA LOCAL TV 
+
+
+#EXTINF:-1 tvg-id="WCBS-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Wbbm.png" tvg-name="CBS 2" tvg-country="US" tvg-language="English" group-title="Cable USA",2.1 CBS|New York (WCBS) | HD 432p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WESH-TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/WESH_2_logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",2.1 NBC-WESH|Orlando FL (WESH-TV) | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8
+
+#EXTINF:-1 tvg-id="WDPN.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",2.2 GRIT|New Jersey | HD 432p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/2.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WDPN-DT5.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",2.5 RetroTV|New Jersey (WDPN-DT5) | HD 432p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/2.5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WKYC.us" tvg-name="3 Studios Cleveland OH (WKYC)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tjlSkyp.jpg" group-title="Local",3.1 Studios WKYC|Cleveland OH | HD (1080p)
+https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
+
+#EXTINF:-1 tvg-id="TCT.us" tvg-logo="https://i.ytimg.com/vi/8vRw4gUx3Xs/maxresdefault.jpg" tvg-name="TCT HD" tvg-country="US" tvg-language="English" group-title="Cable USA",4.1 TCT|Skillman NJ (WACP-DT1)| HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/4.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WMCN-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",4.1 NBC|New York WMCN-DT1 | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WNBC-DT2.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cozitv.png" tvg-name="Cozi TV" tvg-country="US" tvg-language="English" group-title="Cable USA",4.2 COZY TV New York NY | HD 432p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/4.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACE.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ace-2021.png" tvg-name="ACE" tvg-country="US" tvg-language="English" group-title="Cable USA",4.2 ACE|Atlantic City NJ (WACP-DT2) | HD 480p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/4.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SHOPLC.us" tvg-logo="https://image.roku.com/developer_channels/prod/deb768241a9fc0b317a7b6d5bff8dd866da1a0b4412133e288215ecc768b5ef3.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",4.4 ShopLC|Toms Rivers NJ (WACP-DT4) | HD 480P
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/4.4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jewelry.us" tvg-logo="https://allvectorlogo.com/img/2016/07/jewelry-television-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",4.5 JTV|Jewelry New Jersey NJ (WACP-DT5) | HD 480p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/4.5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="THEFAMILYCHANNEL.us" tvg-logo="https://imgur.com/TpiuMaE.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",4.6 FAM|The Family Channel (WACP-DT6) | HD 480p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/4.6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WCVB-TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/1200px-WCVB-TV_%282021%29.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",5.1 ABC-NEWS Boston MT (WCVB-TV) | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
+
+#EXTINF:-1 tvg-id="WHDH.us" tvg-name="7 News Boston MA (WHDH)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="Local",7.1 News (WHDH) Boston MA | HD 
+#EXTVLCOPT:network-caching=1000
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+
+#EXTINF:-1 tvg-id="WLS.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY90eTnx4dX0bfgVABFUX4G3jq2tC_1pL0tRryLz3xoYJ5Ob5Nzt5niwc34z9CP1jaEhY&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",7.1 ABC-WLS Chicago Il | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
+
+#EXTINF:-1 tvg-id="HSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" tvg-name="HSN" tvg-country="US" tvg-language="English" group-title="Cable USA",7.4 HSN New York NY | HD
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/7.4/playlist.m3u8
+
+EXTINF:-1 tvg-id="WGAL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/WGAL.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",8.1 NBC-WGAL Lancaster PA (WGAL-TV) | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8
+
+#EXTINF:-1 tvg-id="WGN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/WGAL.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",9.1 WGN Chicago IL (WGN-TV1) | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://encodercdn1.frontline.ca/encoder182/output/WGN_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WCAU-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/1920px-WCAUlogo2.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",10.1 NBC Baltimore (WCAU-DT1( | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/10.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cozitv.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cozitv.png" tvg-name="Cozi TV" tvg-country="US" tvg-language="English" group-title="Cable USA",10.2 COZY TV New Jersey | HD 432p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/10.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WBAL-TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/WBAL_TV_Plus_MeTV_Logo.jpg/170px-WBAL_TV_Plus_MeTV_Logo.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",11.1 NBC Baltimore (WBAL-TV) | HD
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
+
+#EXTINF:-1 tvg-id="WHYY-DT1.us" tvg-logo="https://www.barrettsportsmedia.com/wp-content/uploads/2021/09/WHYY_logo_og.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",12.1 PBS Philadelphia (WHYY) | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/12.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WISN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/WISN_2012_Logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",12.1 ABC-WISN-TV News Milwaukee WI | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8
+
+#EXTINF:-1 tvg-id="WHYY-DT3.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",12.3 PBS Kids Philadelphia (WHYY) | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/12.3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="GetTv.us" tvg-name="GET TV" channel-id="GetTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="AOV Local" status="online",13.3 GET|New Jersey | HD 480p
+#EXTVLCOPT:network-caching=1000 
+https://v-px.theus6tv.tk/hls/13.3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WAPT-TV.us" tvg-logo="https://kubrick.htvapps.com/mediaos.s3.amazonaws.com/htv_default_image/wapt/top_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",16.1 NEWS Jackson MS (WAPT-TV) | HD
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
+
+#EXTINF:-1 tvg-id="Weathernation.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/WAPT_97_to_99.svg/revision/latest/scale-to-width-down/250?cb=20201114093044" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",16.1 Weathernation TV | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
+
+#EXTINF:-1 tvg-id="Weathernation.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/weathernation.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",16.1 Weathernation Kansas City KS (KCKS-LD6) | HD 480p
+#EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+
+#EXTINF:-1 tvg-id="WLIW-DT1.us" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0008/4634/brand.gif?itok=wwpbBoGT" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.1 PBS New York NY (WLIW) | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WLIW-DT2.us" tvg-logo="https://createtv.com/CreateTV.nsf/CreateLogo-Showcase.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.2 PBS CreateTV New York NY (WLIW-DT2) | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/21.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WLIW-DT3.us" tvg-logo="https://movetoinclude.us/wp-content/uploads/2020/07/world_canonical_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.3 PBS World New York NY (WLIW-DT3) | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/21.3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WLIW-DT4.us" tvg-logo="https://www.wxxi.org/sites/default/files/images/highlights/world_canonical_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.4 PBS All Arts New York NY (WLIW-DT4) | HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/21.4/playlist.m3u8
+
+#EXTINF:-1 tvg-id=".com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/WJCL_logo_2015.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",22.1 ABC-WJCL-TV News Savannah GA | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
+
+#EXTINF:-1 tvg-id="WLKY.us" tvg-logo="https://www.tvnewslivestream.com/wp-content/uploads/2018/02/CBS-Wlky.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",32.1 CBS-WLKY-TV News Louisville KY | HD 480p
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8
+
+#EXTINF:-1 tvg-id="WLVT-DT1.us" tvg-logo="https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wlvt2-pbs/2019%20PBS39%20Blue/e5fd2adf69_PBS39-2019-Blue.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",39.1 PBS WLVT-DT1 | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/39.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WKOB-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Azteca_America_2015.svg/220px-Azteca_America_2015.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.1 Azteca America (WKOB-DT1) | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WKOB.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBjrZmFqHfGVNjpXShP3XfyvnRuO6KdS7UrOhRcgj2gEAILP2Ue4H2v1NkUBl0DUmLn4A&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.2 Daystar New York NY (WKOB) | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/42.2/playlist.m3u8SBN Logo
+
+#EXTINF:-1 tvg-id="WELL-LD1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBjrZmFqHfGVNjpXShP3XfyvnRuO6KdS7UrOhRcgj2gEAILP2Ue4H2v1NkUBl0DUmLn4A&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",45.1 Daystar Spring House PA | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/45.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SONLIFE.us" tvg-logo="https://www.rbr.com/wp-content/uploads/sonlife.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.5 SonLife (WKOB-LD5) | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/42.5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESTRELLATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.6 Estrella TV (WKOB-LD6) | HD 480p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/42.6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SHOPLC.us" tvg-logo="https://image.roku.com/developer_channels/prod/e1bd830cacc89006befec26d48c00381eb67acc7d374610516a0ef78356a466d.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.7 ShopLC TV (WKOB-LD7) | HD 480p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/42.7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NOVELISIMA.us" tvg-logo="https://www.novelisima.com/assets/images/logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.8 Novelisima TV (WKOB-LD8) | HD 480p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/42.8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WMCN-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ShopHQ_2019_Logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",44.1 ShopHQ WMCN-DT1 | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/44.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WMBQ-LD.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXle9yXPaGzHHpCE3YQplKKL1-rzzFFzMMZcF1J2jtEpPnd0gG45UIfCKsXSMyz0eWD4&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",46.1 FNX WMBQ-LD | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/46.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WNJU-DT2.us" tvg-logo="https://imgur.com/0JFLaX3.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",47.2 TeleXitos Teterboro NJ (WNJU-DT2) | HD 480p
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/47.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WFMZ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",69.1 IDN Allentown, PA (WFMZ-DT1) | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://v-pi.theus6tv.tk/hls/69.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WLNG.us" tvg-logo="https://www.tvnewslivestream.com/wp-content/uploads/2018/02/CBS-Wlky.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",92.1 WLNG Radio Sag Harbor NY | HD 480p
+#EXTVLCOPT:network-caching=1000
+http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WCCA.us" tvg-logo="https://pbs.twimg.com/profile_images/629323387375104000/AKFLI5oC_400x400.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",194 Worcester MA (WCCA-TV) | HD
+#EXTVLCOPT:network-caching=1000
+https://worcester.vod.castus.tv/live/ch1.m3u8
+
+
+
+
+
+
+
+
 
 
 // US: REDBULLTV
@@ -443,22 +650,25 @@ https://dcs-live.mp.lura.live/server/play/zA65M4DuXVnxibP0/manifest.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yQ3TqEb.png" tvg-id="7ABC.us" channel-id="7ABC.us" tvg-name="7 ABC New York"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",7 ABC|New York (WABC-DT1)| HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/yQ3TqEb.png" tvg-id="7ABC.us" channel-id="7ABC.us" tvg-name="7.1 ABC New York"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",7.1 ABC|New York (WABC-DT1)| HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/JXID0Pj.png" tvg-id="23ABC.us" tvg-name="23ABC" channel-id="23ABC.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",23 ABC|Bakersfield (KERO) | HD 720p
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JXID0Pj.png" tvg-id="23ABC.us" tvg-name="23 ABC|Bakersfield" channel-id="23ABC.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",23 ABC|Bakersfield (KERO)| HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yQ3TqEb.png" tvg-id="7ABC.us" channel-id="7ABC.us" tvg-name="7 ABC New York"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",7 ABC|New York (WABC-DT1) | HD 720p
+#EXTINF:-1 tvg-logo=".png" tvg-id=".us" channel-id=".us" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online", ABC| (WABC-DT1) | HD 720p
 #EXTVLCOPT:network-caching=1000 
-https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
+
+
 
 
 
@@ -929,11 +1139,17 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 
 
 
-// US: NBC 
+// US: NBCLX 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/J9vGdQG.png" tvg-id="NBCLX.us" tvg-name="NBCLX" channel-id="NBCLX.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",NBCLX | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
+
+// US: NBC
+#EXTINF:-1 tvg-logo="https://imgur.com/h8g13Mi.png" tvg-id="WJACDT1.us" channel-id="WJACDT1.us" tvg-name="6 NBC Altoona PA (WJAC1)"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",6 NBC (WJAC1) Altoona PA |HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://trn03.tulix.tv/teleup-nbc-wgal-new1/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YSDvYDs.png" tvg-id="WHDH.us" channel-id="WHDH.us" tvg-name="7News Boston (WHDH)"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",7News|NBC(WHDH)| HD 720p
@@ -1188,199 +1404,7 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
 
-// US: USA LOCAL TV 
 
-
-#EXTINF:-1 tvg-id="WCBS-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Wbbm.png" tvg-name="CBS 2" tvg-country="US" tvg-language="English" group-title="Cable USA",2.1 CBS New York WCBS | HD 432p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WESH-TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/WESH_2_logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",2.1 NBC-WESH Orlando FL (WESH-TV) | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8
-
-#EXTINF:-1 tvg-id="WDPN.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",2.2 GRIT New Jersey | HD 432p
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/2.2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WDPN-DT5.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",2.5 Retro TV New Jersey (WDPN-DT5) | HD 432p
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/2.5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WKYC.us" tvg-name="3 Studios Cleveland OH (WKYC)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tjlSkyp.jpg" group-title="Local",3.1  Studios WKYC Cleveland OH | HD (1080p)
-https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
-
-#EXTINF:-1 tvg-id="TCT.us" tvg-logo="https://i.ytimg.com/vi/8vRw4gUx3Xs/maxresdefault.jpg" tvg-name="TCT HD" tvg-country="US" tvg-language="English" group-title="Cable USA",4.1 TCT Skillman NJ WACP-DT1 | HD
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/4.1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WMCN-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",4.1 NBC New York WMCN-DT1 | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WNBC-DT2.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cozitv.png" tvg-name="Cozi TV" tvg-country="US" tvg-language="English" group-title="Cable USA",4.2 COZY TV New York NY | HD 432p
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/4.2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ACE.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/ace-2021.png" tvg-name="ACE" tvg-country="US" tvg-language="English" group-title="Cable USA",4.2 ACE Atlantic City NJ WACP-DT2 | HD 480P
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/4.2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SHOPLC.us" tvg-logo="https://image.roku.com/developer_channels/prod/deb768241a9fc0b317a7b6d5bff8dd866da1a0b4412133e288215ecc768b5ef3.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",4.4 ShopLC Toms Rivers NJ WACP-DT4 | HD 480P
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/4.4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="jewelry.us" tvg-logo="https://allvectorlogo.com/img/2016/07/jewelry-television-logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",4.5 JTV HD Jewelry New Jersey NJ WACP-DT5 | HD 480P
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/4.5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="THEFAMILYCHANNEL.us" tvg-logo="https://imgur.com/TpiuMaE.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",4.6 FAM The Family Channel WACP-DT6 | HD 480p
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/4.6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WCVB-TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/1200px-WCVB-TV_%282021%29.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",5.1 ABC-NEWS Boston MT (WCVB-TV) | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
-
-#EXTINF:-1 tvg-id="WHDH.us" tvg-name="7 News Boston MA (WHDH)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="Local",7.1 News (WHDH) Boston MA | HD 
-#EXTVLCOPT:network-caching=1000
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-
-#EXTINF:-1 tvg-id="WLS.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY90eTnx4dX0bfgVABFUX4G3jq2tC_1pL0tRryLz3xoYJ5Ob5Nzt5niwc34z9CP1jaEhY&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",7.1 ABC-WLS Chicago Il | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
-
-#EXTINF:-1 tvg-id="HSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" tvg-name="HSN" tvg-country="US" tvg-language="English" group-title="Cable USA",7.4 HSN New York NY | HD
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/7.4/playlist.m3u8
-
-EXTINF:-1 tvg-id="WGAL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/WGAL.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",8.1 NBC-WGAL Lancaster PA (WGAL-TV) | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8
-
-#EXTINF:-1 tvg-id="WGN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/WGAL.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",9.1 WGN Chicago IL (WGN-TV1) | HD 720p
-#EXTVLCOPT:network-caching=1000
-http://encodercdn1.frontline.ca/encoder182/output/WGN_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WCAU-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/1920px-WCAUlogo2.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",10.1 NBC Baltimore (WCAU-DT1( | HD 1080p
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/10.1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="cozitv.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cozitv.png" tvg-name="Cozi TV" tvg-country="US" tvg-language="English" group-title="Cable USA",10.2 COZY TV New Jersey | HD 432p
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/10.2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WBAL-TV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/WBAL_TV_Plus_MeTV_Logo.jpg/170px-WBAL_TV_Plus_MeTV_Logo.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",11.1 NBC Baltimore (WBAL-TV) | HD
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
-
-#EXTINF:-1 tvg-id="WHYY-DT1.us" tvg-logo="https://www.barrettsportsmedia.com/wp-content/uploads/2021/09/WHYY_logo_og.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",12.1 PBS Philadelphia (WHYY) | HD 1080p
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/12.1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WISN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/WISN_2012_Logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",12.1 ABC-WISN-TV News Milwaukee WI | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8
-
-#EXTINF:-1 tvg-id="WHYY-DT3.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",12.3 PBS Kids Philadelphia (WHYY) | HD 1080p
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/12.3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=".png" tvg-id="GetTv.us" tvg-name="GET TV" channel-id="GetTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="AOV Local" status="online",13.3 GET|New Jersey | HD 480p
-#EXTVLCOPT:network-caching=1000 
-https://v-px.theus6tv.tk/hls/13.3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WAPT-TV.us" tvg-logo="https://kubrick.htvapps.com/mediaos.s3.amazonaws.com/htv_default_image/wapt/top_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",16.1 NEWS Jackson MS (WAPT-TV) | HD
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
-
-#EXTINF:-1 tvg-id="Weathernation.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/WAPT_97_to_99.svg/revision/latest/scale-to-width-down/250?cb=20201114093044" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",16.1 Weathernation TV | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
-
-#EXTINF:-1 tvg-id="Weathernation.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/weathernation.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",16.1 Weathernation Kansas City KS (KCKS-LD6) | HD 480p
-#EXTVLCOPT:network-caching=1000
-https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
-
-#EXTINF:-1 tvg-id="WLIW-DT1.us" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0008/4634/brand.gif?itok=wwpbBoGT" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.1 PBS New York NY (WLIW) | HD 1080p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WLIW-DT2.us" tvg-logo="https://createtv.com/CreateTV.nsf/CreateLogo-Showcase.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.2 PBS CreateTV New York NY (WLIW-DT2) | HD 1080p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/21.2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WLIW-DT3.us" tvg-logo="https://movetoinclude.us/wp-content/uploads/2020/07/world_canonical_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.3 PBS World New York NY (WLIW-DT3) | HD 1080p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/21.3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WLIW-DT4.us" tvg-logo="https://www.wxxi.org/sites/default/files/images/highlights/world_canonical_image.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",21.4 PBS All Arts New York NY (WLIW-DT4) | HD 1080p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/21.4/playlist.m3u8
-
-#EXTINF:-1 tvg-id=".com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/WJCL_logo_2015.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",22.1 ABC-WJCL-TV News Savannah GA | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
-
-#EXTINF:-1 tvg-id="WLKY.us" tvg-logo="https://www.tvnewslivestream.com/wp-content/uploads/2018/02/CBS-Wlky.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",32.1 CBS-WLKY-TV News Louisville KY | HD 480p
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8
-
-#EXTINF:-1 tvg-id="WLVT-DT1.us" tvg-logo="https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/wlvt2-pbs/2019%20PBS39%20Blue/e5fd2adf69_PBS39-2019-Blue.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",39.1 PBS WLVT-DT1 | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/39.1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WKOB-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Azteca_America_2015.svg/220px-Azteca_America_2015.svg.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.1 Azteca America (WKOB-DT1) | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WKOB.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBjrZmFqHfGVNjpXShP3XfyvnRuO6KdS7UrOhRcgj2gEAILP2Ue4H2v1NkUBl0DUmLn4A&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.2 Daystar New York NY (WKOB) | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/42.2/playlist.m3u8SBN Logo
-
-#EXTINF:-1 tvg-id="WELL-LD1.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBjrZmFqHfGVNjpXShP3XfyvnRuO6KdS7UrOhRcgj2gEAILP2Ue4H2v1NkUBl0DUmLn4A&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",45.1 Daystar Spring House PA | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/45.1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SONLIFE.us" tvg-logo="https://www.rbr.com/wp-content/uploads/sonlife.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.5 SonLife (WKOB-LD5) | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/42.5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESTRELLATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.6 Estrella TV (WKOB-LD6) | HD 480p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/42.6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SHOPLC.us" tvg-logo="https://image.roku.com/developer_channels/prod/e1bd830cacc89006befec26d48c00381eb67acc7d374610516a0ef78356a466d.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.7 ShopLC TV (WKOB-LD7) | HD 480p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/42.7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NOVELISIMA.us" tvg-logo="https://www.novelisima.com/assets/images/logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",42.8 Novelisima TV (WKOB-LD8) | HD 480p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/42.8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WMCN-DT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ShopHQ_2019_Logo.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",44.1 ShopHQ WMCN-DT1 | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/44.1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WMBQ-LD.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXle9yXPaGzHHpCE3YQplKKL1-rzzFFzMMZcF1J2jtEpPnd0gG45UIfCKsXSMyz0eWD4&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",46.1 FNX WMBQ-LD | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/46.1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WNJU-DT2.us" tvg-logo="https://imgur.com/0JFLaX3.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="USA Cable",47.2 TeleXitos Teterboro NJ (WNJU-DT2) | HD 480p
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/47.2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WFMZ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",69.1 IDN Allentown, PA (WFMZ-DT1) | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://v-pi.theus6tv.tk/hls/69.1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WLNG.us" tvg-logo="https://www.tvnewslivestream.com/wp-content/uploads/2018/02/CBS-Wlky.jpg" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",92.1 WLNG Radio Sag Harbor NY | HD 480p
-#EXTVLCOPT:network-caching=1000
-http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WCCA.us" tvg-logo="https://pbs.twimg.com/profile_images/629323387375104000/AKFLI5oC_400x400.png" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",194 Worcester MA (WCCA-TV) | HD
-#EXTVLCOPT:network-caching=1000
-https://worcester.vod.castus.tv/live/ch1.m3u8
 
 
 
@@ -2612,12 +2636,20 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 
 
 
+// MOVIES: VIP
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VGV8xhU.png" tvg-id="Mundomas.co" channel-id="MundoMas.com" tvg-name="Mundo+ Colombia"  channel-number="" tvc-guide-stationid="" tvg-country="CO" tvg-language="Spanish" group-title="CO Local" status="online",Mundo+ Colombia | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1344197682.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hilDScr.png" tvg-id="BHTV.pe" tvg-name="BHTV Peru" channel-id="BHTV.pe" channel-number="" tvc-guide-stationid="" tvg-country="PE" tvg-language="Spanish" group-title="Peru Local TV" status="online",703.1 BHTV 2 Perú | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
 
 
-
-
-
+#EXTINF:-1 tvg-logo=".png" tvg-id=".us" tvg-name="" channel-id=".us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online", | HD 720p
+#EXTVLCOPT:network-caching=1000
 
 
 // MOVIES: VIP
