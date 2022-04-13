@@ -2293,6 +2293,12 @@ http://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w47791226
 
 // ES: SPAIN 
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qStjqiR.png" tvg-id="7LaRioja.es" channel-id="7LaRioja.es" tvg-name="" channel-number="" tvc-guide-stationid="" tvg-country="Spain" tvg-language="Spanish" group-title="Spain TV" status="online",7 La Rioja|HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/5bs6AD4.png" tvg-id="Emporda.es" channel-id="Emporda.es" tvg-name="Emporda TV"  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",Emporda|HD 720p
 #EXTVLCOPT:network-caching=1000
 http://ventdelnord.tv:8080/escala/directe.m3u8
@@ -2659,6 +2665,9 @@ http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uclr5AJ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="RU" tvg-language="Russian" group-title="Russian TV" status="online",Luxury|Russian HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://nano.teleservice.su:8080/hls/luxury.m3u8
+
+
+
 
 
 
