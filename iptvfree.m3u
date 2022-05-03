@@ -322,7 +322,8 @@ https://v-pi.theus6tv.tk/hls/2.2/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://v-pi.theus6tv.tk/hls/2.5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WKYC.us" tvg-name="3 Studios Cleveland OH (WKYC)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tjlSkyp.jpg" group-title="Local",3.1 Studios WKYC|Cleveland OH | HD (1080p)
+#EXTINF:-1 tvg-logo="https://imgur.com/hTt3gb0.png" tvg-id="WKYC.us" tvg-name="" channel-id="WKYC.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable" status="online",3.1 Studios WKYC|Cleveland OH | HD (1080p)
+#EXTVLCOPT:network-caching=1000
 https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
 
 #EXTINF:-1 tvg-id="TCT.us" tvg-logo="https://i.ytimg.com/vi/8vRw4gUx3Xs/maxresdefault.jpg" tvg-name="TCT HD" tvg-country="US" tvg-language="English" group-title="Cable USA",4.1 TCT|Skillman NJ (WACP-DT1)| HD 720p
@@ -357,9 +358,10 @@ https://v-pi.theus6tv.tk/hls/4.6/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
 
-#EXTINF:-1 tvg-id="WHDH.us" tvg-name="7 News Boston MA (WHDH)" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="Local",7.1 News (WHDH) Boston MA | HD 
+#EXTINF:-1 tvg-logo=".png" tvg-id="WHDH.us" tvg-name="7.1 NBC|News Boston MA (WHDH)" tvg-country="US" tvg-language="English"  group-title="Local",7.1 NBC|News(WHDH) Boston MA | HD 720p 
 #EXTVLCOPT:network-caching=1000
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+
 
 #EXTINF:-1 tvg-id="WLS.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY90eTnx4dX0bfgVABFUX4G3jq2tC_1pL0tRryLz3xoYJ5Ob5Nzt5niwc34z9CP1jaEhY&usqp=CAU" tvg-name="" tvg-country="US" tvg-language="English" group-title="Cable USA",7.1 ABC-WLS Chicago Il | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -571,6 +573,16 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 #EXTVLCOPT:network-caching=1000
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/tZICtEX.png" tvg-id="EnerGeek.mx" tvg-name="EnerGeek" channel-id="EnerGeek.mx" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",Canal EnerGeek | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tZICtEX.png" tvg-id="EnerGeek.mx" tvg-name="EnerGeek 2" channel-id="EnerGeek.mx" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",Canal EnerGeek 2 | HD 720p
+#EXTVLCOPT:network-caching=1000
+https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/i3RMTO2.png" tvg-id="Locomotion.tv" tvg-name="Locomotion TV" channel-id="Locomotion.tv" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",Canal Locomotion TV | HD 480p
 #EXTVLCOPT:network-caching=1000
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -747,13 +759,24 @@ https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8
 
 // US: ALJAZEERA 
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/N7atHBw.png" tvg-id="AljazeeraEng.il" tvg-name="Aljazeera English" channel-id="AljazeeraEng.il" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",Al Jazeera English | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/P8uMsMX.png" tvg-id="AljazeeraEng.il" tvg-name="Aljazeera English" channel-id="AljazeeraEng.il" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",Al Jazeera America | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/P8uMsMX.png" tvg-id="AljazeeraEng.il" tvg-name="Aljazeera English" channel-id="AljazeeraEng.il" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",Al Jazeera America | HD 720p
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P8uMsMX.png" tvg-id="AljazeeraEng.il" tvg-name="Aljazeera English" channel-id="AljazeeraEng.il" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",Al Jazeera Arabic | HD 720p
 #EXTVLCOPT:network-caching=1000 
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P8uMsMX.png" tvg-id="AljazeeraEng.il" tvg-name="Aljazeera English" channel-id="AljazeeraEng.il" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",Al Jazeera Mubasher | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
 
 
 // AF: AFRICA
@@ -915,6 +938,9 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ARwmorS.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China TV" status="online",CGTN English | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 http://live.cgtn.com/1000/prog_index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YFV978I.png" tvg-id="CCTV9.uk" tvg-name="CGTN" channel-id="CCTV9.uk" channel-number="" tvc-guide-stationid="" tvg-country="UK" tvg-language="English" group-title="China TV" status="online",CGTN Espanol | HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -1182,6 +1208,10 @@ http://trn03.tulix.tv/teleup-nbc-wgal-new1/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/91xI3aK.png" tvg-id="WGBA.us" channel-id="WGBA.us" tvg-name="26 NBC|Green Bay WI (WGBA)"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="NBC TV" status="online",26 NBC|Green Bay WI (WGBA)| HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 
 // US: NEWSMAX 
 
@@ -1920,6 +1950,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 tvg-logo="https://imgur.com/J5syY55.png" tvg-id="AztecaUno.ho" tvg-name="Azteca Uno Honduras" channel-id="AztecaUno.ho" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="Mexico TV" status="online",Azteca Uno (XHJK-TDT)|HD Honduras 720p
 #EXTVLCOPT:network-caching=1000 
 http://190.122.96.187:8888/http/002
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XdgTv0D.png" tvg-id="AgrotendenciaTV.mx" tvg-name="AgrotendenciaTV" channel-id="AgrotendenciaTV.mx" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="Mexico TV" status="online",AgrotendenciaTV|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://inliveserver.com:1936/15506/15506/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mariavision.mx" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Maria-vision.jpg",Canal 34.5 Maria Visison | HD
 #EXTVLCOPT:network-caching=1000
@@ -2665,8 +2699,6 @@ http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uclr5AJ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="RU" tvg-language="Russian" group-title="Russian TV" status="online",Luxury|Russian HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-
-
 
 
 
