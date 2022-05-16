@@ -1959,16 +1959,6 @@ https://inliveserver.com:1936/15506/15506/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="CostaRica TV",Canal 36 AnexionTV | HD
 #EXTVLCOPT:network-caching=1000 
 http://rtmp.info:8081/anexiontv/envivo/index.m3u8
@@ -1976,10 +1966,6 @@ http://rtmp.info:8081/anexiontv/envivo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="CostaRica TV",Canal 38 | HD
 #EXTVLCOPT:network-caching=1000
 https://rtmp.info/canal38/envivo/chunks.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-id="TVLobo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XZ8GmZW.png" group-title="Local MX",Canal 46 TV Lobo DURANGO HD
 #EXTVLCOPT:network-caching=1000 
@@ -2114,16 +2100,14 @@ http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m
 
 // AR: ARGENTINA
 
-
-
-#EXTINF:-1 tvg-logo=".png" tvg-id="AmericaTV.ar" tvg-name="AmericaTV" channel-id="AmericaTV.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV" status="online",MusicTop Argentina | HD 720p
-#EXTVLCOPT:network-caching=1000 
-
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/VZam4ZS.png" tvg-id="Canal26.ar" tvg-name="Canal 26" channel-id="TCanal26.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV",Canal 26 Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=".png" tvg-id=".ar" tvg-name="" channel-id=".ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV",Canal Unicable | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://45.55.127.106/live/unicanal.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/e2X0SXu.png" tvg-id="MicrovisionArgentina.ar" tvg-name="Microvision TV" channel-id="MicrovisionArgentina.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Argentina TV",Microvision Argentina | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -2196,19 +2180,10 @@ https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 
-
-
-
-
-
-
-
 // BU: BULGARIA  
 
 #EXTINF:0 tvg-name="Bulgaria On Air" tvg-language="Bulgarian" tvg-country="BG" tvg-id="Bulgaria On Air" tvg-logo="http://www.predavatel.com/bg/tv/bulgariaonair.png" group-title="News",Bulgaria On Air (News) (BG) (Bulgarian)
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-
-
 
 // BR: BRAZIL  
 
@@ -2219,7 +2194,6 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fnOICwv.png" tvg-id=".br" tvg-name="Brasil" channel-id=".br" channel-number="" tvc-guide-stationid="" tvg-country="BR" tvg-language="Brazilian" group-title="Brasil TV" status="online",Canal 10 Rio Negro Brazil | HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-
 
 
 // CO: COLOMBIA
@@ -2233,11 +2207,7 @@ https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
 
-
-
 // CT: COSTA RICA
-
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VKBj741.png" tvg-id="canal8.cr" tvg-name="canal8.cr" channel-id="canal8.cr" channel-number="" tvc-guide-stationid="" tvg-country="CR" tvg-language="Spanish" group-title="CR TV" status="online",8.1 Canal Costa Rica|HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -2327,16 +2297,6 @@ http://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w47791226
 
 // ES: SPAIN 
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/qStjqiR.png" tvg-id="7LaRioja.es" channel-id="7LaRioja.es" tvg-name="" channel-number="" tvc-guide-stationid="" tvg-country="Spain" tvg-language="Spanish" group-title="Spain TV" status="online",7 La Rioja|HD 1080p
-#EXTVLCOPT:network-caching=1000 
-https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/5bs6AD4.png" tvg-id="Emporda.es" channel-id="Emporda.es" tvg-name="Emporda TV"  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",Emporda|HD 720p
-#EXTVLCOPT:network-caching=1000
-http://ventdelnord.tv:8080/escala/directe.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/lw3iEBf.png" tvg-id="la2.es" channel-id="la2.es" tvg-name="La2 RTVE"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",La2|HD 720p
 #EXTVLCOPT:network-caching=1000
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
@@ -2349,6 +2309,22 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTVLCOPT:network-caching=1000
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/wDtFcfA.png" tvg-id="telemasrid.es" channel-id=".es" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",TeleMadrid|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qStjqiR.png" tvg-id="7LaRioja.es" channel-id="7LaRioja.es" tvg-name="" channel-number="" tvc-guide-stationid="" tvg-country="Spain" tvg-language="Spanish" group-title="Spain TV" status="online",7 La Rioja|HD 1080p
+#EXTVLCOPT:network-caching=1000 
+https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5bs6AD4.png" tvg-id="Emporda.es" channel-id="Emporda.es" tvg-name="Emporda TV"  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",Emporda|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://ventdelnord.tv:8080/escala/directe.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/Uilmwkf.png" tvg-id="rtves24h.es" channel-id="rtves24h.es" tvg-name="Rtves24h"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",Rrtves24h|HD 720p
 #EXTVLCOPT:network-caching=1000
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
@@ -2357,11 +2333,6 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cAxcLeA.png" tvg-id="rtves24h.es" channel-id="rtves24h.es" tvg-name="Rtves24h"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",RTVE24h|HD 720p
 #EXTVLCOPT:network-caching=1000
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2m0j3Be.png" tvg-id="MTMAD.es" channel-id="MTMAD.es" tvg-name="MTMAD TV"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",MTMAD24h|HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -2414,8 +2385,6 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTVLCOPT:network-caching=1000
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/wj3V1a6.png" tvg-id="Lancelot TV" tvg-name="Lancelot TV" channel-id="Lancelot TV" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Canal Lancelot TV | HD 720p
 #EXTVLCOPT:network-caching=1000
 rtmp://62.210.141.18:1935/directo/lancelot.television
@@ -2449,8 +2418,6 @@ http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
-
-
 // HO: HONDURAS
 
 #EXTINF:-1 tvg-logo="https://imgur.com/L7NM3wC.png" tvg-id="TENTV.ar" tvg-name="MusicTop" channel-id="MusicTop.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Honduras Local TV" status="online",TEN TV Honduras | HD 720p
@@ -2473,7 +2440,50 @@ https://604bda2ac71ad.streamlock.net/TENHD/TENLive.smil/chunklist_w1571806234_b1
 #EXTVLCOPT:network-caching=1000 
 https://sofytv-samsungit.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/ZK2UAoz.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Spanish" group-title="ITALY TV" status="online",Carina TV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=".png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",Casa de SoleTV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://eu1.servers10.com:8081/8040/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/SrxpFLX.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",CASA-SANREMOTV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q9Bgz7l.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",Ciao USA | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://joe.livebox.co.in/iotieviTVhls/CIAOUSA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tLuEQPi.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",Cilento Channel | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://streaming.dimind.it/live/cilentocnn/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/FjCYdxm.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",Class CNBC | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YXUqiQW.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",CREMONA 1 | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://59d8c0cee6f3d.streamlock.net/cremona1/cremona1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/67JOLFa.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",Cusano Italia TV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQ5wthk.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",DI TV 90| HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://media2021.rtvweb.com/di_tv_90/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQ5wthk.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",DI TV 92| HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
 
 // HK: Hong Kong TV
 
@@ -5674,60 +5684,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b8
 
 #EXTINF:-1 group-title="GERMANY PLUTO" tvg-chno="260" tvg-id="5f0d668b872e4400073acc68" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" tvg-name="Totally Turtles nick",Totally Turtles nick
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
