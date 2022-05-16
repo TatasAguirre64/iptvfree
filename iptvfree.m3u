@@ -1515,6 +1515,24 @@ https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
 
 // MX: MEXICO TV 
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/k4cjoRW.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local",2.1 Las ESTRELLAS | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://38.123.205.70:8000/play/a0d4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KaX9F4H.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local",Canal 5.1 MX | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://38.123.205.70:8000/play/a0fl/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/42aIRdf.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local",Canal 6 MX | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://38.123.205.70:8000/play/a0bp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rdhFeh5.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local",Canal 7 TvAZTECA MX | HD 720p
+#EXTVLCOPT:network-caching=1000
+http://38.123.205.70:8000/play/a0fm/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local MX",Canal 1 TV | HD
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 #EXTVLCOPT:network-caching=1000
@@ -2309,21 +2327,62 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTVLCOPT:network-caching=1000
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/QfAPp9Q.png" tvg-id=".es" channel-id=".es" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",LA 7 CYLTV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/chunklist_b2200000.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/LO7aZwa.png" tvg-id=".es" channel-id=".es" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",LA 8 Leon|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ncyGL2.png" tvg-id="GaliciaAmerica.es" tvg-name="Galicia America" channel-id="GaliciaAmerica.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Galicia America|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/pNx2Dot.png" tvg-id="GaliciaInfantil.es" tvg-name="Galicia Infantil" channel-id="GaliciaInfantil.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Galicia Infantil|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2ncyGL2.png" tvg-id="GaliciaAmerica.es" tvg-name="Galicia America" channel-id="GaliciaAmerica.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",7 Galicia|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HxcfiiG.png" tvg-id="GaliciaEurope.es" channel-id="GaliciaEurope.es" tvg-name="Galicia Europe"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",Galicia Europe|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wDtFcfA.png" tvg-id="telemasrid.es" channel-id=".es" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",TeleMadrid|HD 720p
 #EXTVLCOPT:network-caching=1000
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9UtCX9G.png" tvg-id=".es" channel-id=".es" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",Canal CANARIA|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://rtvc-live1-rm.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5nnQE7V.png" tvg-id=".es" channel-id=".es" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",Canal ExtramaduraTV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/iApSoji.png" tvg-id=".es" channel-id=".es" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",TV3 CAT|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist_b1728000.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/syf0PQ3.png" tvg-id=".es" channel-id=".es" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",3/24 CAT|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1728000.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HyheDTu.png" tvg-id=".es" channel-id=".es" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",BonDiaTV |HD 720p
+#EXTVLCOPT:network-caching=1000
+https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b1728000.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qStjqiR.png" tvg-id="7LaRioja.es" channel-id="7LaRioja.es" tvg-name="" channel-number="" tvc-guide-stationid="" tvg-country="Spain" tvg-language="Spanish" group-title="Spain TV" status="online",7 La Rioja|HD 1080p
 #EXTVLCOPT:network-caching=1000 
 https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/5bs6AD4.png" tvg-id="Emporda.es" channel-id="Emporda.es" tvg-name="Emporda TV"  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",Emporda|HD 720p
 #EXTVLCOPT:network-caching=1000
 http://ventdelnord.tv:8080/escala/directe.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Uilmwkf.png" tvg-id="rtves24h.es" channel-id="rtves24h.es" tvg-name="Rtves24h"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",Rrtves24h|HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -2342,22 +2401,6 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/2ncyGL2.png" tvg-id="GaliciaAmerica.es" tvg-name="Galicia America" channel-id="GaliciaAmerica.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Galicia America|HD 720p
-#EXTVLCOPT:network-caching=1000
-http://america-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/pNx2Dot.png" tvg-id="GaliciaInfantil.es" tvg-name="Galicia Infantil" channel-id="GaliciaInfantil.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana Local",Galicia Infantil|HD 720p
-#EXTVLCOPT:network-caching=1000
-http://infantil-crtvg.flumotion.com/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/2ncyGL2.png" tvg-id="GaliciaAmerica.es" tvg-name="Galicia America" channel-id="GaliciaAmerica.es" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",7 Galicia|HD 720p
-#EXTVLCOPT:network-caching=1000
-http://america-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/HxcfiiG.png" tvg-id="GaliciaEurope.es" channel-id="GaliciaEurope.es" tvg-name="Galicia Europe"  channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",Galicia Europe|HD 720p
-#EXTVLCOPT:network-caching=1000
-http://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/DQCD69S.png" tvg-id="ETB1.es" channel-id="ETB1.es" tvg-name="ETB1" channel-number="" tvc-guide-stationid="" tvg-country="ES" tvg-language="Spanish" group-title="Espana TV",ETB1|HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -2709,6 +2752,9 @@ http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uclr5AJ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="RU" tvg-language="Russian" group-title="Russian TV" status="online",Luxury|Russian HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://nano.teleservice.su:8080/hls/luxury.m3u8
+
+
+
 
 
 
