@@ -1,7 +1,6 @@
 #EXTM3U url-tvg=https://bit.ly/3itZsSm
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml url-tvg=https://i.mjh.nz/PlutoTV/all.xml.gz
 
-
 US: USA VIP
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wbkCZXk.png" tvg-id="AMC.us" channel-id="AMC.us" tvg-name="AMC Presents"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMC East | HD 720p
@@ -63,6 +62,46 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3
 #EXTINF:-1 tvg-logo="https://imgur.com/IEBa47u.png" tvg-id="trutv.us" tvg-name="TRUTV US" channel-id="trutv.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",TruTV West | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+// US: UNIMAS
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x6uxE7v.png" tvg-id="Unimas.us" tvg-name="Unimas NewYork" channel-id="Unimas.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Unimas TV" status="online",Unimas New York | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://v-ny.theus6tv.tk/hls/68.1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XLVQETf.png" tvg-id="Unimas.us" tvg-name="Unimas East" channel-id="Unimas.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Unimas TV" status="online",Unimas East | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://dai.google.com/linear/hls/event/D8RY01WsRv6SMK6X3AoWAg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0hQmE6j.png" tvg-id="Unimas.us" tvg-name="Unimas East" channel-id="Unimas.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Unimas TV" status="online",Unimas West | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://dai.google.com/linear/hls/event/fQCAqHLkSPeYW0FmDm7aOQ/master.m3u8
+
+
+// US: UNIVISION
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fL0NkyF.png" tvg-id="Univision.us" tvg-name="Univision " channel-id="Univision.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Unimas TV" status="online",41 Univision New York (WXTV-DT1)| HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VwWCs5Y.png" tvg-id="Univision.us" tvg-name="Univision San Francisco CA (KDTVDT1" channel-id="Univision.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Unimas TV" status="online",Univision San Francisco CA(KDTVDT1) | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://dai.google.com/linear/hls/event/lTSACKfkQNSrCSBM_hE-mg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EcWlF1a.png" tvg-id="Univision.us" tvg-name="Univision East" channel-id="Univision.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Unimas TV" status="online",Univision East | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://dai.google.com/linear/hls/event/pa2-p-dKTaCqDOi0eFyHXw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OnhJONV.png" tvg-id="Univision.us" tvg-name="Univision West" channel-id="Univision.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Unimas TV" status="online",Univision West | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://dai.google.com/linear/hls/event/OB8_g3B_Th2LAr1AVmM4Mw/master.m3u8
+
+
+
+
+
+
 
 
 
@@ -1075,6 +1114,56 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 
+
+// US: GLOBAL NEWS
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s8nBDif.png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",GlobalNews|English HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EStqEPG.png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",GlobalBC|English HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vRuKrPW.png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",Global|CALGARY HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wOdP3Gi.png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",Global|HALIFAXC HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yKIyHge.png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",Global|KINGSTON HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s8nBDif.png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",GlobalNews|Montreal HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/haQB338.png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",Global|PETERBOROUGH HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zfvcL96.png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",GlobalNews|REGINA HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RVurSJB.png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",Global|SASKATOON HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DKyQA33.png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",Global|WINNIPEG HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",Global| HD 720p
+#EXTVLCOPT:network-caching=1000 
+
+
+
 // US: HSN Network
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wjHLMjN.png" tvg-id="HSN.us" channel-id="HSN.us" tvg-name="HSN Channel"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Local",HSN TV | HD 720p
@@ -1366,39 +1455,7 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-// US: UNIMAS
 
-#EXTINF:-1 tvg-logo="https://imgur.com/x6uxE7v.png" tvg-id="Unimas.us" tvg-name="Unimas NewYork" channel-id="Unimas.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Unimas TV" status="online",Unimas New York | HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://v-ny.theus6tv.tk/hls/68.1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/XLVQETf.png" tvg-id="Unimas.us" tvg-name="Unimas East" channel-id="Unimas.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Unimas TV" status="online",Unimas East | HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://dai.google.com/linear/hls/event/D8RY01WsRv6SMK6X3AoWAg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/0hQmE6j.png" tvg-id="Unimas.us" tvg-name="Unimas East" channel-id="Unimas.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Unimas TV" status="online",Unimas West | HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://dai.google.com/linear/hls/event/fQCAqHLkSPeYW0FmDm7aOQ/master.m3u8
-
-
-// US: UNIVISION
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/fL0NkyF.png" tvg-id="Univision.us" tvg-name="Univision " channel-id="Univision.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Unimas TV" status="online",41 Univision New York (WXTV-DT1)| HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/VwWCs5Y.png" tvg-id="Univision.us" tvg-name="Univision San Francisco CA (KDTVDT1" channel-id="Univision.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Unimas TV" status="online",Univision San Francisco CA(KDTVDT1) | HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://dai.google.com/linear/hls/event/lTSACKfkQNSrCSBM_hE-mg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/EcWlF1a.png" tvg-id="Univision.us" tvg-name="Univision East" channel-id="Univision.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Unimas TV" status="online",Univision East | HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://dai.google.com/linear/hls/event/pa2-p-dKTaCqDOi0eFyHXw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/OnhJONV.png" tvg-id="Univision.us" tvg-name="Univision West" channel-id="Univision.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Unimas TV" status="online",Univision West | HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://dai.google.com/linear/hls/event/OB8_g3B_Th2LAr1AVmM4Mw/master.m3u8
 
 
 
@@ -2752,9 +2809,6 @@ http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uclr5AJ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="RU" tvg-language="Russian" group-title="Russian TV" status="online",Luxury|Russian HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-
-
-
 
 
 
@@ -5730,31 +5784,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b8
 
 #EXTINF:-1 group-title="GERMANY PLUTO" tvg-chno="260" tvg-id="5f0d668b872e4400073acc68" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" tvg-name="Totally Turtles nick",Totally Turtles nick
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
