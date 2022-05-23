@@ -1,7 +1,6 @@
 #EXTM3U url-tvg=https://bit.ly/3itZsSm
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml url-tvg=https://i.mjh.nz/PlutoTV/all.xml.gz
 
-
 US: USA VIP
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wbkCZXk.png" tvg-id="AMC.us" channel-id="AMC.us" tvg-name="AMC Presents"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMC East | HD 720p
@@ -1627,27 +1626,36 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
 // US: Mcvies Channels
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4SxMG9Q.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Movies
-",CRACKLE|HD Plex 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/4SxMG9Q.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Movies",CRACKLE|HD Plex 720p
 #EXTVLCOPT:network-caching=1000
 https://crackle-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4SxMG9Q.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Movies
-",CRACKLE|HD XUMO 1080p
+#EXTINF:-1 tvg-logo="https://imgur.com/4SxMG9Q.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Movies",CRACKLE|HD XUMO 1080p
 #EXTVLCOPT:network-caching=1000
 http://crackle-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/RUOydJh.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Movies
-",CinemaWorld|HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/RUOydJh.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Movies",CinemaWorld|HD 720p
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/dr9445/h/h04/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OfSifKV.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Movies
-",CineVault 80s|HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/OfSifKV.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Movies",CineVault 80s|HD 720p
 #EXTVLCOPT:network-caching=1000
 https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 
+// MX: LATINO
+
+#EXTINF:-1 tvg-id="Estrella.com" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="Local MX",Canal ESTRELLATV | HD
+#EXTVLCOPT:network-caching=1000
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cuba.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUBZWmnvvLD8xUk5NHBwR3VlOYLPNJFM7keeBpyqq2AqkghQym5Ji2EzBDvJ3KEV482k&usqp=CAU" tvg-country="CU" tvg-language="Spanish" group-title="CUBA TV",CUBA Internacional | HD
+#EXTVLCOPT:network-caching=1000
+http://190.122.96.187:8888/http/010
+
+#EXTINF:-1 tvg-logo="https://imgur.com/J1SssC8.png" tvg-id="GaracheTV.mx" channel-id="GaracheTV.mx" tvg-name="Garache TV"  channel-number="9.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",Garage TV | HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
 
 
 
@@ -2237,19 +2245,6 @@ https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
 
 
-// MX: LATINO
-
-#EXTINF:-1 tvg-id="Estrella.com" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="Local MX",Canal ESTRELLATV | HD
-#EXTVLCOPT:network-caching=1000
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="cuba.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUBZWmnvvLD8xUk5NHBwR3VlOYLPNJFM7keeBpyqq2AqkghQym5Ji2EzBDvJ3KEV482k&usqp=CAU" tvg-country="CU" tvg-language="Spanish" group-title="CUBA TV",CUBA Internacional | HD
-#EXTVLCOPT:network-caching=1000
-http://190.122.96.187:8888/http/010
-
-#EXTINF:-1 tvg-logo="https://imgur.com/J1SssC8.png" tvg-id="GaracheTV.mx" channel-id="GaracheTV.mx" tvg-name="Garache TV"  channel-number="9.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",Garage TV | HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
 
 
 
@@ -2894,10 +2889,6 @@ http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uclr5AJ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="RU" tvg-language="Russian" group-title="Russian TV" status="online",Luxury|Russian HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-
-
-
-
 
 
 
