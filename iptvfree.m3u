@@ -1,6 +1,7 @@
 #EXTM3U url-tvg=https://bit.ly/3itZsSm
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml url-tvg=https://i.mjh.nz/PlutoTV/all.xml.gz
 
+
 US: USA VIP
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wbkCZXk.png" tvg-id="AMC.us" channel-id="AMC.us" tvg-name="AMC Presents"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMC East | HD 720p
@@ -579,6 +580,10 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 #EXTVLCOPT:network-caching=1000
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/JTsnPqc.png" tvg-id="Aniplus.ar" tvg-name="AniPlus" channel-id="Aniplus.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",Gulli|French HD 720p
+#EXTVLCOPT:network-caching=1000
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/tZICtEX.png" tvg-id="EnerGeek.mx" tvg-name="EnerGeek" channel-id="EnerGeek.mx" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",Canal EnerGeek | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
@@ -1086,6 +1091,19 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w798871553.m3u8
 
 
+// US: FilmRise Xumo
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KlvejFf.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="FilmRise USA",Film Hub|HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="FilmRise USA",Film Hub|HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+
+
+
 // US: FOX 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/iF68eRi.png" tvg-id="Fox26.us" tvg-name="Fox 26" channel-id="Fox26.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",26.1 Fox26 Houston | HD 720p
@@ -1591,6 +1609,11 @@ https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
 
 
 
+// US: Doumentary Channels
+#EXTINF:-1 tvg-logo="https://imgur.com/KrdF9BI.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Documentaries",Dust TV|HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
+
 // MX: Mcvies Channels
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9Z6OoLv.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local",Cine Romantico|HD 720p
@@ -1604,10 +1627,26 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
 // US: Mcvies Channels
 
+#EXTINF:-1 tvg-logo="https://imgur.com/4SxMG9Q.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Movies
+",CRACKLE|HD Plex 720p
+#EXTVLCOPT:network-caching=1000
+https://crackle-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4SxMG9Q.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Movies
+",CRACKLE|HD XUMO 1080p
+#EXTVLCOPT:network-caching=1000
+http://crackle-xumo.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/RUOydJh.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Movies
 ",CinemaWorld|HD 720p
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/dr9445/h/h04/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OfSifKV.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Movies
+",CineVault 80s|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 
 
 
@@ -2373,6 +2412,11 @@ https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2
 
 // RD: REPUBLICA DOMINICANA
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/S37h2ZF.png" tvg-id=".do" channel-id=".do" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",Canal 19 Dominicana|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/Ovznd85.png" tvg-id="Romanatv.do" channel-id="Romanatv.do" tvg-name="Romana TV"  channel-number="" tvc-guide-stationid="" tvg-country="DO" tvg-language="Spanish" group-title="RD Local",Romana Tv | HD 720p
 #EXTVLCOPT:network-caching=1000
 http://tv.romanatv42.com/hls/live.m3u8
@@ -2850,6 +2894,7 @@ http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uclr5AJ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="RU" tvg-language="Russian" group-title="Russian TV" status="online",Luxury|Russian HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://nano.teleservice.su:8080/hls/luxury.m3u8
+
 
 
 
