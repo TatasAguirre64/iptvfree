@@ -1,6 +1,7 @@
 #EXTM3U url-tvg=https://bit.ly/3itZsSm
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml url-tvg=https://i.mjh.nz/PlutoTV/all.xml.gz
 
+
 US: USA VIP
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wbkCZXk.png" tvg-id="AMC.us" channel-id="AMC.us" tvg-name="AMC Presents"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMC East | HD 720p
@@ -50,6 +51,9 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/bFrJb6D.png" tvg-id="VH1.us" tvg-name="VH1" channel-id="VH1.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",VH1 Italy|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Wk6jDhR.png" tvg-id="TelemundoChicago.us" channel-id="TelemundoChicago.us" tvg-name="44.1 Telemundo Chicago"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",44.1 Telemundo (WSNS)| Chicago HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -217,9 +221,7 @@ https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/61839
 #EXTVLCOPT:network-caching=1000
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/bFrJb6D.png" tvg-id="VH1.us" tvg-name="VH1" channel-id="VH1.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",VH1 | HD 720p
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/1yEz0eD.png" tvg-id="WGNDT1.us" channel-id="WGNDT1.us" tvg-name="WGN Chicago IL (WGN-TV1)"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS TV" status="online",WGN Chicago IL (WGN-TV1)| HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -770,20 +772,20 @@ https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8
 // US: ALJAZEERA 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/N7atHBw.png" tvg-id="AljazeeraEng.il" tvg-name="Aljazeera English" channel-id="AljazeeraEng.il" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",Al Jazeera English | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/N7atHBw.png" tvg-id="AljazeeraEng.il" tvg-name="Aljazeera English" channel-id="AljazeeraEng.il" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Arabic TV" status="online",Al Jazeera English | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/P8uMsMX.png" tvg-id="AljazeeraEng.il" tvg-name="Aljazeera English" channel-id="AljazeeraEng.il" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",Al Jazeera America | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/P8uMsMX.png" tvg-id="AljazeeraEng.il" tvg-name="Aljazeera English" channel-id="AljazeeraEng.il" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Arabic TV" status="online",Al Jazeera America | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/P8uMsMX.png" tvg-id="AljazeeraEng.il" tvg-name="Aljazeera English" channel-id="AljazeeraEng.il" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",Al Jazeera Arabic | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/P8uMsMX.png" tvg-id="AljazeeraEng.il" tvg-name="Aljazeera English" channel-id="AljazeeraEng.il" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Arabic TV" status="online",Al Jazeera Arabic | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/P8uMsMX.png" tvg-id="AljazeeraEng.il" tvg-name="Aljazeera English" channel-id="AljazeeraEng.il" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="ABC TV" status="online",Al Jazeera Mubasher | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/P8uMsMX.png" tvg-id="AljazeeraEng.il" tvg-name="Aljazeera English" channel-id="AljazeeraEng.il" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Arabic TV" status="online",Al Jazeera Mubasher | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
@@ -1608,6 +1610,9 @@ https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
 
 
 
+
+
+
 // US: Doumentary Channels
 #EXTINF:-1 tvg-logo="https://imgur.com/KrdF9BI.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="Documentaries",Dust TV|HD 1080p
 #EXTVLCOPT:network-caching=1000
@@ -2307,22 +2312,66 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
+
+
+// GE:Germany/ALEMANIA
+
+
+
+
 // AR: ARMENIA
 
 #EXTINF:-1 tvg-logo="https://imgur.com/q8kHLro.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AM" tvg-language="" group-title="Armenia TV" status="online",21HD|Armenia HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://ott-cdn.ucom.am/s10/index.m3u8
 
+
+// AU: AUSTRIA
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0vJ9wQ1.png" tvg-id="1mus.com" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="Austraic" group-title="Music TV" status="online",1Mus|HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UT22Nb4.png" tvg-id="OE24.AT" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="Austraic" group-title="AUSTRIA TV" status="online",OE24.tv|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/63EcX9P.png" tvg-id="W34.AT" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="Austriac" group-title="AUSTRIA TV" status="online",W24|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/CrNtGhI.png" tvg-id="RTV.AT" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="Austriac" group-title="AUSTRIA TV" status="online",RTV|HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://iptv.rtv-ooe.at/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OUffRAZ.png" tvg-id="R9.AT" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="Austriac" group-title="AUSTRIA TV" status="online",R9 Osterreich|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+
+
 // AU: AUSTRALIA
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OcmL4x0.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="Spanish" group-title="Australia TV",ABC NEWS | HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/OcmL4x0.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="Spanish" group-title="Australia TV",ABC|NEWS  HD 720p
 #EXTVLCOPT:network-caching=1000
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/PeifUHW.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="Spanish" group-title="Australia TV",ABC 90|NEWS HD 720p
+#EXTVLCOPT:network-caching=1000
+https://c.mjh.nz/101002210221/
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P1grHIn.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="Spanish" group-title="Australia TV",ABC|ME HD 720p
+#EXTVLCOPT:network-caching=1000
+https://c.mjh.nz/101002210224/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KfJ1B81.png" tvg-id="" tvg-name="C31 Melbourne" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="Spanish" group-title="Australia TV",C31 Melbourne | HD 720p
 #EXTVLCOPT:network-caching=1000
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+
+
 
 // AB: ARABIA
 
@@ -2616,6 +2665,10 @@ https://604bda2ac71ad.streamlock.net/TENHD/TENLive.smil/chunklist_w1571806234_b1
 
 // IT: ITALY
 
+#EXTINF:-1 tvg-logo="https://imgur.com/PTEg7si.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",RDS SOCIALTV| HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/OJBoepI.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Spanish" group-title="ITALY TV" status="online",SofyTV | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://sofytv-samsungit.amagi.tv/playlist.m3u8
@@ -2889,11 +2942,6 @@ http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uclr5AJ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="RU" tvg-language="Russian" group-title="Russian TV" status="online",Luxury|Russian HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-
-
-
-
-
 
 
 
