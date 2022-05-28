@@ -6,6 +6,15 @@
 
 US: USA VIP
 
+#EXTINF:-1 tvg-logo="https://imgur.com/lH0u4Yp.png" tvg-id="ESPN.us" channel-id="ESPN.us" tvg-name="Espn Sec Network"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Espn Sec Network| HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/32382
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wEaTomx.png" tvg-id="sundance.us" channel-id="sundance.us" tvg-name="Sundance"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",SUNDANCE|HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/676927
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/wbkCZXk.png" tvg-id="AMC.us" channel-id="AMC.us" tvg-name="AMC Presents"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMC East | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
@@ -55,6 +64,7 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jg2WGvJ.png" group-title="Cartoon Netwok",Cartoon Network
+https://imgur.com/jg2WGvJ.png
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gJHgp46.png" tvg-id="CartoonNetwork.us" channel-id="CartoonNetwork.us" tvg-name="CartoonNetwork.us"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",CN CartoonNetwork|HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -1105,6 +1115,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_500
 
 // FR: FRANCE TV
 
+
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/26rw0Cs.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="English" group-title="France TV" status="online",1 Notele | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
@@ -1147,11 +1160,11 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/s8nBDif.png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",GlobalNews|English HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/s8nBDif.png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",Global|NEWS HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EStqEPG.png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",GlobalBC|English HD 720p
+#EXTINF:-1 tvg-logo="https://imgur.com/EStqEPG.png" tvg-id="GlobalNews.ca" tvg-name="Global News" channel-id="GlobalNews.ca" channel-number="" tvc-guide-stationid="" tvg-country="CA" tvg-language="English" group-title="Canada TV" status="online",Global|BC HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 
@@ -2417,6 +2430,12 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1e3XH50.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="FR" tvg-language="French" group-title="France TV" status="online",Tele Quebec|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_0/chunklist.m3u8
+
+
 // CO: COLOMBIA
 
 #EXTINF:-1 tvg-logo="https://imgur.com/7oL1Cyb.png" tvg-id="CCapital.co" channel-id="CCapital.co" tvg-name="Canal Capital Colombia TV"  channel-number="" tvc-guide-stationid="" tvg-country="CO" tvg-language="Spanish" group-title="CO Local" status="online",Canal Capital Colombia TV| HD 720p
@@ -3000,6 +3019,8 @@ http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uclr5AJ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="RU" tvg-language="Russian" group-title="Russian TV" status="online",Luxury|Russian HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://nano.teleservice.su:8080/hls/luxury.m3u8
+
+
 
 
 
