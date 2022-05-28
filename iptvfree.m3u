@@ -6,6 +6,11 @@
 
 US: USA VIP
 
+#EXTINF:-1 tvg-logo="https://imgur.com/oyJEIIM.png" tvg-id="hbo.us" channel-id="hbo.us" tvg-name="HBO"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",HBO|HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://168.90.221.3:8000/play/a024/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/lH0u4Yp.png" tvg-id="ESPN.us" channel-id="ESPN.us" tvg-name="Espn Sec Network"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Espn Sec Network| HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/32382
@@ -615,6 +620,13 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 
 // ANIME: ANIME TV
 
+#EXTINF:-1 tvg-logo="https://imgur.com/5m1VX4S.png" tvg-id="CONTV.US" tvg-name="ConTV" channel-id="ConTV.us" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",CONTV Anime|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://contvanime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5m1VX4S.png" tvg-id="CONTV.US" tvg-name="ConTV" channel-id="ConTV.us" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",CONTV Anime|HD 1080p
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uLQagA5.png" tvg-id="Aniplus.ar" tvg-name="AniPlus" channel-id="Aniplus.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",AR:Canal AniPlus TV | HD 720p
 #EXTVLCOPT:network-caching=1000
