@@ -6,11 +6,6 @@
 
 US: USA VIP
 
-#EXTINF:-1 tvg-logo="https://imgur.com/oyJEIIM.png" tvg-id="hbo.us" channel-id="hbo.us" tvg-name="HBO"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",HBO|HD 720p
-#EXTVLCOPT:network-caching=1000 
-http://168.90.221.3:8000/play/a024/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/lH0u4Yp.png" tvg-id="ESPN.us" channel-id="ESPN.us" tvg-name="Espn Sec Network"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Espn Sec Network| HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/32382
@@ -18,6 +13,16 @@ http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/32382
 #EXTINF:-1 tvg-logo="https://imgur.com/wEaTomx.png" tvg-id="sundance.us" channel-id="sundance.us" tvg-name="Sundance"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",SUNDANCE|HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/676927
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oyJEIIM.png" tvg-id="hbo.us" channel-id="hbo.us" tvg-name="HBO"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",HBO|HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://168.90.221.3:8000/play/a024/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BSyoVGF.png" tvg-id="BEIN.us" channel-id="BEIN.us" tvg-name="BEIN Movies"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",BEINMovies|HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://2793ab0b.rossteleccom.net/iptv/ZM82R8Q56CA5D9/6877/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wbkCZXk.png" tvg-id="AMC.us" channel-id="AMC.us" tvg-name="AMC Presents"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",AMC East | HD 720p
@@ -62,11 +67,33 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3
 #EXTVLCOPT:network-caching=1000
 https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sgvQzH0.png" tvg-id=".us" tvg-name="Hallmark Movies and More HD" channel-id="TBSWest.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",Hallmark Movies and More|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/bFrJb6D.png" tvg-id="VH1.us" tvg-name="VH1" channel-id="VH1.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",VH1 Italy|HD 720p
 #EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/1IeD0uo.png" tvg-id="cmt.us" tvg-name="CMT Music" channel-id="CMT.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",CMT Music|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dgSTCcc.png" tvg-id="mtv.us" tvg-name="MTV Russia" channel-id="MTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",MTV Russia|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EpzVunn.png" tvg-id="mtv.us" tvg-name="MTV Russia" channel-id="MTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",MTV|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://190.60.37.69:8015/play/a00j/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="mtv.us" tvg-name="Mtv Le" channel-id="MTV.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",MTV Lebanon|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://clvod.itworkscdn.net/mtvvod/smil:itwfcdn/mtvlebanon/1140335-WL1815w9C601Qf6.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jg2WGvJ.png" group-title="Cartoon Netwok",Cartoon Network
 https://imgur.com/jg2WGvJ.png
@@ -632,6 +659,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.
 #EXTVLCOPT:network-caching=1000
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/JTsnPqc.png" tvg-id="Aniplus.ar" tvg-name="AniPlus" channel-id="Aniplus.ar" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",Gulli|French HD 720p
 #EXTVLCOPT:network-caching=1000
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
@@ -935,6 +963,12 @@ http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
 #EXTVLCOPT:network-caching=1000 
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/0Ykj22k.png" tvg-id="wusa9.us" channel-id="" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS TV" status="online",CBS 9|Washington (WUSA)|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/9Tq2b3C.png" tvg-id="3WFORDT1.us" channel-id="WFORDT1.us" tvg-name="CBS (WFOR-DT1)"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CBS TV" status="online",CBS (WFOR-DT1) Miami FL | HD 1080p
 #EXTVLCOPT:network-caching=1000 
 http://38.127.211.18/live/c2eds/CBS/HLS/index.m3u8
@@ -963,6 +997,16 @@ https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/5a90193
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 
 // US: CNN
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zqvxDM6.png" tvg-id="CNN.US" tvg-name="" channel-id="CNN.US" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CNN TV" status="online",CNN|HD 480p
+#EXTVLCOPT:network-caching=1000 
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zqvxDM6.png" tvg-id="CNN.US" tvg-name="" channel-id="CNN.US" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="CNN TV" status="online",CNN|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Cnn.com" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="CNN TV",CNN Internacional | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -3031,6 +3075,7 @@ http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uclr5AJ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="RU" tvg-language="Russian" group-title="Russian TV" status="online",Luxury|Russian HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://nano.teleservice.su:8080/hls/luxury.m3u8
+
 
 
 
