@@ -2916,10 +2916,14 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 
 // MX: MIAMI TV
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/TpWfOZt.png" tvg-id="" channel-id="" tvg-name=""  channel-number="9.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",Miami TV Mexico | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/nLlUl2i.png" tvg-id="" channel-id="" tvg-name=""  channel-number="9.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="Spanish" group-title="MX Local" status="online",Miami City TV|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8
 
 
 
