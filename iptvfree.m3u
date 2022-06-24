@@ -387,7 +387,17 @@ http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
 
 // US:  Movies Cinema
 
+#EXTINF:-1 tvg-logo="https://imgur.com/hhAgRj7.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Superman|1978 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/Superman1978/Superman%201978.mp4
 
+#EXTINF:-1 tvg-logo="https://imgur.com/t9SgQoW.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Escape del Planeta de Los Simios|1971 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/13Fantasmas2001720pDubladoAlan680/A.Fuga.do.Planeta.dos.Macacos.1971.1080p-WOLVERDONFILMES.COM.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NrYlI1e.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Cold Sweat|1978 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/cold_sweat.avi/Cold_Sweat_512kb.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/DuTNZXO.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Jumanji|1995 HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://archive.org/download/Jumanji.1995.720p.BrRip.x264.YIFY/Jumanji.1995.720p.BrRip.x264.YIFY.mp4
