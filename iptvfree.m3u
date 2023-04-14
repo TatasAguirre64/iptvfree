@@ -10,6 +10,13 @@ US: USA VIP
 #EXTVLCOPT:network-caching=1000 
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/32382
 
+#EXTINF:-1 tvg-logo="https://imgur.com/hApN1Js.png" tvg-id="KCWX.us" channel-id="KCWX.us" tvg-name="KCWX Texas "  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",KCWX Texas| HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/wEaTomx.png" tvg-id="sundance.us" channel-id="sundance.us" tvg-name="Sundance"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",SUNDANCE|HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/676927
@@ -99,6 +106,7 @@ https://clvod.itworkscdn.net/mtvvod/smil:itwfcdn/mtvlebanon/1140335-WL1815w9C601
 https://imgur.com/jg2WGvJ.png
 
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/jg2WGvJ.png" tvg-id="CartoonNetwork.us" channel-id="CartoonNetwork.us" tvg-name="CartoonNetwork.us"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",CN CartoonNetwork|HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://tve-live-lln.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
@@ -115,6 +123,14 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/jg2WGvJ.png" tvg-id="CartoonNetwork.us" channel-id="CartoonNetwork.us" tvg-name="CartoonNetwork.us"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",CN CartoonNetwork|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+
+
+
+
+
 // US: ION PLus
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tjS60Hd.png" tvg-id="IONPlus.us" tvg-name="ION Plus" channel-id="IONPlus.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",ION Plus | HD 720p
@@ -124,6 +140,113 @@ https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6pFvdXP.png" tvg-id="IONPlus.us" tvg-name="ION Plus" channel-id="IONPlus.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",ION Plus | HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+
+
+// US:  Movies Cinema
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hhAgRj7.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Superman|1978 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/Superman1978/Superman%201978.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t9SgQoW.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Escape del Planeta de Los Simios|1971 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/13Fantasmas2001720pDubladoAlan680/A.Fuga.do.Planeta.dos.Macacos.1971.1080p-WOLVERDONFILMES.COM.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NrYlI1e.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Cold Sweat|1978 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/cold_sweat.avi/Cold_Sweat_512kb.mp4
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DuTNZXO.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Jumanji|1995 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/Jumanji.1995.720p.BrRip.x264.YIFY/Jumanji.1995.720p.BrRip.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lD5G7Ls.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Theodoro Rex|1995 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/Theodore_Rex_1995_Full_Movie/Theodore_Rex_1995_Full_Movie-Uns80N3aF34.mp4
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Gx4wikX.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",The Exorcism of Emily Rose|2005 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DW4JL0F.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Almost Christmas|2016 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zor6lJL.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Rules Dont Apply|2016 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/h6rAA8H.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Men of Honor|2000 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RyKHu10.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Home|2015 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUjM3g6.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Pup|2013 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ODJPZHW.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Pup|2013 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/J4gVy9D.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Robotix|1985 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/RobotixTheMovie1985/Robotix%20%20The%20Movie%20(1985).mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/J1ddC4P.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Defenders of Space|1984 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/DefendersOfSpace/Defenders_of_space_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/edOMVUq.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Space Thunders Kids|1984 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/SpaceThunderKids/SpaceThunderKidsDIVX_512kb.mp4
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NGCqMTQ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Protectors of The Universe|1984 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/protectors_of_the_universe_korean_animation/korean_animation_protectors_of_the_universe_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/cBI9H6O.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Setp UP|2006 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VO9yQAg.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Elephants Dream|2006 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/uLTxHlN.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Children of Men|2006 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/ChildrenOfMen20061080pX26510bitJoy/Children%20of%20Men%202006%20(1080p%20x265%2010bit%20Joy).mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Uqvu4pt.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",The Transporter Refueled|2015 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/n9nRJ2X.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Buck Wild|2014 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/uY76Akn.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Free Fall|2014 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/7MfMDaQ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Cousin Bette|1998 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/CousinBette1998DVDRipiwanttobelieveinaj/Cousin%20Bette%20%281998%29%20DVDRip%20%5Biwanttobelieveinaj%5D.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/y4ebWBC.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Animal Nortunal|2016 HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://archive.org/download/NocturnalAnimals20161080pRemux/Nocturnal%20Animals%20(2016)%201080p%20Remux.mp4
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bEuaNHC.png" tvg-id="courttv.us" tvg-name="CourtTV" channel-id="Courttv.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",CourtTV|HD 720p
@@ -366,11 +489,13 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x43
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
 
+#EXTINF:-1 tvg-logo=".png" tvg-id="" channel-id="" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",The Design Network|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo=".png" tvg-id="" channel-id="" tvg-name=""  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",The Film Detective|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/mKBQvlu.png" tvg-id="Beachtv.us"  tvg-country="US" tvg-language="English" group-title="USA Cable",BeachTV I | HD 720p
 #EXTVLCOPT:network-caching=1000
@@ -385,98 +510,7 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
 
-// US:  Movies Cinema
 
-#EXTINF:-1 tvg-logo="https://imgur.com/hhAgRj7.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Superman|1978 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/Superman1978/Superman%201978.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/t9SgQoW.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Escape del Planeta de Los Simios|1971 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/13Fantasmas2001720pDubladoAlan680/A.Fuga.do.Planeta.dos.Macacos.1971.1080p-WOLVERDONFILMES.COM.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/NrYlI1e.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Cold Sweat|1978 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/cold_sweat.avi/Cold_Sweat_512kb.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/DuTNZXO.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Jumanji|1995 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/Jumanji.1995.720p.BrRip.x264.YIFY/Jumanji.1995.720p.BrRip.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/lD5G7Ls.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Theodoro Rex|1995 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/Theodore_Rex_1995_Full_Movie/Theodore_Rex_1995_Full_Movie-Uns80N3aF34.mp4
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Gx4wikX.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",The Exorcism of Emily Rose|2005 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/DW4JL0F.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Almost Christmas|2016 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/zor6lJL.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Rules Dont Apply|2016 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/h6rAA8H.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Men of Honor|2000 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/RyKHu10.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Home|2015 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/hUjM3g6.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Pup|2013 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/ODJPZHW.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Pup|2013 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/J4gVy9D.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Robotix|1985 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/RobotixTheMovie1985/Robotix%20%20The%20Movie%20(1985).mp4
-
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/cBI9H6O.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Setp UP|2006 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/VO9yQAg.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Elephants Dream|2006 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/uLTxHlN.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Children of Men|2006 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/ChildrenOfMen20061080pX26510bitJoy/Children%20of%20Men%202006%20(1080p%20x265%2010bit%20Joy).mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Uqvu4pt.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",The Transporter Refueled|2015 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/n9nRJ2X.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Buck Wild|2014 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/uY76Akn.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Free Fall|2014 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/7MfMDaQ.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Cousin Bette|1998 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/CousinBette1998DVDRipiwanttobelieveinaj/Cousin%20Bette%20%281998%29%20DVDRip%20%5Biwanttobelieveinaj%5D.mp4
-
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/y4ebWBC.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Animal Nortunal|2016 HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://archive.org/download/NocturnalAnimals20161080pRemux/Nocturnal%20Animals%20(2016)%201080p%20Remux.mp4
 
 // ANIME: ANIME TV
 
@@ -487,6 +521,52 @@ https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9lXjlYF.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="ENGLISH" group-title="Anime TV",ABC Kids Australia|HD 720p
 #EXTVLCOPT:network-caching=1000
 https://c.mjh.nz/101002210222/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Dqa0I4A.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="ENGLISH" group-title="Anime TV",Akaram Kids|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/iWNqxmd.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="ENGLISH" group-title="Anime TV",Cocoro TV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bEYOguO.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="ENGLISH" group-title="Anime TV",Country Boy Kids TV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="ENGLISH" group-title="Anime TV",FGTV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="ENGLISH" group-title="Anime TV",FireMan TV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="ENGLISH" group-title="Anime TV",HappyKids TV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="ENGLISH" group-title="Anime TV",KidsFlix TV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="ENGLISH" group-title="Anime TV",KinderTV|HD 720p
+#EXTVLCOPT:network-caching=1000
+http://autopilot.catcast.tv/content/38144/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/SrLCChP.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="ENGLISH" group-title="Anime TV",Batery Pop TV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kgTCvbP.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="ENGLISH" group-title="Anime TV",Camp Spoopy TV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/I7cAZik.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="AU" tvg-language="ENGLISH" group-title="Anime TV",Kabillion TV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5m1VX4S.png" tvg-id="CONTV.US" tvg-name="ConTV" channel-id="ConTV.us" channel-number="" tvc-guide-stationid="" tvg-country="AR" tvg-language="Spanish" group-title="Anime TV",CONTV Anime|HD 720p
@@ -2937,6 +3017,23 @@ https://604bda2ac71ad.streamlock.net/TENHD/TENLive.smil/chunklist_w1571806234_b1
 
 
 // IT: ITALY
+
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",| HD 720p
+#EXTVLCOPT:network-caching=1000 
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/gkhItoj.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",AB Channel| HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/FWx41ow.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",51 Radio TV|HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/I3DLcei.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",12 TV Parma|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PTEg7si.png" tvg-id="" tvg-name="" channel-id="" channel-number="" tvc-guide-stationid="" tvg-country="IT" tvg-language="Italian" group-title="ITALY TV" status="online",RDS SOCIALTV| HD 720p
 #EXTVLCOPT:network-caching=1000 
