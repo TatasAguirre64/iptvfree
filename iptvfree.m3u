@@ -6,6 +6,11 @@
 
 US: USA VIP
 
+#EXTINF:-1 tvg-logo="https://imgur.com/hApN1Js.png" tvg-id="KCWX.us" channel-id="KCWX.us" tvg-name="KCWX Texas "  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",KCWX Texas| HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/lH0u4Yp.png" tvg-id="ESPN.us" channel-id="ESPN.us" tvg-name="Espn Sec Network"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Espn Sec Network| HD 720p
 #EXTVLCOPT:network-caching=1000 
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/32382
