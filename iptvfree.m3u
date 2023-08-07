@@ -4,6 +4,14 @@
 #EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml.gz
 #EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml
 
+
+
+SPANISH: Latin VIP
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1v9PIDq" tvg-id="ELTRECE.COM" channel-id="ELTRECE.COM" tvg-name="EL Trece Official"  channel-number="" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",Espn Sec Network| HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
 US: USA VIP
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lH0u4Yp.png" tvg-id="ESPN.us" channel-id="ESPN.us" tvg-name="Espn Sec Network"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",Espn Sec Network| HD 720p
